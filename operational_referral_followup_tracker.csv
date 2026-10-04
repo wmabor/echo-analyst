@@ -1,0 +1,1047 @@
+referral_id_clean,client_id_clean,county,chu_name,chw_name,module_clean,facility_name,referral_date_clean,outcome_status,days_since_referral,followup_priority,priority_reason
+R-000217,CL-001881,Kilifi,Kilifi CHU 2,Wairimu Owino,Malnutrition_Screening,Kilifi Referral Health Centre,2025-01-03,not_completed,614,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000633,CL-005939,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malaria_Case,Kisumu Referral Health Centre,2025-01-04,not_completed,613,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000399,CL-003551,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-01-04,unknown,613,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000085,CL-000658,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-01-06,unknown,611,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000904,CL-008635,Bungoma,Bungoma CHU 1,Otieno Kilonzo,Malaria_Case,Bungoma Level 4 Hospital,2025-01-09,not_completed,608,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000994,CL-009599,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-01-11,unknown,606,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000699,CL-006637,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malnutrition_Screening,Kilifi Referral Health Centre,2025-01-14,unknown,603,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000483,CL-004549,Nyeri,Nyeri CHU 3,Otieno Mburu,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-01-15,not_completed,602,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001012,CL-009748,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Referral Health Centre,2025-01-16,not_completed,601,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000390,CL-003401,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-01-25,not_completed,592,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000144,CL-001157,Bungoma,Bungoma CHU 2,Kamau Njoroge,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-01-26,not_completed,591,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000535,CL-005018,Kakamega,Kakamega CHU 3,Chebet Simiyu,Malaria_Case,Kakamega Level 4 Hospital,2025-01-27,not_completed,590,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000740,CL-007124,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-02-03,not_completed,583,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000298,CL-002582,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-02-05,not_completed,581,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000369,CL-003181,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malaria_Case,Nyeri Sub-County Hospital,2025-02-05,not_completed,581,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000492,CL-004614,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malnutrition_Screening,Nyeri Referral Health Centre,2025-02-06,unknown,580,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000601,CL-005623,Kisumu,Kisumu CHU 1,Otieno Simiyu,Malnutrition_Screening,Kisumu Referral Health Centre,2025-02-08,not_completed,578,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001013,CL-009753,Kakamega,Kakamega CHU 1,Kamau Odongo,Malaria_Case,Kakamega Referral Health Centre,2025-02-08,unknown,578,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000089,CL-000683,Kisumu,Kisumu CHU 1,Auma Wanyama,Malnutrition_Screening,Kisumu Referral Health Centre,2025-02-10,unknown,576,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000267,CL-002254,Bungoma,Bungoma CHU 2,Nyambura Mbithi,Malaria_Case,Bungoma Referral Health Centre,2025-02-14,not_completed,572,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001006,CL-009704,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Referral Health Centre,2025-02-16,not_completed,570,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000597,CL-005589,Bungoma,Bungoma CHU 2,,ANC,Bungoma Level 4 Hospital,2025-02-17,not_completed,569,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000212,CL-001856,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,ANC,Nyeri Level 4 Hospital,2025-02-18,not_completed,568,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000082,CL-000649,Kilifi,Kilifi CHU 2,Mwangi Kip,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-02-19,not_completed,567,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000069,CL-000566,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malaria_Case,Kisumu Referral Health Centre,2025-02-20,not_completed,566,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000036,CL-000310,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-02-20,not_completed,566,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000605,CL-005637,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Referral Health Centre,2025-02-21,not_completed,565,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000044,CL-000391,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Level 4 Hospital,2025-02-25,not_completed,561,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000565,CL-005311,Bungoma,Bungoma CHU 2,Nyambura Mbithi,ANC,Bungoma Sub-County Hospital,2025-02-26,not_completed,560,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000386,CL-003361,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Sub-County Hospital,2025-03-04,unknown,554,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000611,CL-005691,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-03-04,not_completed,554,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000603,CL-005627,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-03-05,not_completed,553,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000467,CL-004325,Kilifi,Kilifi CHU 3,Wanjiru Kip,Malaria_Case,Kilifi Referral Health Centre,2025-03-06,unknown,552,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000441,CL-004022,Bungoma,Bungoma CHU 2,Kamau Njoroge,Malaria_Case,Bungoma Sub-County Hospital,2025-03-08,not_completed,550,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000382,CL-003326,Kakamega,Kakamega CHU 1,Wafula Mutiso,PNC,Kakamega Referral Health Centre,2025-03-09,not_completed,549,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000613,CL-005720,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Level 4 Hospital,2025-03-11,not_completed,547,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000950,CL-009167,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malaria_Case,Kakamega Level 4 Hospital,2025-03-11,not_completed,547,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000835,CL-007918,Bungoma,Bungoma CHU 2,Nyambura Mbithi,ANC,Bungoma Referral Health Centre,2025-03-18,unknown,540,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000934,CL-008919,Bungoma,Bungoma CHU 1,Auma Kilonzo,Malaria_Case,Bungoma Level 4 Hospital,2025-03-19,not_completed,539,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000047,CL-000403,Kilifi,Kilifi CHU 2,Kiptoo Wambui,ANC,Kilifi Referral Health Centre,2025-03-21,not_completed,537,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000358,CL-003061,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Level 4 Hospital,2025-03-21,unknown,537,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000607,CL-005659,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Referral Health Centre,2025-03-21,not_completed,537,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000678,CL-006449,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malaria_Case,Kakamega Referral Health Centre,2025-03-22,unknown,536,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000667,CL-006336,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-03-24,not_completed,534,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001027,CL-009917,Kakamega,Kakamega CHU 3,Chebet Simiyu,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-03-24,not_completed,534,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000741,CL-007127,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malaria_Case,Kilifi Level 4 Hospital,2025-03-28,not_completed,530,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000754,CL-007263,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-04-02,not_completed,525,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000488,CL-004581,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Bungoma Referral Health Centre,2025-04-05,not_completed,522,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000290,CL-002516,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malaria_Case,Kakamega Sub-County Hospital,2025-04-05,not_completed,522,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000555,CL-005254,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-04-06,not_completed,521,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000905,CL-008649,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Referral Health Centre,2025-04-07,unknown,520,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000334,CL-002888,Kisumu,Kisumu CHU 2,Nyambura Odongo,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-04-11,not_completed,516,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000920,CL-008772,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-04-13,not_completed,514,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000771,CL-007388,Machakos,Machakos CHU 2,Nafula Kariuki,Malaria_Case,Machakos Sub-County Hospital,2025-04-14,unknown,513,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000299,CL-002587,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Referral Health Centre,2025-04-14,not_completed,513,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000536,CL-005023,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malaria_Case,Kakamega Referral Health Centre,2025-04-14,unknown,513,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000519,CL-004840,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malaria_Case,Kakamega Referral Health Centre,2025-04-15,not_completed,512,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000577,CL-005427,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-04-15,not_completed,512,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000293,CL-002556,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Referral Health Centre,2025-04-18,not_completed,509,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000107,CL-000848,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-04-20,not_completed,507,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000824,CL-007785,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-04-21,unknown,506,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000702,CL-006680,Bungoma,Bungoma CHU 1,Chebet Mbithi,Malaria_Case,Bungoma Referral Health Centre,2025-04-24,not_completed,503,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000203,CL-001767,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Level 4 Hospital,2025-04-24,not_completed,503,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000814,CL-007719,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-04-27,unknown,500,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000647,CL-006083,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-04-27,not_completed,500,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000681,CL-006482,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-05-01,unknown,496,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000405,CL-003579,Bungoma,Bungoma CHU 2,Kamau Njoroge,ANC,Bungoma Sub-County Hospital,2025-05-01,not_completed,496,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000336,CL-002933,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Referral Health Centre,2025-05-04,not_completed,493,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000620,CL-005782,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,PNC,Kakamega Referral Health Centre,2025-05-05,unknown,492,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000942,CL-009063,Bungoma,Bungoma CHU 3,Barasa Wekesa,ANC,Bungoma Sub-County Hospital,2025-05-06,not_completed,491,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000866,CL-008145,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malaria_Case,Bungoma Level 4 Hospital,2025-05-06,not_completed,491,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000558,CL-005260,Kilifi,Kilifi CHU 3,Wairimu Kilonzo,Malaria_Case,Kilifi Referral Health Centre,2025-05-07,not_completed,490,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000627,CL-005870,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-05-09,unknown,488,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000095,CL-000742,Bungoma,Bungoma CHU 1,Chebet Mbithi,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-05-10,not_completed,487,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000207,CL-001801,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Sub-County Hospital,2025-05-13,not_completed,484,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000668,CL-006353,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malaria_Case,Kakamega Level 4 Hospital,2025-05-14,unknown,483,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000245,CL-002076,Kisumu,Kisumu CHU 1,Odhiambo Owino,ANC,Kisumu Sub-County Hospital,2025-05-15,not_completed,482,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000166,CL-001381,Bungoma,Bungoma CHU 2,Nyambura Mbithi,Malaria_Case,Bungoma Referral Health Centre,2025-05-15,unknown,482,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000279,CL-002319,Kisumu,Kisumu CHU 1,Njeri Kariuki,Malaria_Case,Kisumu Sub-County Hospital,2025-05-19,not_completed,478,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000497,CL-004676,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Level 4 Hospital,2025-05-19,not_completed,478,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000394,CL-003463,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-05-19,not_completed,478,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000595,CL-005574,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Referral Health Centre,2025-05-21,not_completed,476,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000220,CL-001939,Nyeri,Nyeri CHU 3,Otieno Mburu,ANC,Nyeri Referral Health Centre,2025-05-21,unknown,476,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000919,CL-008757,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Level 4 Hospital,2025-05-22,not_completed,475,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000766,CL-007346,Kilifi,Kilifi CHU 2,Otieno Njoroge,ANC,Kilifi Level 4 Hospital,2025-05-22,not_completed,475,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000736,CL-007057,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-05-22,not_completed,475,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000294,CL-002556,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Level 4 Hospital,2025-05-23,unknown,474,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000505,CL-004725,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-05-24,not_completed,473,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000987,CL-009522,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malaria_Case,Kakamega Level 4 Hospital,2025-05-25,unknown,472,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000125,CL-000975,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,PNC,Kakamega Referral Health Centre,2025-05-27,unknown,470,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000249,CL-002087,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-05-28,not_completed,469,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000077,CL-000602,Kisumu,Kisumu CHU 1,Njeri Kariuki,Malaria_Case,Kisumu Sub-County Hospital,2025-05-28,not_completed,469,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000855,CL-008079,Kakamega,Kakamega CHU 1,Chebet Kariuki,PNC,Kakamega Level 4 Hospital,2025-06-03,unknown,463,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000132,CL-001070,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malaria_Case,Nyeri Referral Health Centre,2025-06-07,not_completed,459,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000889,CL-008460,Kakamega,Kakamega CHU 1,Kamau Odongo,Malaria_Case,Kakamega Referral Health Centre,2025-06-08,not_completed,458,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000514,CL-004807,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Level 4 Hospital,2025-06-09,not_completed,457,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000948,CL-009114,Bungoma,Bungoma CHU 2,Nyambura Mbithi,Malaria_Case,Bungoma Sub-County Hospital,2025-06-09,not_completed,457,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000711,CL-006801,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Referral Health Centre,2025-06-11,not_completed,455,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000148,CL-001179,Bungoma,Bungoma CHU 1,Auma Kilonzo,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-06-12,unknown,454,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000682,CL-006499,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Referral Health Centre,2025-06-13,not_completed,453,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000152,CL-001251,Nyeri,Nyeri CHU 3,Kamau Odongo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-06-13,not_completed,453,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000140,CL-001127,Kisumu,Kisumu CHU 1,Njeri Kariuki,ANC,Kisumu Referral Health Centre,2025-06-14,not_completed,452,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000463,CL-004265,Machakos,Machakos CHU 2,Nafula Kariuki,PNC,Machakos Level 4 Hospital,2025-06-14,unknown,452,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000879,CL-008312,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-06-15,not_completed,451,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000747,CL-007165,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,ANC,Bungoma Level 4 Hospital,2025-06-17,unknown,449,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000150,CL-001222,Machakos,Machakos CHU 3,Wafula Kilonzo,ANC,Machakos Level 4 Hospital,2025-06-17,not_completed,449,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000562,CL-005281,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malaria_Case,Bungoma Sub-County Hospital,2025-06-17,not_completed,449,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000964,CL-009339,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-06-18,not_completed,448,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001004,CL-009671,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malnutrition_Screening,Kilifi Referral Health Centre,2025-06-19,not_completed,447,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000849,CL-008035,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Referral Health Centre,2025-06-19,unknown,447,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000179,CL-001502,Kisumu,Kisumu CHU 3,Auma Onyango,PNC,Kisumu Referral Health Centre,2025-06-20,not_completed,446,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000200,CL-001743,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-06-22,unknown,444,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000853,CL-008059,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-06-22,unknown,444,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000819,CL-007752,Kakamega,Kakamega CHU 3,Njeri Odongo,Malnutrition_Screening,Kakamega Referral Health Centre,2025-06-24,not_completed,442,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000721,CL-006899,Nyeri,Nyeri CHU 3,Otieno Mburu,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-06-25,not_completed,441,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000675,CL-006415,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,ANC,Bungoma Level 4 Hospital,2025-06-27,not_completed,439,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000395,CL-003487,Bungoma,Bungoma CHU 1,Chebet Mbithi,Malnutrition_Screening,Bungoma Referral Health Centre,2025-07-03,unknown,433,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000061,CL-000510,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-07-09,unknown,427,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000648,CL-006109,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-07-09,not_completed,427,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000720,CL-006871,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Level 4 Hospital,2025-07-11,not_completed,425,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000635,CL-005962,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malnutrition_Screening,Nyeri Referral Health Centre,2025-07-11,unknown,425,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000845,CL-007982,Kilifi,Kilifi CHU 2,Mwangi Kip,Malaria_Case,Kilifi Level 4 Hospital,2025-07-13,not_completed,423,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000956,CL-009294,Kilifi,Kilifi CHU 3,Wairimu Kilonzo,ANC,Kilifi Sub-County Hospital,2025-07-14,not_completed,422,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000793,CL-007595,Kisumu,Kisumu CHU 1,Auma Wanyama,Malaria_Case,Kisumu Referral Health Centre,2025-07-15,not_completed,421,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000367,CL-003158,Kisumu,Kisumu CHU 2,Nyambura Odongo,Malnutrition_Screening,Kisumu Referral Health Centre,2025-07-15,not_completed,421,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000946,CL-009100,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Level 4 Hospital,2025-07-16,not_completed,420,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000659,CL-006215,Machakos,Machakos CHU 2,Nafula Kariuki,ANC,Machakos Level 4 Hospital,2025-07-18,not_completed,418,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000064,CL-000520,Bungoma,Bungoma CHU 1,Chebet Mbithi,ANC,Bungoma Referral Health Centre,2025-07-18,unknown,418,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000828,CL-007850,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Level 4 Hospital,2025-07-18,not_completed,418,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000903,CL-008629,Machakos,Machakos CHU 3,Njeri Mutiso,ANC,Machakos Sub-County Hospital,2025-07-20,not_completed,416,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000073,CL-000598,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Sub-County Hospital,2025-07-20,unknown,416,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000327,CL-002795,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-07-24,not_completed,412,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000161,CL-001354,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-07-24,not_completed,412,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000654,CL-006171,Kisumu,Kisumu CHU 2,Nyambura Odongo,ANC,Kisumu Sub-County Hospital,2025-07-26,not_completed,410,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000097,CL-000774,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-07-27,not_completed,409,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000397,CL-003498,Bungoma,Bungoma CHU 2,Kamau Njoroge,ANC,Bungoma Level 4 Hospital,2025-07-28,not_completed,408,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000717,CL-006854,Kilifi,Kilifi CHU 2,Wairimu Owino,Malnutrition_Screening,Kilifi Referral Health Centre,2025-07-31,not_completed,405,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000496,CL-004668,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Level 4 Hospital,2025-07-31,unknown,405,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000952,CL-009195,Kisumu,Kisumu CHU 3,Otieno Owino,Malnutrition_Screening,Kisumu Level 4 Hospital,2025-08-01,not_completed,404,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000708,CL-006773,Bungoma,Bungoma CHU 1,Wairimu Mburu,PNC,Bungoma Level 4 Hospital,2025-08-03,not_completed,402,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000105,CL-000836,Kakamega,Kakamega CHU 1,Kamau Odongo,Malaria_Case,Kakamega Sub-County Hospital,2025-08-04,not_completed,401,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000383,CL-003331,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Level 4 Hospital,2025-08-06,unknown,399,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000695,CL-006618,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Level 4 Hospital,2025-08-07,not_completed,398,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000922,CL-008776,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Sub-County Hospital,2025-08-08,not_completed,397,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000684,CL-006513,Nyeri,Nyeri CHU 3,Kamau Odongo,ANC,Nyeri Referral Health Centre,2025-08-09,not_completed,396,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000985,CL-009518,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-08-10,unknown,395,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000783,CL-007507,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Level 4 Hospital,2025-08-12,not_completed,393,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000237,CL-002012,Kisumu,Kisumu CHU 1,Njeri Kariuki,Malaria_Case,Kisumu Level 4 Hospital,2025-08-12,not_completed,393,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000244,CL-002071,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Sub-County Hospital,2025-08-14,not_completed,391,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000287,CL-002430,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-08-15,unknown,390,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000117,CL-000918,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,ANC,Nyeri Sub-County Hospital,2025-08-16,not_completed,389,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001014,CL-009755,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Sub-County Hospital,2025-08-16,not_completed,389,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000307,CL-002671,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-08-17,not_completed,388,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000037,CL-000314,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malaria_Case,Nyeri Sub-County Hospital,2025-08-17,unknown,388,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000135,CL-001103,Nyeri,Nyeri CHU 2,Wanjiru Kip,PNC,Nyeri Level 4 Hospital,2025-08-20,unknown,385,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001035,CL-009986,Kakamega,Kakamega CHU 3,Nyambura Kip,ANC,Kakamega Sub-County Hospital,2025-08-22,not_completed,383,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000726,CL-007007,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Referral Health Centre,2025-08-23,not_completed,382,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000272,CL-002295,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Level 4 Hospital,2025-08-24,not_completed,381,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000689,CL-006579,Kisumu,Kisumu CHU 2,Mutua Mburu,ANC,Kisumu Referral Health Centre,2025-08-24,not_completed,381,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000927,CL-008848,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malnutrition_Screening,Nyeri Referral Health Centre,2025-08-29,not_completed,376,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000187,CL-001671,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Referral Health Centre,2025-08-29,not_completed,376,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000404,CL-003573,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Level 4 Hospital,2025-08-30,unknown,375,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000418,CL-003682,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Referral Health Centre,2025-08-31,not_completed,374,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000584,CL-005467,Bungoma,Bungoma CHU 3,Kimani Kariuki,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-09-01,unknown,373,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000377,CL-003262,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Referral Health Centre,2025-09-02,not_completed,372,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000999,CL-009639,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Level 4 Hospital,2025-09-02,unknown,372,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000508,CL-004751,Machakos,Machakos CHU 3,Wafula Kilonzo,ANC,Machakos Referral Health Centre,2025-09-05,not_completed,369,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000302,CL-002621,Nyeri,Nyeri CHU 3,Otieno Mburu,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-09-05,unknown,369,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000016,CL-000164,Kakamega,Kakamega CHU 1,Wafula Mutiso,ANC,Kakamega Referral Health Centre,2025-09-06,not_completed,368,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000830,CL-007860,Kisumu,Kisumu CHU 3,Auma Onyango,ANC,Kisumu Sub-County Hospital,2025-09-06,unknown,368,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000831,CL-007861,Kisumu,Kisumu CHU 3,Kimani Kip,ANC,Kisumu Sub-County Hospital,2025-09-07,unknown,367,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000398,CL-003537,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-09-07,not_completed,367,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000458,CL-004218,Kisumu,Kisumu CHU 3,Otieno Owino,ANC,Kisumu Sub-County Hospital,2025-09-08,not_completed,366,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000968,CL-009364,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-09-08,not_completed,366,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000396,CL-003494,Bungoma,Bungoma CHU 3,Kiptoo Kip,ANC,Bungoma Level 4 Hospital,2025-09-11,not_completed,363,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000988,CL-009535,Kilifi,Kilifi CHU 2,Wairimu Owino,ANC,Kilifi Sub-County Hospital,2025-09-11,not_completed,363,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000779,CL-007460,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Referral Health Centre,2025-09-12,not_completed,362,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000984,CL-009509,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-09-12,not_completed,362,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000468,CL-004325,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malaria_Case,Kilifi Sub-County Hospital,2025-09-12,not_completed,362,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000557,CL-005255,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-09-12,unknown,362,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000178,CL-001495,Nyeri,Nyeri CHU 3,Kamau Odongo,Malaria_Case,Nyeri Level 4 Hospital,2025-09-12,unknown,362,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000933,CL-008903,Nyeri,Nyeri CHU 2,Wanjiru Kip,PNC,Nyeri Sub-County Hospital,2025-09-13,not_completed,361,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000145,CL-001157,Bungoma,Bungoma CHU 2,Kamau Njoroge,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-09-13,not_completed,361,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000593,CL-005550,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Level 4 Hospital,2025-09-14,not_completed,360,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000444,CL-004077,Nyeri,Nyeri CHU 1,Otieno Kilonzo,Malaria_Case,Nyeri Level 4 Hospital,2025-09-14,unknown,360,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000737,CL-007073,Bungoma,Bungoma CHU 2,Chebet Simiyu,ANC,Bungoma Referral Health Centre,2025-09-15,not_completed,359,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000768,CL-007356,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,PNC,Kakamega Referral Health Centre,2025-09-17,not_completed,357,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000612,CL-005691,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Referral Health Centre,2025-09-17,unknown,357,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000332,CL-002870,Machakos,Machakos CHU 3,Wafula Kilonzo,Malnutrition_Screening,Machakos Sub-County Hospital,2025-09-17,not_completed,357,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000500,CL-004683,Machakos,Machakos CHU 2,Nafula Kariuki,PNC,Machakos Level 4 Hospital,2025-09-18,not_completed,356,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000650,CL-006144,Machakos,Machakos CHU 3,Cherono Wambui,ANC,Machakos Referral Health Centre,2025-09-19,not_completed,355,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000826,CL-007809,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Sub-County Hospital,2025-09-19,not_completed,355,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000992,CL-009560,Bungoma,Bungoma CHU 3,Mutua Kip,PNC,Bungoma Sub-County Hospital,2025-09-20,not_completed,354,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001018,CL-009783,Nyeri,Nyeri CHU 3,Otieno Mburu,ANC,Nyeri Level 4 Hospital,2025-09-21,not_completed,353,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000638,CL-005991,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-09-22,not_completed,352,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000546,CL-005142,Bungoma,Bungoma CHU 1,Chebet Mbithi,ANC,Bungoma Level 4 Hospital,2025-09-23,not_completed,351,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000376,CL-003260,Nyeri,Nyeri CHU 1,Achieng Kip,PNC,Nyeri Level 4 Hospital,2025-09-25,not_completed,349,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000282,CL-002373,Kisumu,Kisumu CHU 1,Auma Wanyama,PNC,Kisumu Referral Health Centre,2025-09-25,not_completed,349,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000360,CL-003078,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Sub-County Hospital,2025-09-25,unknown,349,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000133,CL-001075,Nyeri,Nyeri CHU 1,Achieng Kip,ANC,Nyeri Referral Health Centre,2025-09-30,unknown,344,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000598,CL-005615,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-10-02,not_completed,342,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000222,CL-001941,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Referral Health Centre,2025-10-02,unknown,342,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000074,CL-000598,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-10-02,not_completed,342,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000619,CL-005781,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Referral Health Centre,2025-10-03,not_completed,341,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000046,CL-000399,Bungoma,Bungoma CHU 3,Wanjiru Kariuki,Malaria_Case,Bungoma Referral Health Centre,2025-10-03,not_completed,341,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000796,CL-007616,Bungoma,Bungoma CHU 3,Kimani Kariuki,PNC,Bungoma Referral Health Centre,2025-10-04,not_completed,340,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000795,CL-007612,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-10-04,not_completed,340,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000880,CL-008348,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Sub-County Hospital,2025-10-04,not_completed,340,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000645,CL-006048,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-10-06,unknown,338,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000718,CL-006864,Machakos,Machakos CHU 1,Barasa Mutiso,Malnutrition_Screening,Machakos Referral Health Centre,2025-10-06,not_completed,338,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000484,CL-004554,Kakamega,Kakamega CHU 2,Kiplagat Mburu,PNC,Kakamega Sub-County Hospital,2025-10-07,not_completed,337,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000841,CL-007944,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malnutrition_Screening,Kakamega Referral Health Centre,2025-10-08,not_completed,336,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000990,CL-009548,Kakamega,Kakamega CHU 3,Kamau Wambui,ANC,Kakamega Referral Health Centre,2025-10-08,not_completed,336,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000983,CL-009501,Machakos,Machakos CHU 2,Nafula Kariuki,Malnutrition_Screening,Machakos Referral Health Centre,2025-10-09,not_completed,335,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000449,CL-004125,Kisumu,Kisumu CHU 3,Cherono Owino,ANC,Kisumu Sub-County Hospital,2025-10-09,not_completed,335,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000509,CL-004751,Machakos,Machakos CHU 3,Njeri Mutiso,ANC,Machakos Referral Health Centre,2025-10-10,unknown,334,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000723,CL-006908,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Level 4 Hospital,2025-10-12,not_completed,332,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000696,CL-006618,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-10-12,unknown,332,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000848,CL-008033,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malnutrition_Screening,Kilifi Referral Health Centre,2025-10-13,not_completed,331,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000493,CL-004620,Nyeri,Nyeri CHU 3,Otieno Njoroge,PNC,Nyeri Sub-County Hospital,2025-10-14,not_completed,330,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001042,CL-010048,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malnutrition_Screening,Kisumu Level 4 Hospital,2025-10-14,unknown,330,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000198,CL-001729,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-10-20,not_completed,324,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000338,CL-002950,Bungoma,Bungoma CHU 3,Wanjiru Kariuki,PNC,Bungoma Level 4 Hospital,2025-10-21,not_completed,323,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000909,CL-008667,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Sub-County Hospital,2025-10-21,not_completed,323,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000263,CL-002224,Nyeri,Nyeri CHU 1,Achieng Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-10-24,not_completed,320,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000096,CL-000758,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malaria_Case,Bungoma Sub-County Hospital,2025-10-24,unknown,320,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000688,CL-006578,Kisumu,Kisumu CHU 2,Mutua Mburu,ANC,Kisumu Referral Health Centre,2025-10-24,unknown,320,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000487,CL-004581,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malnutrition_Screening,Bungoma Referral Health Centre,2025-10-24,not_completed,320,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000669,CL-006367,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-10-25,unknown,319,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000288,CL-002459,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malaria_Case,Kakamega Referral Health Centre,2025-10-25,not_completed,319,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000516,CL-004813,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Sub-County Hospital,2025-10-26,not_completed,318,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000259,CL-002183,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Sub-County Hospital,2025-10-26,not_completed,318,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000333,CL-002881,Kakamega,Kakamega CHU 1,Kamau Odongo,ANC,Kakamega Sub-County Hospital,2025-10-26,not_completed,318,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000967,CL-009345,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Level 4 Hospital,2025-10-28,not_completed,316,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000765,CL-007343,Kilifi,Kilifi CHU 2,Kiptoo Wambui,ANC,Kilifi Referral Health Centre,2025-10-31,not_completed,313,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000246,CL-002076,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Level 4 Hospital,2025-11-01,unknown,312,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000447,CL-004103,Kisumu,Kisumu CHU 1,Njeri Kariuki,Malaria_Case,Kisumu Referral Health Centre,2025-11-02,not_completed,311,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000431,CL-003846,Bungoma,Bungoma CHU 3,Mutua Kip,ANC,Bungoma Referral Health Centre,2025-11-03,not_completed,310,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000285,CL-002406,Kilifi,Kilifi CHU 2,Mwangi Kip,ANC,Kilifi Sub-County Hospital,2025-11-04,not_completed,309,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000743,CL-007131,Machakos,Machakos CHU 1,Njeri Kariuki,ANC,Machakos Referral Health Centre,2025-11-06,not_completed,307,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000325,CL-002775,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Level 4 Hospital,2025-11-06,not_completed,307,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000373,CL-003233,Nyeri,Nyeri CHU 1,Achieng Kip,ANC,Nyeri Referral Health Centre,2025-11-07,not_completed,306,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000176,CL-001488,Kisumu,Kisumu CHU 3,Otieno Owino,Malaria_Case,Kisumu Referral Health Centre,2025-11-07,not_completed,306,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000758,CL-007291,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-11-09,not_completed,304,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000653,CL-006155,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Referral Health Centre,2025-11-09,unknown,304,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000040,CL-000366,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,Malnutrition_Screening,Kisumu Level 4 Hospital,2025-11-10,not_completed,303,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000010,CL-000044,Kisumu,Kisumu CHU 2,Nyambura Odongo,Malnutrition_Screening,Kisumu Level 4 Hospital,2025-11-11,unknown,302,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000596,CL-005588,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Bungoma Referral Health Centre,2025-11-11,not_completed,302,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000701,CL-006646,Kisumu,Kisumu CHU 2,Mutua Mburu,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-11-11,unknown,302,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000930,CL-008885,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-11-12,not_completed,301,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000962,CL-009333,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malaria_Case,Kakamega Referral Health Centre,2025-11-15,not_completed,298,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001040,CL-010030,Nyeri,Nyeri CHU 2,Nyambura Onyango,PNC,Nyeri Level 4 Hospital,2025-11-15,not_completed,298,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000464,CL-004281,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Referral Health Centre,2025-11-15,not_completed,298,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000924,CL-008805,Kisumu,Kisumu CHU 3,Auma Onyango,Malaria_Case,Kisumu Sub-County Hospital,2025-11-15,not_completed,298,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000202,CL-001745,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Referral Health Centre,2025-11-15,not_completed,298,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000381,CL-003319,Kakamega,Kakamega CHU 3,Kamau Wambui,PNC,Kakamega Sub-County Hospital,2025-11-16,not_completed,297,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000589,CL-005513,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Level 4 Hospital,2025-11-16,not_completed,297,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000744,CL-007134,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-11-17,unknown,296,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000642,CL-006030,Bungoma,Bungoma CHU 2,Nyambura Mbithi,PNC,Bungoma Sub-County Hospital,2025-11-17,unknown,296,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000859,CL-008116,Bungoma,Bungoma CHU 2,Chebet Simiyu,ANC,Bungoma Referral Health Centre,2025-11-17,unknown,296,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000727,CL-007012,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-11-17,not_completed,296,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000836,CL-007921,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Referral Health Centre,2025-11-17,unknown,296,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000807,CL-007688,Nyeri,Nyeri CHU 3,Otieno Mburu,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-11-18,not_completed,295,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000778,CL-007446,Machakos,Machakos CHU 2,Nyambura Njoroge,Malnutrition_Screening,Machakos Level 4 Hospital,2025-11-19,unknown,294,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000361,CL-003131,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malaria_Case,Nyeri Level 4 Hospital,2025-11-19,unknown,294,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000921,CL-008773,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malnutrition_Screening,Kakamega Referral Health Centre,2025-11-21,unknown,292,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000213,CL-001863,Kakamega,Kakamega CHU 3,Nyambura Kip,Malaria_Case,Kakamega Level 4 Hospital,2025-11-21,unknown,292,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000789,CL-007586,Kisumu,Kisumu CHU 1,Odhiambo Owino,Malaria_Case,Kisumu Referral Health Centre,2025-11-23,not_completed,290,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000116,CL-000913,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Sub-County Hospital,2025-11-23,not_completed,290,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000742,CL-007127,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malaria_Case,Kilifi Referral Health Centre,2025-11-23,not_completed,290,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001032,CL-009964,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malaria_Case,Kisumu Level 4 Hospital,2025-11-24,unknown,289,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000406,CL-003580,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Sub-County Hospital,2025-11-24,unknown,289,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000734,CL-007047,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Referral Health Centre,2025-11-24,not_completed,289,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000165,CL-001363,Kilifi,Kilifi CHU 2,Mwangi Kip,ANC,Kilifi Level 4 Hospital,2025-11-28,not_completed,285,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000455,CL-004193,Bungoma,Bungoma CHU 3,Kimani Kariuki,Malaria_Case,Bungoma Sub-County Hospital,2025-11-28,not_completed,285,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001034,CL-009982,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-11-30,not_completed,283,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000982,CL-009498,Machakos,Machakos CHU 1,Nafula Kilonzo,Malnutrition_Screening,Machakos Referral Health Centre,2025-12-03,not_completed,280,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-001033,CL-009976,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-12-04,not_completed,279,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000129,CL-001016,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-12-07,not_completed,276,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000221,CL-001939,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Level 4 Hospital,2025-12-08,not_completed,275,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000506,CL-004728,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malaria_Case,Kakamega Referral Health Centre,2025-12-11,not_completed,272,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000321,CL-002769,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malaria_Case,Kilifi Referral Health Centre,2025-12-12,not_completed,271,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000861,CL-008128,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malaria_Case,Kilifi Sub-County Hospital,2025-12-13,not_completed,270,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000572,CL-005402,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malaria_Case,Kisumu Sub-County Hospital,2025-12-14,not_completed,269,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000872,CL-008219,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-12-17,not_completed,266,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000410,CL-003629,Machakos,Machakos CHU 3,Wafula Kilonzo,Malaria_Case,Machakos Level 4 Hospital,2025-12-18,unknown,265,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000730,CL-007039,Kilifi,Kilifi CHU 2,Mwangi Kip,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-12-18,unknown,265,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000756,CL-007265,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-12-18,unknown,265,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000489,CL-004597,Kisumu,Kisumu CHU 3,Otieno Owino,ANC,Kisumu Sub-County Hospital,2025-12-19,not_completed,264,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000578,CL-005449,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-12-21,not_completed,262,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000623,CL-005807,Nyeri,Nyeri CHU 3,Kamau Odongo,Malaria_Case,Nyeri Level 4 Hospital,2025-12-23,unknown,260,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000038,CL-000316,Nyeri,Nyeri CHU 1,Achieng Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-12-24,not_completed,259,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000314,CL-002718,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Sub-County Hospital,2025-12-24,unknown,259,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000540,CL-005087,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malnutrition_Screening,Kisumu Referral Health Centre,2025-12-26,not_completed,257,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000270,CL-002260,Kilifi,Kilifi CHU 2,Otieno Njoroge,ANC,Kilifi Level 4 Hospital,2025-12-28,not_completed,255,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000656,CL-006188,Kilifi,Kilifi CHU 2,Wairimu Owino,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-12-31,not_completed,252,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000304,CL-002628,Machakos,Machakos CHU 3,Wafula Kilonzo,Malnutrition_Screening,Machakos Sub-County Hospital,2025-12-31,not_completed,252,High,Outcome unresolved or referral not completed; referral older than 14 days
+R-000501,CL-004698,Nyeri,Nyeri CHU 3,Otieno Njoroge,PNC,Nyeri Sub-County Hospital,2025-01-03,completed,614,Low,; referral older than 14 days
+R-000339,CL-002955,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-01-03,completed,614,Low,; referral older than 14 days
+R-000979,CL-009485,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Referral Health Centre,2025-01-04,completed,613,Low,; referral older than 14 days
+R-000233,CL-002000,Bungoma,Bungoma CHU 3,Wanjiru Kariuki,ANC,Bungoma Sub-County Hospital,2025-01-04,completed,613,Low,; referral older than 14 days
+R-001045,CL-010095,Nyeri,Nyeri CHU 1,Otieno Kilonzo,ANC,Nyeri Level 4 Hospital,2025-01-04,completed,613,Low,; referral older than 14 days
+R-000885,CL-008416,Kilifi,Kilifi CHU 2,Otieno Njoroge,ANC,Kilifi Referral Health Centre,2025-01-04,completed,613,Low,; referral older than 14 days
+R-000953,CL-009216,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-01-06,completed,611,Low,; referral older than 14 days
+R-000556,CL-005255,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Sub-County Hospital,2025-01-06,completed,611,Low,; referral older than 14 days
+R-000969,CL-009392,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Referral Health Centre,2025-01-07,completed,610,Low,; referral older than 14 days
+R-000522,CL-004898,Bungoma,Bungoma CHU 2,Kamau Njoroge,Malaria_Case,Bungoma Referral Health Centre,2025-01-07,completed,610,Low,; referral older than 14 days
+R-000842,CL-007944,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malaria_Case,Kakamega Referral Health Centre,2025-01-08,completed,609,Low,; referral older than 14 days
+R-000679,CL-006462,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Level 4 Hospital,2025-01-09,completed,608,Low,; referral older than 14 days
+R-000746,CL-007163,Nyeri,Nyeri CHU 2,Wanjiru Odongo,PNC,Nyeri Referral Health Centre,2025-01-10,n/a,607,Low,; referral older than 14 days
+R-000437,CL-003933,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-01-11,completed,606,Low,; referral older than 14 days
+R-000621,CL-005786,Machakos,Machakos CHU 1,Barasa Mutiso,PNC,Machakos Level 4 Hospital,2025-01-17,completed,600,Low,; referral older than 14 days
+R-000788,CL-007581,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Sub-County Hospital,2025-01-17,completed,600,Low,; referral older than 14 days
+R-000749,CL-007200,Machakos,Machakos CHU 3,Njeri Mutiso,Malaria_Case,Machakos Sub-County Hospital,2025-01-18,completed,599,Low,; referral older than 14 days
+R-000438,CL-003952,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malaria_Case,Kakamega Referral Health Centre,2025-01-19,completed,598,Low,; referral older than 14 days
+R-000806,CL-007683,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-01-19,completed,598,Low,; referral older than 14 days
+R-000665,CL-006316,Nyeri,Nyeri CHU 1,Otieno Kilonzo,ANC,Nyeri Referral Health Centre,2025-01-20,completed,597,Low,; referral older than 14 days
+R-000482,CL-004549,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Referral Health Centre,2025-01-21,completed,596,Low,; referral older than 14 days
+R-000027,CL-000279,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-01-22,completed,595,Low,; referral older than 14 days
+R-000550,CL-005194,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malnutrition_Screening,Kisumu Referral Health Centre,2025-01-22,completed,595,Low,; referral older than 14 days
+R-000184,CL-001589,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-01-22,n/a,595,Low,; referral older than 14 days
+R-000335,CL-002909,Bungoma,Bungoma CHU 3,Barasa Wekesa,Malaria_Case,Bungoma Referral Health Centre,2025-01-23,completed,594,Low,; referral older than 14 days
+R-001028,CL-009918,Kakamega,Kakamega CHU 3,Njeri Odongo,Malaria_Case,Kakamega Referral Health Centre,2025-01-23,completed,594,Low,; referral older than 14 days
+R-000368,CL-003176,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Referral Health Centre,2025-01-24,completed,593,Low,; referral older than 14 days
+R-000685,CL-006535,Machakos,Machakos CHU 2,Nyambura Njoroge,Malaria_Case,Machakos Level 4 Hospital,2025-01-24,completed,593,Low,; referral older than 14 days
+R-000429,CL-003837,Kisumu,Kisumu CHU 1,Odhiambo Owino,Malnutrition_Screening,Kisumu Referral Health Centre,2025-01-27,completed,590,Low,; referral older than 14 days
+R-000729,CL-007022,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-01-28,na,589,Low,; referral older than 14 days
+R-000432,CL-003847,Bungoma,Bungoma CHU 3,Kimani Kariuki,ANC,Bungoma Level 4 Hospital,2025-01-28,completed,589,Low,; referral older than 14 days
+R-000531,CL-004995,Bungoma,Bungoma CHU 3,Kimani Kariuki,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-01-28,completed,589,Low,; referral older than 14 days
+R-000961,CL-009324,Bungoma,Bungoma CHU 1,Otieno Kilonzo,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-01-30,completed,587,Low,; referral older than 14 days
+R-000906,CL-008651,Kakamega,Kakamega CHU 3,Nyambura Kip,PNC,Kakamega Referral Health Centre,2025-01-30,na,587,Low,; referral older than 14 days
+R-000532,CL-005003,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Level 4 Hospital,2025-02-01,completed,585,Low,; referral older than 14 days
+R-000512,CL-004804,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-02-02,completed,584,Low,; referral older than 14 days
+R-000454,CL-004181,Machakos,Machakos CHU 1,Nafula Onyango,Malnutrition_Screening,Machakos Level 4 Hospital,2025-02-02,completed,584,Low,; referral older than 14 days
+R-000168,CL-001415,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Referral Health Centre,2025-02-05,na,581,Low,; referral older than 14 days
+R-000604,CL-005635,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Referral Health Centre,2025-02-07,completed,579,Low,; referral older than 14 days
+R-000902,CL-008620,Machakos,Machakos CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Machakos Level 4 Hospital,2025-02-07,completed,579,Low,; referral older than 14 days
+R-000137,CL-001117,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malaria_Case,Kakamega Level 4 Hospital,2025-02-08,completed,578,Low,; referral older than 14 days
+R-000192,CL-001686,Kakamega,Kakamega CHU 3,Njeri Odongo,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-02-09,completed,577,Low,; referral older than 14 days
+R-000286,CL-002416,Bungoma,Bungoma CHU 2,Nyambura Mbithi,Malaria_Case,Bungoma Sub-County Hospital,2025-02-14,na,572,Low,; referral older than 14 days
+R-000794,CL-007608,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malaria_Case,Kisumu Sub-County Hospital,2025-02-14,completed,572,Low,; referral older than 14 days
+R-000790,CL-007590,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malaria_Case,Bungoma Sub-County Hospital,2025-02-14,completed,572,Low,; referral older than 14 days
+R-000513,CL-004807,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-02-15,completed,571,Low,; referral older than 14 days
+R-000276,CL-002311,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,PNC,Kisumu Referral Health Centre,2025-02-16,completed,570,Low,; referral older than 14 days
+R-000530,CL-004987,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malaria_Case,Kisumu Level 4 Hospital,2025-02-17,completed,569,Low,; referral older than 14 days
+R-000088,CL-000675,Kisumu,Kisumu CHU 3,Auma Onyango,ANC,Kisumu Level 4 Hospital,2025-02-18,completed,568,Low,; referral older than 14 days
+R-000954,CL-009216,Kisumu,Kisumu CHU 1,Odhiambo Owino,Malaria_Case,Kisumu Referral Health Centre,2025-02-19,completed,567,Low,; referral older than 14 days
+R-000896,CL-008568,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Referral Health Centre,2025-02-20,completed,566,Low,; referral older than 14 days
+R-000876,CL-008260,Kisumu,Kisumu CHU 2,Nyambura Odongo,Malaria_Case,Kisumu Level 4 Hospital,2025-02-21,completed,565,Low,; referral older than 14 days
+R-000735,CL-007055,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Level 4 Hospital,2025-02-22,completed,564,Low,; referral older than 14 days
+R-000370,CL-003208,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Level 4 Hospital,2025-02-22,completed,564,Low,; referral older than 14 days
+R-001000,CL-009654,Kakamega,Kakamega CHU 1,Nyambura Wekesa,ANC,Kakamega Level 4 Hospital,2025-02-23,completed,563,Low,; referral older than 14 days
+R-000181,CL-001534,Bungoma,Bungoma CHU 3,Mutua Kip,ANC,Bungoma Sub-County Hospital,2025-02-23,completed,563,Low,; referral older than 14 days
+R-000006,CL-000025,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Sub-County Hospital,2025-02-24,completed,562,Low,; referral older than 14 days
+R-000738,CL-007087,Kilifi,Kilifi CHU 2,Mwangi Kip,Malaria_Case,Kilifi Sub-County Hospital,2025-02-25,completed,561,Low,; referral older than 14 days
+R-000051,CL-000450,Kisumu,Kisumu CHU 3,Auma Onyango,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-02-26,completed,560,Low,; referral older than 14 days
+R-000457,CL-004209,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malnutrition_Screening,Kisumu Referral Health Centre,2025-02-26,completed,560,Low,; referral older than 14 days
+R-000108,CL-000848,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malaria_Case,Kakamega Level 4 Hospital,2025-03-02,completed,556,Low,; referral older than 14 days
+R-000319,CL-002755,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Sub-County Hospital,2025-03-03,completed,555,Low,; referral older than 14 days
+R-000469,CL-004327,Bungoma,Bungoma CHU 3,Kimani Kariuki,Malaria_Case,Bungoma Level 4 Hospital,2025-03-03,completed,555,Low,; referral older than 14 days
+R-000278,CL-002312,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malnutrition_Screening,Kisumu Referral Health Centre,2025-03-04,completed,554,Low,; referral older than 14 days
+R-000683,CL-006504,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Referral Health Centre,2025-03-04,completed,554,Low,; referral older than 14 days
+R-000804,CL-007679,Bungoma,Bungoma CHU 3,Kiptoo Kip,Malaria_Case,Bungoma Level 4 Hospital,2025-03-04,completed,554,Low,; referral older than 14 days
+R-000452,CL-004160,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malaria_Case,Kisumu Sub-County Hospital,2025-03-07,completed,551,Low,; referral older than 14 days
+R-000791,CL-007593,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,Malaria_Case,Kisumu Sub-County Hospital,2025-03-08,completed,550,Low,; referral older than 14 days
+R-000055,CL-000474,Kakamega,Kakamega CHU 1,Kamau Odongo,ANC,Kakamega Level 4 Hospital,2025-03-10,completed,548,Low,; referral older than 14 days
+R-000154,CL-001253,Bungoma,Bungoma CHU 1,Otieno Kilonzo,ANC,Bungoma Sub-County Hospital,2025-03-10,completed,548,Low,; referral older than 14 days
+R-000363,CL-003148,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Sub-County Hospital,2025-03-10,completed,548,Low,; referral older than 14 days
+R-000865,CL-008145,Bungoma,Bungoma CHU 1,Chebet Mbithi,Malaria_Case,Bungoma Sub-County Hospital,2025-03-10,completed,548,Low,; referral older than 14 days
+R-000280,CL-002343,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-03-10,completed,548,Low,; referral older than 14 days
+R-000868,CL-008189,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Level 4 Hospital,2025-03-11,completed,547,Low,; referral older than 14 days
+R-000622,CL-005799,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-03-12,n/a,546,Low,; referral older than 14 days
+R-000066,CL-000540,Bungoma,Bungoma CHU 1,Auma Kilonzo,Malaria_Case,Bungoma Referral Health Centre,2025-03-12,completed,546,Low,; referral older than 14 days
+R-000393,CL-003455,Nyeri,Nyeri CHU 2,Wanjiru Odongo,PNC,Nyeri Level 4 Hospital,2025-03-12,completed,546,Low,; referral older than 14 days
+R-000460,CL-004250,Bungoma,Bungoma CHU 2,Nyambura Mbithi,ANC,Bungoma Referral Health Centre,2025-03-14,completed,544,Low,; referral older than 14 days
+R-000277,CL-002312,Kisumu,Kisumu CHU 2,Mutua Mburu,Malnutrition_Screening,Kisumu Referral Health Centre,2025-03-14,completed,544,Low,; referral older than 14 days
+R-000400,CL-003554,Bungoma,Bungoma CHU 3,Barasa Wekesa,PNC,Bungoma Sub-County Hospital,2025-03-15,completed,543,Low,; referral older than 14 days
+R-001029,CL-009940,Kakamega,Kakamega CHU 3,Nyambura Kip,PNC,Kakamega Referral Health Centre,2025-03-16,completed,542,Low,; referral older than 14 days
+R-000421,CL-003753,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malaria_Case,Kilifi Referral Health Centre,2025-03-16,completed,542,Low,; referral older than 14 days
+R-000155,CL-001281,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-03-16,completed,542,Low,; referral older than 14 days
+R-000634,CL-005945,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Level 4 Hospital,2025-03-18,na,540,Low,; referral older than 14 days
+R-000798,CL-007657,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Referral Health Centre,2025-03-18,completed,540,Low,; referral older than 14 days
+R-000164,CL-001360,Bungoma,Bungoma CHU 3,Barasa Wekesa,Malnutrition_Screening,Bungoma Referral Health Centre,2025-03-20,completed,538,Low,; referral older than 14 days
+R-000745,CL-007158,Machakos,Machakos CHU 1,Barasa Mutiso,Malnutrition_Screening,Machakos Referral Health Centre,2025-03-20,completed,538,Low,; referral older than 14 days
+R-000053,CL-000456,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Level 4 Hospital,2025-03-20,completed,538,Low,; referral older than 14 days
+R-000499,CL-004678,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Level 4 Hospital,2025-03-21,completed,537,Low,; referral older than 14 days
+R-000908,CL-008665,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Sub-County Hospital,2025-03-21,completed,537,Low,; referral older than 14 days
+R-000875,CL-008259,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Level 4 Hospital,2025-03-21,completed,537,Low,; referral older than 14 days
+R-000943,CL-009070,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Referral Health Centre,2025-03-21,completed,537,Low,; referral older than 14 days
+R-000446,CL-004089,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Sub-County Hospital,2025-03-22,completed,536,Low,; referral older than 14 days
+R-000917,CL-008752,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-03-22,completed,536,Low,; referral older than 14 days
+R-000147,CL-001178,Bungoma,Bungoma CHU 1,Otieno Kilonzo,ANC,Bungoma Referral Health Centre,2025-03-23,completed,535,Low,; referral older than 14 days
+R-000539,CL-005070,Machakos,Machakos CHU 3,Wafula Kilonzo,Malaria_Case,Machakos Referral Health Centre,2025-03-23,completed,535,Low,; referral older than 14 days
+R-000551,CL-005201,Bungoma,Bungoma CHU 2,Chebet Simiyu,ANC,Bungoma Level 4 Hospital,2025-03-23,completed,535,Low,; referral older than 14 days
+R-000172,CL-001460,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Sub-County Hospital,2025-03-24,completed,534,Low,; referral older than 14 days
+R-000297,CL-002581,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Level 4 Hospital,2025-03-25,completed,533,Low,; referral older than 14 days
+R-000820,CL-007752,Kakamega,Kakamega CHU 3,Chebet Simiyu,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-03-25,n/a,533,Low,; referral older than 14 days
+R-000054,CL-000461,Machakos,Machakos CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Machakos Referral Health Centre,2025-03-26,completed,532,Low,; referral older than 14 days
+R-000401,CL-003556,Bungoma,Bungoma CHU 3,Kiptoo Kip,Malaria_Case,Bungoma Level 4 Hospital,2025-03-27,completed,531,Low,; referral older than 14 days
+R-000728,CL-007015,Nyeri,Nyeri CHU 3,Kamau Odongo,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-03-28,completed,530,Low,; referral older than 14 days
+R-000709,CL-006776,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-03-29,completed,529,Low,; referral older than 14 days
+R-000839,CL-007933,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-03-31,completed,527,Low,; referral older than 14 days
+R-000465,CL-004290,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Referral Health Centre,2025-04-01,completed,526,Low,; referral older than 14 days
+R-000639,CL-005998,Kilifi,Kilifi CHU 2,Mwangi Kip,Malaria_Case,Kilifi Referral Health Centre,2025-04-03,completed,524,Low,; referral older than 14 days
+R-000191,CL-001677,Nyeri,Nyeri CHU 3,Kamau Odongo,Malaria_Case,Nyeri Referral Health Centre,2025-04-03,completed,524,Low,; referral older than 14 days
+R-000833,CL-007890,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malaria_Case,Kilifi Level 4 Hospital,2025-04-03,completed,524,Low,; referral older than 14 days
+R-000570,CL-005392,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Level 4 Hospital,2025-04-04,completed,523,Low,; referral older than 14 days
+R-000713,CL-006828,Bungoma,Bungoma CHU 1,Otieno Kilonzo,ANC,Bungoma Level 4 Hospital,2025-04-04,completed,523,Low,; referral older than 14 days
+R-000767,CL-007354,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malaria_Case,Kakamega Sub-County Hospital,2025-04-04,completed,523,Low,; referral older than 14 days
+R-000583,CL-005463,Bungoma,Bungoma CHU 3,Kimani Kariuki,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-04-05,na,522,Low,; referral older than 14 days
+R-000310,CL-002682,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Level 4 Hospital,2025-04-05,completed,522,Low,; referral older than 14 days
+R-000193,CL-001690,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Sub-County Hospital,2025-04-06,completed,521,Low,; referral older than 14 days
+R-000609,CL-005681,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Level 4 Hospital,2025-04-06,completed,521,Low,; referral older than 14 days
+R-000892,CL-008498,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Sub-County Hospital,2025-04-08,completed,519,Low,; referral older than 14 days
+R-000886,CL-008438,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malaria_Case,Kilifi Referral Health Centre,2025-04-09,completed,518,Low,; referral older than 14 days
+R-000655,CL-006177,Bungoma,Bungoma CHU 2,Nyambura Mbithi,PNC,Bungoma Referral Health Centre,2025-04-09,completed,518,Low,; referral older than 14 days
+R-000785,CL-007537,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Referral Health Centre,2025-04-09,na,518,Low,; referral older than 14 days
+R-000260,CL-002198,Bungoma,Bungoma CHU 2,Chebet Simiyu,ANC,Bungoma Level 4 Hospital,2025-04-10,completed,517,Low,; referral older than 14 days
+R-000323,CL-002774,Kisumu,Kisumu CHU 1,Odhiambo Owino,ANC,Kisumu Sub-County Hospital,2025-04-10,completed,517,Low,; referral older than 14 days
+R-000078,CL-000622,Machakos,Machakos CHU 2,Wairimu Kilonzo,Malaria_Case,Machakos Referral Health Centre,2025-04-11,completed,516,Low,; referral older than 14 days
+R-000439,CL-003966,Kisumu,Kisumu CHU 1,Njeri Kariuki,Malnutrition_Screening,Kisumu Level 4 Hospital,2025-04-11,completed,516,Low,; referral older than 14 days
+R-000344,CL-002973,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malaria_Case,Kakamega Level 4 Hospital,2025-04-13,completed,514,Low,; referral older than 14 days
+R-000422,CL-003778,Machakos,Machakos CHU 2,Wairimu Kilonzo,ANC,Machakos Sub-County Hospital,2025-04-13,completed,514,Low,; referral older than 14 days
+R-000548,CL-005189,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Sub-County Hospital,2025-04-14,completed,513,Low,; referral older than 14 days
+R-000424,CL-003797,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,ANC,Nyeri Sub-County Hospital,2025-04-14,completed,513,Low,; referral older than 14 days
+R-000225,CL-001962,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-04-15,completed,512,Low,; referral older than 14 days
+R-000201,CL-001745,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Referral Health Centre,2025-04-16,completed,511,Low,; referral older than 14 days
+R-000815,CL-007722,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,ANC,Nyeri Level 4 Hospital,2025-04-16,completed,511,Low,; referral older than 14 days
+R-001017,CL-009773,Bungoma,Bungoma CHU 3,Kimani Kariuki,Malaria_Case,Bungoma Referral Health Centre,2025-04-16,completed,511,Low,; referral older than 14 days
+R-000490,CL-004607,Machakos,Machakos CHU 2,Nafula Mburu,Malnutrition_Screening,Machakos Sub-County Hospital,2025-04-17,completed,510,Low,; referral older than 14 days
+R-000568,CL-005376,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,ANC,Kisumu Referral Health Centre,2025-04-17,completed,510,Low,; referral older than 14 days
+R-000157,CL-001309,Bungoma,Bungoma CHU 3,Kimani Kariuki,ANC,Bungoma Referral Health Centre,2025-04-17,na,510,Low,; referral older than 14 days
+R-000762,CL-007317,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Level 4 Hospital,2025-04-18,completed,509,Low,; referral older than 14 days
+R-000751,CL-007207,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malaria_Case,Kakamega Sub-County Hospital,2025-04-18,completed,509,Low,; referral older than 14 days
+R-000649,CL-006128,Bungoma,Bungoma CHU 3,Wanjiru Kariuki,Malnutrition_Screening,Bungoma Referral Health Centre,2025-04-18,completed,509,Low,; referral older than 14 days
+R-000816,CL-007733,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malaria_Case,Bungoma Sub-County Hospital,2025-04-19,completed,508,Low,; referral older than 14 days
+R-000248,CL-002077,Kisumu,Kisumu CHU 1,Auma Wanyama,Malaria_Case,Kisumu Referral Health Centre,2025-04-19,completed,508,Low,; referral older than 14 days
+R-000910,CL-008668,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malnutrition_Screening,Kilifi Referral Health Centre,2025-04-20,completed,507,Low,; referral older than 14 days
+R-000041,CL-000379,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-04-20,completed,507,Low,; referral older than 14 days
+R-000355,CL-003046,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malaria_Case,Kilifi Sub-County Hospital,2025-04-20,completed,507,Low,; referral older than 14 days
+R-000752,CL-007233,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Level 4 Hospital,2025-04-21,completed,506,Low,; referral older than 14 days
+R-000029,CL-000289,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malaria_Case,Kakamega Level 4 Hospital,2025-04-21,completed,506,Low,; referral older than 14 days
+R-000941,CL-009056,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malaria_Case,Kilifi Referral Health Centre,2025-04-21,completed,506,Low,; referral older than 14 days
+R-000098,CL-000776,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Referral Health Centre,2025-04-22,completed,505,Low,; referral older than 14 days
+R-000873,CL-008242,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Sub-County Hospital,2025-04-22,completed,505,Low,; referral older than 14 days
+R-000471,CL-004364,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-04-22,n/a,505,Low,; referral older than 14 days
+R-000017,CL-000180,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Level 4 Hospital,2025-04-22,completed,505,Low,; referral older than 14 days
+R-000226,CL-001978,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-04-22,completed,505,Low,; referral older than 14 days
+R-000782,CL-007495,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-04-23,completed,504,Low,; referral older than 14 days
+R-000817,CL-007734,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malaria_Case,Bungoma Referral Health Centre,2025-04-23,completed,504,Low,; referral older than 14 days
+R-000731,CL-007040,Kilifi,Kilifi CHU 2,Otieno Njoroge,ANC,Kilifi Referral Health Centre,2025-04-23,completed,504,Low,; referral older than 14 days
+R-000018,CL-000196,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Sub-County Hospital,2025-04-24,completed,503,Low,; referral older than 14 days
+R-000175,CL-001486,Bungoma,Bungoma CHU 3,Mutua Kip,PNC,Bungoma Referral Health Centre,2025-04-24,completed,503,Low,; referral older than 14 days
+R-000887,CL-008448,Kilifi,Kilifi CHU 3,Wairimu Kilonzo,Malaria_Case,Kilifi Sub-County Hospital,2025-04-25,completed,502,Low,; referral older than 14 days
+R-000427,CL-003809,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Sub-County Hospital,2025-04-26,completed,501,Low,; referral older than 14 days
+R-000021,CL-000244,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-04-26,completed,501,Low,; referral older than 14 days
+R-000067,CL-000541,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Referral Health Centre,2025-04-27,completed,500,Low,; referral older than 14 days
+R-000388,CL-003387,Kakamega,Kakamega CHU 3,Nyambura Kip,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-04-27,n/a,500,Low,; referral older than 14 days
+R-001041,CL-010033,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Sub-County Hospital,2025-04-28,completed,499,Low,; referral older than 14 days
+R-000101,CL-000781,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Sub-County Hospital,2025-04-28,n/a,499,Low,; referral older than 14 days
+R-000340,CL-002958,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Referral Health Centre,2025-04-29,completed,498,Low,; referral older than 14 days
+R-000354,CL-003037,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-04-30,completed,497,Low,; referral older than 14 days
+R-000829,CL-007860,Kisumu,Kisumu CHU 3,Cherono Owino,ANC,Kisumu Referral Health Centre,2025-04-30,completed,497,Low,; referral older than 14 days
+R-000351,CL-003011,Kisumu,Kisumu CHU 1,Otieno Simiyu,ANC,Kisumu Referral Health Centre,2025-05-01,completed,496,Low,; referral older than 14 days
+R-000359,CL-003064,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-05-02,completed,495,Low,; referral older than 14 days
+R-000937,CL-009006,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-05-02,completed,495,Low,; referral older than 14 days
+R-000526,CL-004964,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-05-03,completed,494,Low,; referral older than 14 days
+R-000846,CL-007986,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Level 4 Hospital,2025-05-03,completed,494,Low,; referral older than 14 days
+R-000255,CL-002153,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Referral Health Centre,2025-05-03,na,494,Low,; referral older than 14 days
+R-000114,CL-000894,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-05-04,completed,493,Low,; referral older than 14 days
+R-000646,CL-006065,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malaria_Case,Kakamega Level 4 Hospital,2025-05-04,completed,493,Low,; referral older than 14 days
+R-001031,CL-009950,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Referral Health Centre,2025-05-07,completed,490,Low,; referral older than 14 days
+R-000564,CL-005292,Machakos,Machakos CHU 3,Njeri Mutiso,Malaria_Case,Machakos Referral Health Centre,2025-05-08,completed,489,Low,; referral older than 14 days
+R-000674,CL-006411,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Referral Health Centre,2025-05-08,completed,489,Low,; referral older than 14 days
+R-000881,CL-008378,Kakamega,Kakamega CHU 3,Njeri Odongo,Malaria_Case,Kakamega Level 4 Hospital,2025-05-08,completed,489,Low,; referral older than 14 days
+R-000877,CL-008290,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Referral Health Centre,2025-05-08,completed,489,Low,; referral older than 14 days
+R-000005,CL-000024,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-05-09,completed,488,Low,; referral older than 14 days
+R-000241,CL-002052,Kisumu,Kisumu CHU 2,Nyambura Odongo,Malaria_Case,Kisumu Referral Health Centre,2025-05-09,completed,488,Low,; referral older than 14 days
+R-000776,CL-007424,Nyeri,Nyeri CHU 1,Achieng Kip,Malaria_Case,Nyeri Referral Health Centre,2025-05-10,completed,487,Low,; referral older than 14 days
+R-001022,CL-009864,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malaria_Case,Kakamega Level 4 Hospital,2025-05-10,completed,487,Low,; referral older than 14 days
+R-000520,CL-004875,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Level 4 Hospital,2025-05-10,completed,487,Low,; referral older than 14 days
+R-000690,CL-006587,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Referral Health Centre,2025-05-11,completed,486,Low,; referral older than 14 days
+R-000311,CL-002694,Nyeri,Nyeri CHU 3,Otieno Mburu,ANC,Nyeri Level 4 Hospital,2025-05-11,completed,486,Low,; referral older than 14 days
+R-001001,CL-009661,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Referral Health Centre,2025-05-11,completed,486,Low,; referral older than 14 days
+R-000553,CL-005218,Kakamega,Kakamega CHU 3,Kamau Wambui,PNC,Kakamega Level 4 Hospital,2025-05-12,completed,485,Low,; referral older than 14 days
+R-000232,CL-001999,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Level 4 Hospital,2025-05-13,completed,484,Low,; referral older than 14 days
+R-000209,CL-001817,Kisumu,Kisumu CHU 3,Otieno Owino,Malnutrition_Screening,Kisumu Level 4 Hospital,2025-05-13,completed,484,Low,; referral older than 14 days
+R-000261,CL-002213,Kakamega,Kakamega CHU 3,Kamau Wambui,ANC,Kakamega Sub-County Hospital,2025-05-13,completed,484,Low,; referral older than 14 days
+R-000913,CL-008688,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malnutrition_Screening,Bungoma Referral Health Centre,2025-05-14,completed,483,Low,; referral older than 14 days
+R-000281,CL-002361,Kisumu,Kisumu CHU 2,Adhiambo Odongo,ANC,Kisumu Level 4 Hospital,2025-05-14,completed,483,Low,; referral older than 14 days
+R-000121,CL-000962,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-05-14,completed,483,Low,; referral older than 14 days
+R-000392,CL-003440,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Sub-County Hospital,2025-05-14,completed,483,Low,; referral older than 14 days
+R-000342,CL-002966,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-05-15,completed,482,Low,; referral older than 14 days
+R-000062,CL-000515,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Referral Health Centre,2025-05-16,n/a,481,Low,; referral older than 14 days
+R-000629,CL-005901,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Sub-County Hospital,2025-05-16,completed,481,Low,; referral older than 14 days
+R-000912,CL-008687,Bungoma,Bungoma CHU 3,Kiptoo Kip,Malaria_Case,Bungoma Sub-County Hospital,2025-05-16,na,481,Low,; referral older than 14 days
+R-000663,CL-006293,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Level 4 Hospital,2025-05-17,completed,480,Low,; referral older than 14 days
+R-000810,CL-007701,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malaria_Case,Kisumu Referral Health Centre,2025-05-17,n/a,480,Low,; referral older than 14 days
+R-000631,CL-005924,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Referral Health Centre,2025-05-18,completed,479,Low,; referral older than 14 days
+R-000346,CL-002991,Nyeri,Nyeri CHU 1,Otieno Kilonzo,Malaria_Case,Nyeri Level 4 Hospital,2025-05-18,completed,479,Low,; referral older than 14 days
+R-000308,CL-002677,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Referral Health Centre,2025-05-19,completed,478,Low,; referral older than 14 days
+R-000258,CL-002177,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-05-19,completed,478,Low,; referral older than 14 days
+R-000907,CL-008660,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Referral Health Centre,2025-05-20,na,477,Low,; referral older than 14 days
+R-000001,CL-000017,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,PNC,Nyeri Referral Health Centre,2025-05-20,completed,477,Low,; referral older than 14 days
+R-000673,CL-006397,Nyeri,Nyeri CHU 3,Kamau Odongo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-05-20,completed,477,Low,; referral older than 14 days
+R-000190,CL-001676,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Level 4 Hospital,2025-05-21,completed,476,Low,; referral older than 14 days
+R-000732,CL-007040,Kilifi,Kilifi CHU 2,Otieno Njoroge,ANC,Kilifi Level 4 Hospital,2025-05-21,completed,476,Low,; referral older than 14 days
+R-000939,CL-009036,Machakos,Machakos CHU 2,Nyambura Njoroge,Malnutrition_Screening,Machakos Referral Health Centre,2025-05-21,completed,476,Low,; referral older than 14 days
+R-000229,CL-001985,Machakos,Machakos CHU 1,Njeri Kariuki,ANC,Machakos Referral Health Centre,2025-05-22,completed,475,Low,; referral older than 14 days
+R-000442,CL-004053,Kilifi,Kilifi CHU 2,Mwangi Kip,Malaria_Case,Kilifi Level 4 Hospital,2025-05-22,n/a,475,Low,; referral older than 14 days
+R-000951,CL-009175,Machakos,Machakos CHU 2,Nyambura Njoroge,PNC,Machakos Referral Health Centre,2025-05-22,completed,475,Low,; referral older than 14 days
+R-000411,CL-003631,Nyeri,Nyeri CHU 3,Kamau Odongo,ANC,Nyeri Level 4 Hospital,2025-05-22,completed,475,Low,; referral older than 14 days
+R-000453,CL-004172,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-05-23,completed,474,Low,; referral older than 14 days
+R-000122,CL-000963,Kilifi,Kilifi CHU 2,Wairimu Owino,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-05-23,completed,474,Low,; referral older than 14 days
+R-000475,CL-004452,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Level 4 Hospital,2025-05-23,completed,474,Low,; referral older than 14 days
+R-000329,CL-002850,Machakos,Machakos CHU 2,Nafula Mburu,Malaria_Case,Machakos Level 4 Hospital,2025-05-24,completed,473,Low,; referral older than 14 days
+R-000599,CL-005616,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Referral Health Centre,2025-05-25,completed,472,Low,; referral older than 14 days
+R-000632,CL-005929,Bungoma,Bungoma CHU 2,Nyambura Mbithi,Malaria_Case,Bungoma Sub-County Hospital,2025-05-25,completed,472,Low,; referral older than 14 days
+R-001043,CL-010067,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Sub-County Hospital,2025-05-26,completed,471,Low,; referral older than 14 days
+R-000966,CL-009345,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Level 4 Hospital,2025-05-27,completed,470,Low,; referral older than 14 days
+R-000030,CL-000294,Kilifi,Kilifi CHU 2,Mwangi Kip,ANC,Kilifi Level 4 Hospital,2025-05-27,completed,470,Low,; referral older than 14 days
+R-000626,CL-005864,Kisumu,Kisumu CHU 1,Odhiambo Owino,Malaria_Case,Kisumu Referral Health Centre,2025-05-28,completed,469,Low,; referral older than 14 days
+R-000102,CL-000789,Kisumu,Kisumu CHU 3,Kimani Kip,Malaria_Case,Kisumu Sub-County Hospital,2025-05-29,completed,468,Low,; referral older than 14 days
+R-000658,CL-006196,Kisumu,Kisumu CHU 3,Otieno Kip,ANC,Kisumu Level 4 Hospital,2025-05-29,completed,468,Low,; referral older than 14 days
+R-000787,CL-007576,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-05-30,completed,467,Low,; referral older than 14 days
+R-000918,CL-008754,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-05-30,na,467,Low,; referral older than 14 days
+R-000134,CL-001079,Machakos,Machakos CHU 3,Cherono Wambui,ANC,Machakos Sub-County Hospital,2025-05-30,completed,467,Low,; referral older than 14 days
+R-000316,CL-002729,Kilifi,Kilifi CHU 2,Mwangi Kip,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-05-30,completed,467,Low,; referral older than 14 days
+R-000884,CL-008392,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Referral Health Centre,2025-05-31,completed,466,Low,; referral older than 14 days
+R-000020,CL-000202,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-05-31,completed,466,Low,; referral older than 14 days
+R-000792,CL-007593,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,Malaria_Case,Kisumu Referral Health Centre,2025-06-01,na,465,Low,; referral older than 14 days
+R-000253,CL-002145,Bungoma,Bungoma CHU 1,Auma Kilonzo,ANC,Bungoma Level 4 Hospital,2025-06-01,completed,465,Low,; referral older than 14 days
+R-000808,CL-007689,Nyeri,Nyeri CHU 3,Kamau Odongo,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-06-01,completed,465,Low,; referral older than 14 days
+R-000002,CL-000017,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,PNC,Nyeri Level 4 Hospital,2025-06-01,completed,465,Low,; referral older than 14 days
+R-000571,CL-005397,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-06-02,completed,464,Low,; referral older than 14 days
+R-000566,CL-005328,Kakamega,Kakamega CHU 1,Chebet Kariuki,ANC,Kakamega Referral Health Centre,2025-06-02,completed,464,Low,; referral older than 14 days
+R-000204,CL-001767,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Level 4 Hospital,2025-06-02,completed,464,Low,; referral older than 14 days
+R-000448,CL-004106,Kisumu,Kisumu CHU 1,Auma Wanyama,Malaria_Case,Kisumu Sub-County Hospital,2025-06-04,completed,462,Low,; referral older than 14 days
+R-000615,CL-005751,Nyeri,Nyeri CHU 3,Otieno Mburu,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-06-04,completed,462,Low,; referral older than 14 days
+R-000138,CL-001117,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malaria_Case,Kakamega Sub-County Hospital,2025-06-04,completed,462,Low,; referral older than 14 days
+R-000503,CL-004704,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Sub-County Hospital,2025-06-04,completed,462,Low,; referral older than 14 days
+R-000024,CL-000274,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,ANC,Kisumu Referral Health Centre,2025-06-05,completed,461,Low,; referral older than 14 days
+R-000574,CL-005423,Kakamega,Kakamega CHU 1,,Malaria_Case,Kakamega Sub-County Hospital,2025-06-05,n/a,461,Low,; referral older than 14 days
+R-000617,CL-005772,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malaria_Case,Kisumu Level 4 Hospital,2025-06-07,completed,459,Low,; referral older than 14 days
+R-000470,CL-004332,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Level 4 Hospital,2025-06-07,n/a,459,Low,; referral older than 14 days
+R-000238,CL-002016,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Referral Health Centre,2025-06-09,completed,457,Low,; referral older than 14 days
+R-000210,CL-001818,Kisumu,Kisumu CHU 3,Auma Onyango,PNC,Kisumu Referral Health Centre,2025-06-09,completed,457,Low,; referral older than 14 days
+R-000352,CL-003011,Kisumu,Kisumu CHU 1,Odhiambo Owino,ANC,Kisumu Referral Health Centre,2025-06-10,completed,456,Low,; referral older than 14 days
+R-000127,CL-000988,Bungoma,Bungoma CHU 1,Chebet Mbithi,Malaria_Case,Bungoma Level 4 Hospital,2025-06-10,completed,456,Low,; referral older than 14 days
+R-000130,CL-001025,Nyeri,Nyeri CHU 1,Otieno Kilonzo,ANC,Nyeri Referral Health Centre,2025-06-11,completed,455,Low,; referral older than 14 days
+R-000977,CL-009438,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Referral Health Centre,2025-06-11,completed,455,Low,; referral older than 14 days
+R-000403,CL-003573,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Sub-County Hospital,2025-06-11,completed,455,Low,; referral older than 14 days
+R-000926,CL-008826,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malaria_Case,Kakamega Sub-County Hospital,2025-06-12,completed,454,Low,; referral older than 14 days
+R-000692,CL-006610,Bungoma,Bungoma CHU 1,Chebet Mbithi,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-06-12,na,454,Low,; referral older than 14 days
+R-000608,CL-005665,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Referral Health Centre,2025-06-12,completed,454,Low,; referral older than 14 days
+R-000957,CL-009296,Kilifi,Kilifi CHU 3,Otieno Simiyu,ANC,Kilifi Referral Health Centre,2025-06-13,completed,453,Low,; referral older than 14 days
+R-000317,CL-002740,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malaria_Case,Kisumu Level 4 Hospital,2025-06-13,completed,453,Low,; referral older than 14 days
+R-000194,CL-001694,Bungoma,Bungoma CHU 3,Kiptoo Kip,Malaria_Case,Bungoma Level 4 Hospital,2025-06-13,na,453,Low,; referral older than 14 days
+R-000761,CL-007315,Machakos,Machakos CHU 2,Nafula Kariuki,Malaria_Case,Machakos Level 4 Hospital,2025-06-13,completed,453,Low,; referral older than 14 days
+R-000043,CL-000390,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Level 4 Hospital,2025-06-13,completed,453,Low,; referral older than 14 days
+R-000326,CL-002795,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Level 4 Hospital,2025-06-14,completed,452,Low,; referral older than 14 days
+R-000218,CL-001893,Nyeri,Nyeri CHU 2,Wanjiru Kip,ANC,Nyeri Level 4 Hospital,2025-06-14,completed,452,Low,; referral older than 14 days
+R-000691,CL-006595,Kakamega,Kakamega CHU 1,Kamau Odongo,PNC,Kakamega Referral Health Centre,2025-06-14,completed,452,Low,; referral older than 14 days
+R-000600,CL-005617,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Referral Health Centre,2025-06-14,completed,452,Low,; referral older than 14 days
+R-000813,CL-007717,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Referral Health Centre,2025-06-15,completed,451,Low,; referral older than 14 days
+R-000897,CL-008578,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malaria_Case,Kakamega Referral Health Centre,2025-06-15,completed,451,Low,; referral older than 14 days
+R-000149,CL-001197,Machakos,Machakos CHU 3,Wafula Kilonzo,ANC,Machakos Sub-County Hospital,2025-06-15,completed,451,Low,; referral older than 14 days
+R-000378,CL-003263,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malaria_Case,Kakamega Referral Health Centre,2025-06-15,completed,451,Low,; referral older than 14 days
+R-000624,CL-005825,Kisumu,Kisumu CHU 1,Otieno Simiyu,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-06-15,completed,451,Low,; referral older than 14 days
+R-000162,CL-001356,Nyeri,Nyeri CHU 3,Kamau Odongo,ANC,Nyeri Level 4 Hospital,2025-06-15,n/a,451,Low,; referral older than 14 days
+R-000706,CL-006726,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Sub-County Hospital,2025-06-16,completed,450,Low,; referral older than 14 days
+R-000524,CL-004928,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-06-16,completed,450,Low,; referral older than 14 days
+R-000898,CL-008592,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,ANC,Nyeri Referral Health Centre,2025-06-17,completed,449,Low,; referral older than 14 days
+R-000070,CL-000568,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malaria_Case,Bungoma Level 4 Hospital,2025-06-18,completed,448,Low,; referral older than 14 days
+R-000035,CL-000307,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-06-19,completed,447,Low,; referral older than 14 days
+R-000023,CL-000272,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-06-19,completed,447,Low,; referral older than 14 days
+R-000113,CL-000879,Bungoma,Bungoma CHU 2,Kamau Njoroge,Malaria_Case,Bungoma Sub-County Hospital,2025-06-20,completed,446,Low,; referral older than 14 days
+R-000725,CL-006974,Nyeri,Nyeri CHU 3,Otieno Mburu,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-06-20,completed,446,Low,; referral older than 14 days
+R-000384,CL-003332,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Level 4 Hospital,2025-06-20,completed,446,Low,; referral older than 14 days
+R-000324,CL-002774,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Level 4 Hospital,2025-06-21,na,445,Low,; referral older than 14 days
+R-000301,CL-002592,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Referral Health Centre,2025-06-21,na,445,Low,; referral older than 14 days
+R-000474,CL-004449,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-06-21,completed,445,Low,; referral older than 14 days
+R-000466,CL-004316,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Referral Health Centre,2025-06-21,completed,445,Low,; referral older than 14 days
+R-000628,CL-005873,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Level 4 Hospital,2025-06-21,completed,445,Low,; referral older than 14 days
+R-000774,CL-007395,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-06-21,completed,445,Low,; referral older than 14 days
+R-000955,CL-009285,Bungoma,Bungoma CHU 2,Kamau Njoroge,Malaria_Case,Bungoma Sub-County Hospital,2025-06-21,completed,445,Low,; referral older than 14 days
+R-000801,CL-007665,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-06-22,completed,444,Low,; referral older than 14 days
+R-000223,CL-001947,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Referral Health Centre,2025-06-23,completed,443,Low,; referral older than 14 days
+R-000644,CL-006047,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Referral Health Centre,2025-06-23,completed,443,Low,; referral older than 14 days
+R-000585,CL-005482,Bungoma,Bungoma CHU 3,Wanjiru Kariuki,Malaria_Case,Bungoma Referral Health Centre,2025-06-24,completed,442,Low,; referral older than 14 days
+R-000823,CL-007769,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Referral Health Centre,2025-06-26,completed,440,Low,; referral older than 14 days
+R-000124,CL-000974,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-06-26,completed,440,Low,; referral older than 14 days
+R-000252,CL-002140,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Sub-County Hospital,2025-06-27,completed,439,Low,; referral older than 14 days
+R-000882,CL-008379,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-06-30,completed,436,Low,; referral older than 14 days
+R-000068,CL-000545,Machakos,Machakos CHU 2,Nafula Kariuki,Malnutrition_Screening,Machakos Sub-County Hospital,2025-07-01,completed,435,Low,; referral older than 14 days
+R-000862,CL-008131,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Level 4 Hospital,2025-07-02,completed,434,Low,; referral older than 14 days
+R-000366,CL-003157,Kisumu,Kisumu CHU 2,Mutua Mburu,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-07-02,completed,434,Low,; referral older than 14 days
+R-000687,CL-006563,Kakamega,Kakamega CHU 3,Nyambura Kip,Malnutrition_Screening,Kakamega Referral Health Centre,2025-07-02,completed,434,Low,; referral older than 14 days
+R-000379,CL-003295,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Referral Health Centre,2025-07-03,completed,433,Low,; referral older than 14 days
+R-000235,CL-002007,Kilifi,Kilifi CHU 3,Wairimu Kilonzo,Malaria_Case,Kilifi Referral Health Centre,2025-07-03,completed,433,Low,; referral older than 14 days
+R-000694,CL-006618,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-07-04,completed,432,Low,; referral older than 14 days
+R-000552,CL-005202,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Referral Health Centre,2025-07-04,completed,432,Low,; referral older than 14 days
+R-000387,CL-003367,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,ANC,Kisumu Sub-County Hospital,2025-07-04,completed,432,Low,; referral older than 14 days
+R-000995,CL-009602,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Level 4 Hospital,2025-07-04,completed,432,Low,; referral older than 14 days
+R-000014,CL-000100,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Level 4 Hospital,2025-07-07,completed,429,Low,; referral older than 14 days
+R-001037,CL-009993,Bungoma,Bungoma CHU 1,Otieno Kilonzo,Malaria_Case,Bungoma Sub-County Hospital,2025-07-07,completed,429,Low,; referral older than 14 days
+R-000003,CL-000017,Nyeri,Nyeri CHU 2,Wanjiru Kip,PNC,Nyeri Level 4 Hospital,2025-07-07,completed,429,Low,; referral older than 14 days
+R-000929,CL-008862,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Referral Health Centre,2025-07-08,completed,428,Low,; referral older than 14 days
+R-000507,CL-004729,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Referral Health Centre,2025-07-08,completed,428,Low,; referral older than 14 days
+R-000494,CL-004638,Kakamega,Kakamega CHU 3,Kamau Wambui,Malaria_Case,Kakamega Referral Health Centre,2025-07-09,completed,427,Low,; referral older than 14 days
+R-000847,CL-007988,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Level 4 Hospital,2025-07-09,n/a,427,Low,; referral older than 14 days
+R-001005,CL-009691,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Referral Health Centre,2025-07-10,completed,426,Low,; referral older than 14 days
+R-000012,CL-000058,Kisumu,Kisumu CHU 2,Mutua Mburu,ANC,Kisumu Level 4 Hospital,2025-07-11,completed,425,Low,; referral older than 14 days
+R-000180,CL-001516,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Sub-County Hospital,2025-07-12,completed,424,Low,; referral older than 14 days
+R-000733,CL-007043,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malnutrition_Screening,Kilifi Referral Health Centre,2025-07-12,completed,424,Low,; referral older than 14 days
+R-000462,CL-004261,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Level 4 Hospital,2025-07-13,completed,423,Low,; referral older than 14 days
+R-000025,CL-000274,Kisumu,Kisumu CHU 2,Adhiambo Odongo,ANC,Kisumu Referral Health Centre,2025-07-14,completed,422,Low,; referral older than 14 days
+R-000111,CL-000873,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,PNC,Kakamega Referral Health Centre,2025-07-14,completed,422,Low,; referral older than 14 days
+R-000415,CL-003669,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Level 4 Hospital,2025-07-14,completed,422,Low,; referral older than 14 days
+R-000661,CL-006257,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-07-15,completed,421,Low,; referral older than 14 days
+R-000878,CL-008290,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Sub-County Hospital,2025-07-15,completed,421,Low,; referral older than 14 days
+R-000071,CL-000572,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Referral Health Centre,2025-07-17,completed,419,Low,; referral older than 14 days
+R-000063,CL-000515,Kisumu,Kisumu CHU 1,Odhiambo Owino,ANC,Kisumu Referral Health Centre,2025-07-17,completed,419,Low,; referral older than 14 days
+R-000086,CL-000666,Nyeri,Nyeri CHU 1,Otieno Kilonzo,ANC,Nyeri Referral Health Centre,2025-07-17,completed,419,Low,; referral older than 14 days
+R-001011,CL-009736,Machakos,Machakos CHU 3,Cherono Wambui,Malaria_Case,Machakos Referral Health Centre,2025-07-18,completed,418,Low,; referral older than 14 days
+R-000545,CL-005142,Bungoma,Bungoma CHU 1,Otieno Kilonzo,ANC,Bungoma Level 4 Hospital,2025-07-19,completed,417,Low,; referral older than 14 days
+R-000643,CL-006046,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Sub-County Hospital,2025-07-20,completed,416,Low,; referral older than 14 days
+R-000214,CL-001865,Kakamega,Kakamega CHU 3,Njeri Odongo,ANC,Kakamega Sub-County Hospital,2025-07-20,completed,416,Low,; referral older than 14 days
+R-000269,CL-002260,Kilifi,Kilifi CHU 2,Kiptoo Wambui,ANC,Kilifi Level 4 Hospital,2025-07-20,completed,416,Low,; referral older than 14 days
+R-000417,CL-003682,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Referral Health Centre,2025-07-20,completed,416,Low,; referral older than 14 days
+R-001007,CL-009715,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-07-21,completed,415,Low,; referral older than 14 days
+R-000883,CL-008388,Kakamega,Kakamega CHU 1,Chebet Kariuki,PNC,Kakamega Sub-County Hospital,2025-07-21,completed,415,Low,; referral older than 14 days
+R-000081,CL-000626,Machakos,Machakos CHU 2,Nafula Mburu,Malnutrition_Screening,Machakos Sub-County Hospital,2025-07-22,completed,414,Low,; referral older than 14 days
+R-000057,CL-000491,Kilifi,Kilifi CHU 2,Mwangi Kip,ANC,Kilifi Level 4 Hospital,2025-07-22,completed,414,Low,; referral older than 14 days
+R-000265,CL-002251,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Referral Health Centre,2025-07-23,completed,413,Low,; referral older than 14 days
+R-000529,CL-004984,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-07-23,completed,413,Low,; referral older than 14 days
+R-000993,CL-009591,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-07-25,completed,411,Low,; referral older than 14 days
+R-000637,CL-005982,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-07-25,completed,411,Low,; referral older than 14 days
+R-000651,CL-006148,Kisumu,Kisumu CHU 1,Njeri Kariuki,PNC,Kisumu Sub-County Hospital,2025-07-26,na,410,Low,; referral older than 14 days
+R-000250,CL-002112,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malnutrition_Screening,Bungoma Referral Health Centre,2025-07-26,completed,410,Low,; referral older than 14 days
+R-000230,CL-001985,Machakos,Machakos CHU 1,Njeri Kariuki,ANC,Machakos Level 4 Hospital,2025-07-27,completed,409,Low,; referral older than 14 days
+R-000811,CL-007705,Machakos,Machakos CHU 1,Barasa Mutiso,Malnutrition_Screening,Machakos Level 4 Hospital,2025-07-28,completed,408,Low,; referral older than 14 days
+R-000947,CL-009108,Kisumu,Kisumu CHU 2,,PNC,Kisumu Sub-County Hospital,2025-07-30,completed,406,Low,; referral older than 14 days
+R-000211,CL-001822,Bungoma,Bungoma CHU 2,Nyambura Mbithi,ANC,Bungoma Sub-County Hospital,2025-07-31,na,405,Low,; referral older than 14 days
+R-000630,CL-005902,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-08-01,completed,404,Low,; referral older than 14 days
+R-000844,CL-007971,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Sub-County Hospital,2025-08-03,completed,402,Low,; referral older than 14 days
+R-000714,CL-006843,Bungoma,Bungoma CHU 3,Mutua Kip,ANC,Bungoma Level 4 Hospital,2025-08-04,completed,401,Low,; referral older than 14 days
+R-000100,CL-000780,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Referral Health Centre,2025-08-04,na,401,Low,; referral older than 14 days
+R-000039,CL-000366,Kisumu,Kisumu CHU 1,Otieno Simiyu,Malnutrition_Screening,Kisumu Referral Health Centre,2025-08-04,completed,401,Low,; referral older than 14 days
+R-000840,CL-007940,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Referral Health Centre,2025-08-04,completed,401,Low,; referral older than 14 days
+R-000640,CL-006007,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malnutrition_Screening,Nyeri Referral Health Centre,2025-08-05,completed,400,Low,; referral older than 14 days
+R-000254,CL-002145,Bungoma,Bungoma CHU 1,Auma Kilonzo,ANC,Bungoma Referral Health Centre,2025-08-07,completed,398,Low,; referral older than 14 days
+R-000476,CL-004453,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Level 4 Hospital,2025-08-08,completed,397,Low,; referral older than 14 days
+R-000800,CL-007663,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Referral Health Centre,2025-08-09,completed,396,Low,; referral older than 14 days
+R-000869,CL-008196,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malaria_Case,Kisumu Sub-County Hospital,2025-08-09,completed,396,Low,; referral older than 14 days
+R-000428,CL-003835,Kisumu,Kisumu CHU 1,Auma Wanyama,PNC,Kisumu Level 4 Hospital,2025-08-09,completed,396,Low,; referral older than 14 days
+R-000171,CL-001458,Nyeri,Nyeri CHU 1,Otieno Kilonzo,ANC,Nyeri Sub-County Hospital,2025-08-10,completed,395,Low,; referral older than 14 days
+R-000151,CL-001250,Nyeri,Nyeri CHU 3,Otieno Mburu,ANC,Nyeri Sub-County Hospital,2025-08-10,completed,395,Low,; referral older than 14 days
+R-000641,CL-006023,Kakamega,Kakamega CHU 1,Nyambura Wekesa,ANC,Kakamega Level 4 Hospital,2025-08-10,completed,395,Low,; referral older than 14 days
+R-000007,CL-000025,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-08-11,completed,394,Low,; referral older than 14 days
+R-000664,CL-006308,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Level 4 Hospital,2025-08-11,completed,394,Low,; referral older than 14 days
+R-000296,CL-002574,Kisumu,Kisumu CHU 3,Cherono Owino,Malaria_Case,Kisumu Referral Health Centre,2025-08-11,completed,394,Low,; referral older than 14 days
+R-000541,CL-005090,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,ANC,Kisumu Level 4 Hospital,2025-08-12,completed,393,Low,; referral older than 14 days
+R-000433,CL-003878,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Referral Health Centre,2025-08-12,completed,393,Low,; referral older than 14 days
+R-000504,CL-004708,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Referral Health Centre,2025-08-12,completed,393,Low,; referral older than 14 days
+R-000112,CL-000875,Bungoma,Bungoma CHU 2,Kamau Njoroge,ANC,Bungoma Level 4 Hospital,2025-08-12,completed,393,Low,; referral older than 14 days
+R-000440,CL-004013,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Sub-County Hospital,2025-08-12,completed,393,Low,; referral older than 14 days
+R-000870,CL-008204,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-08-13,completed,392,Low,; referral older than 14 days
+R-000436,CL-003929,Nyeri,Nyeri CHU 2,Wanjiru Kip,ANC,Nyeri Sub-County Hospital,2025-08-13,na,392,Low,; referral older than 14 days
+R-000579,CL-005454,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Sub-County Hospital,2025-08-13,completed,392,Low,; referral older than 14 days
+R-000303,CL-002625,Nyeri,Nyeri CHU 3,Otieno Mburu,PNC,Nyeri Sub-County Hospital,2025-08-14,completed,391,Low,; referral older than 14 days
+R-000104,CL-000831,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Referral Health Centre,2025-08-14,completed,391,Low,; referral older than 14 days
+R-000528,CL-004981,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-08-14,completed,391,Low,; referral older than 14 days
+R-000852,CL-008052,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Referral Health Centre,2025-08-14,completed,391,Low,; referral older than 14 days
+R-000991,CL-009551,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-08-15,completed,390,Low,; referral older than 14 days
+R-000542,CL-005099,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-08-15,completed,390,Low,; referral older than 14 days
+R-000938,CL-009032,Nyeri,Nyeri CHU 3,Otieno Mburu,PNC,Nyeri Sub-County Hospital,2025-08-17,completed,388,Low,; referral older than 14 days
+R-000050,CL-000438,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Sub-County Hospital,2025-08-17,completed,388,Low,; referral older than 14 days
+R-000283,CL-002384,Kisumu,Kisumu CHU 1,Otieno Simiyu,Malaria_Case,Kisumu Referral Health Centre,2025-08-17,completed,388,Low,; referral older than 14 days
+R-000300,CL-002590,Bungoma,Bungoma CHU 2,Kamau Njoroge,ANC,Bungoma Level 4 Hospital,2025-08-18,completed,387,Low,; referral older than 14 days
+R-000343,CL-002966,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Referral Health Centre,2025-08-18,completed,387,Low,; referral older than 14 days
+R-000139,CL-001119,Kisumu,Kisumu CHU 1,Njeri Kariuki,Malaria_Case,Kisumu Level 4 Hospital,2025-08-19,completed,386,Low,; referral older than 14 days
+R-000205,CL-001769,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,PNC,Kakamega Referral Health Centre,2025-08-19,completed,386,Low,; referral older than 14 days
+R-000784,CL-007527,Kakamega,Kakamega CHU 1,Kamau Odongo,ANC,Kakamega Referral Health Centre,2025-08-19,completed,386,Low,; referral older than 14 days
+R-000893,CL-008519,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-08-20,completed,385,Low,; referral older than 14 days
+R-000348,CL-002997,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malaria_Case,Nyeri Sub-County Hospital,2025-08-21,completed,384,Low,; referral older than 14 days
+R-000459,CL-004239,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Sub-County Hospital,2025-08-21,completed,384,Low,; referral older than 14 days
+R-000980,CL-009490,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Sub-County Hospital,2025-08-21,completed,384,Low,; referral older than 14 days
+R-000461,CL-004253,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malaria_Case,Kakamega Sub-County Hospital,2025-08-21,completed,384,Low,; referral older than 14 days
+R-000413,CL-003639,Kakamega,Kakamega CHU 1,Chebet Kariuki,ANC,Kakamega Level 4 Hospital,2025-08-22,completed,383,Low,; referral older than 14 days
+R-000271,CL-002286,Machakos,Machakos CHU 2,Nyambura Njoroge,ANC,Machakos Sub-County Hospital,2025-08-22,na,383,Low,; referral older than 14 days
+R-000592,CL-005543,Machakos,Machakos CHU 2,Nyambura Njoroge,ANC,Machakos Sub-County Hospital,2025-08-22,completed,383,Low,; referral older than 14 days
+R-000419,CL-003689,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-08-22,completed,383,Low,; referral older than 14 days
+R-000159,CL-001335,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,ANC,Kisumu Sub-County Hospital,2025-08-22,completed,383,Low,; referral older than 14 days
+R-000770,CL-007381,Nyeri,Nyeri CHU 2,Nyambura Onyango,PNC,Nyeri Sub-County Hospital,2025-08-22,completed,383,Low,; referral older than 14 days
+R-000119,CL-000932,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-08-22,completed,383,Low,; referral older than 14 days
+R-000197,CL-001715,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Sub-County Hospital,2025-08-23,n/a,382,Low,; referral older than 14 days
+R-000034,CL-000306,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,PNC,Nyeri Sub-County Hospital,2025-08-23,completed,382,Low,; referral older than 14 days
+R-000291,CL-002521,Nyeri,Nyeri CHU 2,Wanjiru Kip,PNC,Nyeri Sub-County Hospital,2025-08-23,completed,382,Low,; referral older than 14 days
+R-000923,CL-008783,Nyeri,Nyeri CHU 2,Wanjiru Odongo,PNC,Nyeri Referral Health Centre,2025-08-24,completed,381,Low,; referral older than 14 days
+R-000196,CL-001710,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malaria_Case,Kilifi Sub-County Hospital,2025-08-24,completed,381,Low,; referral older than 14 days
+R-000118,CL-000928,Nyeri,Nyeri CHU 2,Wanjiru Kip,ANC,Nyeri Referral Health Centre,2025-08-25,completed,380,Low,; referral older than 14 days
+R-000753,CL-007241,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,PNC,Kakamega Referral Health Centre,2025-08-27,completed,378,Low,; referral older than 14 days
+R-000445,CL-004087,Kisumu,Kisumu CHU 1,Auma Wanyama,Malaria_Case,Kisumu Level 4 Hospital,2025-08-27,completed,378,Low,; referral older than 14 days
+R-000722,CL-006906,Kisumu,Kisumu CHU 2,Mutua Mburu,ANC,Kisumu Sub-County Hospital,2025-08-27,n/a,378,Low,; referral older than 14 days
+R-000374,CL-003239,Bungoma,Bungoma CHU 1,Auma Kilonzo,PNC,Bungoma Level 4 Hospital,2025-08-28,n/a,377,Low,; referral older than 14 days
+R-000932,CL-008903,Nyeri,Nyeri CHU 2,Wanjiru Odongo,PNC,Nyeri Level 4 Hospital,2025-08-28,completed,377,Low,; referral older than 14 days
+R-000216,CL-001879,Kilifi,Kilifi CHU 2,Mwangi Kip,Malnutrition_Screening,Kilifi Referral Health Centre,2025-08-29,completed,376,Low,; referral older than 14 days
+R-001026,CL-009900,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-08-30,completed,375,Low,; referral older than 14 days
+R-000284,CL-002385,Kisumu,Kisumu CHU 1,Auma Wanyama,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-08-31,completed,374,Low,; referral older than 14 days
+R-000174,CL-001474,Kisumu,Kisumu CHU 1,Njeri Kariuki,ANC,Kisumu Level 4 Hospital,2025-08-31,completed,374,Low,; referral older than 14 days
+R-000425,CL-003799,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-09-01,completed,373,Low,; referral older than 14 days
+R-000251,CL-002119,Nyeri,Nyeri CHU 3,Kamau Odongo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-09-01,n/a,373,Low,; referral older than 14 days
+R-000380,CL-003308,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-09-02,na,372,Low,; referral older than 14 days
+R-000936,CL-009002,Bungoma,Bungoma CHU 3,Kimani Kariuki,ANC,Bungoma Sub-County Hospital,2025-09-02,completed,372,Low,; referral older than 14 days
+R-000079,CL-000622,Machakos,Machakos CHU 2,Wairimu Kilonzo,Malaria_Case,Machakos Referral Health Centre,2025-09-02,completed,372,Low,; referral older than 14 days
+R-000931,CL-008890,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Sub-County Hospital,2025-09-02,completed,372,Low,; referral older than 14 days
+R-000602,CL-005624,Kisumu,Kisumu CHU 1,Otieno Simiyu,ANC,Kisumu Referral Health Centre,2025-09-03,completed,371,Low,; referral older than 14 days
+R-000309,CL-002678,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Level 4 Hospital,2025-09-03,completed,371,Low,; referral older than 14 days
+R-000710,CL-006785,Nyeri,Nyeri CHU 1,Otieno Kilonzo,PNC,Nyeri Referral Health Centre,2025-09-03,completed,371,Low,; referral older than 14 days
+R-000295,CL-002568,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malaria_Case,Bungoma Referral Health Centre,2025-09-03,n/a,371,Low,; referral older than 14 days
+R-000606,CL-005659,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Referral Health Centre,2025-09-03,completed,371,Low,; referral older than 14 days
+R-000409,CL-003627,Machakos,Machakos CHU 3,Njeri Mutiso,Malaria_Case,Machakos Level 4 Hospital,2025-09-04,completed,370,Low,; referral older than 14 days
+R-000677,CL-006443,Kilifi,Kilifi CHU 2,Wairimu Owino,ANC,Kilifi Level 4 Hospital,2025-09-04,completed,370,Low,; referral older than 14 days
+R-000142,CL-001139,Machakos,Machakos CHU 2,Nyambura Njoroge,Malaria_Case,Machakos Referral Health Centre,2025-09-05,completed,369,Low,; referral older than 14 days
+R-000292,CL-002550,Bungoma,Bungoma CHU 1,Auma Kilonzo,Malaria_Case,Bungoma Referral Health Centre,2025-09-05,completed,369,Low,; referral older than 14 days
+R-000544,CL-005118,Kisumu,Kisumu CHU 3,Otieno Kip,Malnutrition_Screening,Kisumu Referral Health Centre,2025-09-05,completed,369,Low,; referral older than 14 days
+R-000195,CL-001708,Kisumu,Kisumu CHU 2,Nyambura Odongo,PNC,Kisumu Sub-County Hospital,2025-09-05,n/a,369,Low,; referral older than 14 days
+R-000797,CL-007651,Kisumu,Kisumu CHU 2,Nyambura Odongo,Malaria_Case,Kisumu Referral Health Centre,2025-09-06,completed,368,Low,; referral older than 14 days
+R-000676,CL-006415,Bungoma,Bungoma CHU 2,Kamau Njoroge,ANC,Bungoma Sub-County Hospital,2025-09-06,completed,368,Low,; referral older than 14 days
+R-000567,CL-005332,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malnutrition_Screening,Kakamega Referral Health Centre,2025-09-06,completed,368,Low,; referral older than 14 days
+R-000385,CL-003334,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Referral Health Centre,2025-09-07,completed,367,Low,; referral older than 14 days
+R-000715,CL-006848,Kisumu,Kisumu CHU 2,Mutua Mburu,Malaria_Case,Kisumu Level 4 Hospital,2025-09-08,completed,366,Low,; referral older than 14 days
+R-000423,CL-003782,Machakos,Machakos CHU 2,Nyambura Njoroge,Malnutrition_Screening,Machakos Referral Health Centre,2025-09-08,completed,366,Low,; referral older than 14 days
+R-000863,CL-008131,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,ANC,Nyeri Level 4 Hospital,2025-09-10,completed,364,Low,; referral older than 14 days
+R-001009,CL-009719,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Sub-County Hospital,2025-09-10,na,364,Low,; referral older than 14 days
+R-000356,CL-003057,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Level 4 Hospital,2025-09-10,completed,364,Low,; referral older than 14 days
+R-000915,CL-008718,Bungoma,Bungoma CHU 3,Kimani Kariuki,Malaria_Case,Bungoma Sub-County Hospital,2025-09-10,completed,364,Low,; referral older than 14 days
+R-000777,CL-007443,Machakos,Machakos CHU 2,Nafula Kariuki,ANC,Machakos Sub-County Hospital,2025-09-10,completed,364,Low,; referral older than 14 days
+R-000019,CL-000198,Kisumu,Kisumu CHU 2,Mutua Mburu,ANC,Kisumu Level 4 Hospital,2025-09-10,completed,364,Low,; referral older than 14 days
+R-000693,CL-006614,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,ANC,Bungoma Sub-County Hospital,2025-09-10,completed,364,Low,; referral older than 14 days
+R-000764,CL-007342,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malaria_Case,Kisumu Sub-County Hospital,2025-09-10,completed,364,Low,; referral older than 14 days
+R-000625,CL-005849,Kilifi,Kilifi CHU 2,Mwangi Kip,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-09-11,completed,363,Low,; referral older than 14 days
+R-000575,CL-005426,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malaria_Case,Kakamega Level 4 Hospital,2025-09-11,na,363,Low,; referral older than 14 days
+R-000523,CL-004921,Nyeri,Nyeri CHU 1,Achieng Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-09-11,completed,363,Low,; referral older than 14 days
+R-000636,CL-005979,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-09-12,completed,362,Low,; referral older than 14 days
+R-000407,CL-003609,Machakos,Machakos CHU 3,Wafula Kilonzo,ANC,Machakos Sub-County Hospital,2025-09-13,completed,361,Low,; referral older than 14 days
+R-000511,CL-004796,Nyeri,Nyeri CHU 3,Kamau Odongo,PNC,Nyeri Sub-County Hospital,2025-09-14,completed,360,Low,; referral older than 14 days
+R-000973,CL-009425,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Referral Health Centre,2025-09-14,completed,360,Low,; referral older than 14 days
+R-000860,CL-008120,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-09-14,n/a,360,Low,; referral older than 14 days
+R-001030,CL-009946,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-09-14,completed,360,Low,; referral older than 14 days
+R-000353,CL-003011,Kisumu,Kisumu CHU 1,Odhiambo Owino,ANC,Kisumu Sub-County Hospital,2025-09-15,completed,359,Low,; referral older than 14 days
+R-000045,CL-000391,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Level 4 Hospital,2025-09-16,completed,358,Low,; referral older than 14 days
+R-000109,CL-000867,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Referral Health Centre,2025-09-17,completed,357,Low,; referral older than 14 days
+R-000450,CL-004138,Nyeri,Nyeri CHU 3,Kamau Odongo,ANC,Nyeri Sub-County Hospital,2025-09-17,completed,357,Low,; referral older than 14 days
+R-000305,CL-002635,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Referral Health Centre,2025-09-17,na,357,Low,; referral older than 14 days
+R-000402,CL-003571,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Level 4 Hospital,2025-09-18,completed,356,Low,; referral older than 14 days
+R-000434,CL-003890,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Sub-County Hospital,2025-09-18,completed,356,Low,; referral older than 14 days
+R-000362,CL-003140,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malaria_Case,Kisumu Sub-County Hospital,2025-09-19,completed,355,Low,; referral older than 14 days
+R-000821,CL-007768,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Level 4 Hospital,2025-09-19,completed,355,Low,; referral older than 14 days
+R-000825,CL-007807,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malaria_Case,Kilifi Referral Health Centre,2025-09-19,completed,355,Low,; referral older than 14 days
+R-000015,CL-000122,Kilifi,Kilifi CHU 2,Otieno Njoroge,PNC,Kilifi Referral Health Centre,2025-09-21,completed,353,Low,; referral older than 14 days
+R-000268,CL-002258,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malaria_Case,Kilifi Level 4 Hospital,2025-09-21,completed,353,Low,; referral older than 14 days
+R-000451,CL-004153,Machakos,Machakos CHU 3,Cherono Wambui,PNC,Machakos Sub-County Hospital,2025-09-21,completed,353,Low,; referral older than 14 days
+R-000916,CL-008732,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Level 4 Hospital,2025-09-22,completed,352,Low,; referral older than 14 days
+R-000008,CL-000031,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Sub-County Hospital,2025-09-22,completed,352,Low,; referral older than 14 days
+R-000256,CL-002153,Kisumu,Kisumu CHU 1,Odhiambo Owino,ANC,Kisumu Referral Health Centre,2025-09-22,completed,352,Low,; referral older than 14 days
+R-000013,CL-000082,Kakamega,Kakamega CHU 3,Nyambura Kip,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-09-22,completed,352,Low,; referral older than 14 days
+R-000026,CL-000274,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,ANC,Kisumu Referral Health Centre,2025-09-23,completed,351,Low,; referral older than 14 days
+R-000416,CL-003669,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Referral Health Centre,2025-09-23,completed,351,Low,; referral older than 14 days
+R-000724,CL-006934,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,ANC,Kisumu Sub-County Hospital,2025-09-24,completed,350,Low,; referral older than 14 days
+R-000099,CL-000778,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Referral Health Centre,2025-09-25,completed,349,Low,; referral older than 14 days
+R-000944,CL-009074,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-09-25,n/a,349,Low,; referral older than 14 days
+R-000538,CL-005051,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malnutrition_Screening,Kilifi Referral Health Centre,2025-09-25,completed,349,Low,; referral older than 14 days
+R-000670,CL-006368,Nyeri,Nyeri CHU 2,Wanjiru Kip,ANC,Nyeri Sub-County Hospital,2025-09-27,completed,347,Low,; referral older than 14 days
+R-000970,CL-009397,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Referral Health Centre,2025-09-27,completed,347,Low,; referral older than 14 days
+R-001038,CL-009996,Kakamega,Kakamega CHU 1,Kamau Odongo,ANC,Kakamega Level 4 Hospital,2025-09-28,completed,346,Low,; referral older than 14 days
+R-000430,CL-003846,Bungoma,Bungoma CHU 3,Barasa Wekesa,ANC,Bungoma Level 4 Hospital,2025-09-28,completed,346,Low,; referral older than 14 days
+R-000610,CL-005681,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Level 4 Hospital,2025-09-30,completed,344,Low,; referral older than 14 days
+R-000328,CL-002802,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Referral Health Centre,2025-09-30,completed,344,Low,; referral older than 14 days
+R-000755,CL-007264,Kilifi,Kilifi CHU 3,Wairimu Kilonzo,Malnutrition_Screening,Kilifi Sub-County Hospital,2025-09-30,completed,344,Low,; referral older than 14 days
+R-000925,CL-008817,Nyeri,Nyeri CHU 2,Wanjiru Odongo,PNC,Nyeri Sub-County Hospital,2025-09-30,completed,344,Low,; referral older than 14 days
+R-000871,CL-008213,Nyeri,Nyeri CHU 1,Kiplagat Mburu,ANC,Nyeri Sub-County Hospital,2025-09-30,completed,344,Low,; referral older than 14 days
+R-000527,CL-004974,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Sub-County Hospital,2025-10-01,na,343,Low,; referral older than 14 days
+R-000485,CL-004564,Kilifi,Kilifi CHU 3,Otieno Simiyu,Malaria_Case,Kilifi Sub-County Hospital,2025-10-02,na,342,Low,; referral older than 14 days
+R-000900,CL-008593,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Level 4 Hospital,2025-10-02,completed,342,Low,; referral older than 14 days
+R-000781,CL-007492,Kakamega,Kakamega CHU 3,Njeri Odongo,ANC,Kakamega Level 4 Hospital,2025-10-02,completed,342,Low,; referral older than 14 days
+R-000058,CL-000496,Machakos,Machakos CHU 3,Njeri Mutiso,Malnutrition_Screening,Machakos Sub-County Hospital,2025-10-02,completed,342,Low,; referral older than 14 days
+R-000680,CL-006462,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Referral Health Centre,2025-10-02,completed,342,Low,; referral older than 14 days
+R-000227,CL-001982,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Referral Health Centre,2025-10-02,completed,342,Low,; referral older than 14 days
+R-000739,CL-007120,Kakamega,Kakamega CHU 3,Kamau Wambui,Malaria_Case,Kakamega Sub-County Hospital,2025-10-02,n/a,342,Low,; referral older than 14 days
+R-000940,CL-009045,Kakamega,Kakamega CHU 3,Chebet Simiyu,ANC,Kakamega Referral Health Centre,2025-10-02,completed,342,Low,; referral older than 14 days
+R-000435,CL-003912,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Level 4 Hospital,2025-10-02,completed,342,Low,; referral older than 14 days
+R-001008,CL-009715,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Referral Health Centre,2025-10-02,completed,342,Low,; referral older than 14 days
+R-000141,CL-001127,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Referral Health Centre,2025-10-03,completed,341,Low,; referral older than 14 days
+R-000091,CL-000692,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Sub-County Hospital,2025-10-03,completed,341,Low,; referral older than 14 days
+R-000080,CL-000622,Machakos,Machakos CHU 2,Nyambura Njoroge,Malaria_Case,Machakos Level 4 Hospital,2025-10-03,completed,341,Low,; referral older than 14 days
+R-000594,CL-005552,Kisumu,Kisumu CHU 1,Auma Wanyama,Malaria_Case,Kisumu Sub-County Hospital,2025-10-03,completed,341,Low,; referral older than 14 days
+R-000662,CL-006280,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-10-03,completed,341,Low,; referral older than 14 days
+R-000856,CL-008087,Machakos,Machakos CHU 2,Nafula Mburu,Malaria_Case,Machakos Level 4 Hospital,2025-10-03,completed,341,Low,; referral older than 14 days
+R-000206,CL-001780,Machakos,Machakos CHU 3,Cherono Wambui,Malaria_Case,Machakos Referral Health Centre,2025-10-04,completed,340,Low,; referral older than 14 days
+R-000803,CL-007669,Nyeri,Nyeri CHU 1,Otieno Kilonzo,Malaria_Case,Nyeri Referral Health Centre,2025-10-04,completed,340,Low,; referral older than 14 days
+R-000090,CL-000684,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-10-04,completed,340,Low,; referral older than 14 days
+R-000188,CL-001671,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Referral Health Centre,2025-10-04,completed,340,Low,; referral older than 14 days
+R-000911,CL-008680,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-10-04,completed,340,Low,; referral older than 14 days
+R-000183,CL-001565,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Referral Health Centre,2025-10-04,completed,340,Low,; referral older than 14 days
+R-000618,CL-005780,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Referral Health Centre,2025-10-04,completed,340,Low,; referral older than 14 days
+R-000169,CL-001445,Machakos,Machakos CHU 1,Nafula Kilonzo,Malaria_Case,Machakos Sub-County Hospital,2025-10-05,completed,339,Low,; referral older than 14 days
+R-000510,CL-004773,Kakamega,Kakamega CHU 1,Wairimu Mbithi,PNC,Kakamega Referral Health Centre,2025-10-06,completed,338,Low,; referral older than 14 days
+R-000981,CL-009492,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Sub-County Hospital,2025-10-06,completed,338,Low,; referral older than 14 days
+R-000587,CL-005510,Kisumu,Kisumu CHU 1,Otieno Simiyu,Malaria_Case,Kisumu Level 4 Hospital,2025-10-06,completed,338,Low,; referral older than 14 days
+R-000092,CL-000715,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Sub-County Hospital,2025-10-06,completed,338,Low,; referral older than 14 days
+R-000318,CL-002741,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malaria_Case,Kisumu Referral Health Centre,2025-10-07,completed,337,Low,; referral older than 14 days
+R-000989,CL-009536,Kilifi,Kilifi CHU 2,Mwangi Kip,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-10-08,completed,336,Low,; referral older than 14 days
+R-000759,CL-007300,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-10-09,completed,335,Low,; referral older than 14 days
+R-000322,CL-002770,Kilifi,Kilifi CHU 3,Wairimu Kilonzo,PNC,Kilifi Sub-County Hospital,2025-10-09,completed,335,Low,; referral older than 14 days
+R-000219,CL-001926,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Level 4 Hospital,2025-10-09,completed,335,Low,; referral older than 14 days
+R-000365,CL-003151,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-10-09,completed,335,Low,; referral older than 14 days
+R-000480,CL-004520,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Level 4 Hospital,2025-10-09,completed,335,Low,; referral older than 14 days
+R-000772,CL-007389,Machakos,Machakos CHU 2,Nafula Mburu,ANC,Machakos Level 4 Hospital,2025-10-10,completed,334,Low,; referral older than 14 days
+R-000652,CL-006154,Nyeri,Nyeri CHU 3,,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-10-10,completed,334,Low,; referral older than 14 days
+R-000153,CL-001252,Bungoma,Bungoma CHU 1,Auma Kilonzo,ANC,Bungoma Referral Health Centre,2025-10-10,completed,334,Low,; referral older than 14 days
+R-000750,CL-007205,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malaria_Case,Kakamega Level 4 Hospital,2025-10-10,completed,334,Low,; referral older than 14 days
+R-000858,CL-008105,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Referral Health Centre,2025-10-11,n/a,333,Low,; referral older than 14 days
+R-000521,CL-004895,Kisumu,Kisumu CHU 3,Kimani Kip,Malnutrition_Screening,Kisumu Referral Health Centre,2025-10-11,completed,333,Low,; referral older than 14 days
+R-000177,CL-001489,Kisumu,Kisumu CHU 3,Otieno Owino,Malaria_Case,Kisumu Level 4 Hospital,2025-10-11,completed,333,Low,; referral older than 14 days
+R-000093,CL-000720,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,PNC,Kisumu Sub-County Hospital,2025-10-11,na,333,Low,; referral older than 14 days
+R-000914,CL-008693,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Sub-County Hospital,2025-10-12,completed,332,Low,; referral older than 14 days
+R-000274,CL-002304,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Level 4 Hospital,2025-10-13,completed,331,Low,; referral older than 14 days
+R-000264,CL-002225,Nyeri,Nyeri CHU 1,Otieno Kilonzo,Malaria_Case,Nyeri Referral Health Centre,2025-10-14,completed,330,Low,; referral older than 14 days
+R-000120,CL-000939,Kilifi,Kilifi CHU 3,Wanjiru Kip,Malaria_Case,Kilifi Sub-County Hospital,2025-10-14,completed,330,Low,; referral older than 14 days
+R-000616,CL-005757,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-10-15,completed,329,Low,; referral older than 14 days
+R-000997,CL-009622,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Sub-County Hospital,2025-10-15,completed,329,Low,; referral older than 14 days
+R-001010,CL-009719,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Referral Health Centre,2025-10-15,completed,329,Low,; referral older than 14 days
+R-000827,CL-007842,Nyeri,Nyeri CHU 3,Kamau Odongo,Malaria_Case,Nyeri Sub-County Hospital,2025-10-15,completed,329,Low,; referral older than 14 days
+R-000173,CL-001464,Kilifi,Kilifi CHU 1,Mutua Simiyu,PNC,Kilifi Referral Health Centre,2025-10-16,completed,328,Low,; referral older than 14 days
+R-000573,CL-005417,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Referral Health Centre,2025-10-16,completed,328,Low,; referral older than 14 days
+R-001016,CL-009764,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Level 4 Hospital,2025-10-16,completed,328,Low,; referral older than 14 days
+R-000534,CL-005010,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-10-16,n/a,328,Low,; referral older than 14 days
+R-000075,CL-000601,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,Malaria_Case,Kisumu Level 4 Hospital,2025-10-17,completed,327,Low,; referral older than 14 days
+R-000479,CL-004478,Kakamega,Kakamega CHU 3,Kiplagat Onyango,Malaria_Case,Kakamega Sub-County Hospital,2025-10-17,completed,327,Low,; referral older than 14 days
+R-000371,CL-003214,Kakamega,Kakamega CHU 3,Kamau Wambui,Malaria_Case,Kakamega Referral Health Centre,2025-10-17,completed,327,Low,; referral older than 14 days
+R-000974,CL-009430,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Sub-County Hospital,2025-10-17,completed,327,Low,; referral older than 14 days
+R-000895,CL-008542,Kakamega,Kakamega CHU 1,Kamau Odongo,Malnutrition_Screening,Kakamega Referral Health Centre,2025-10-18,completed,326,Low,; referral older than 14 days
+R-001039,CL-010005,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Level 4 Hospital,2025-10-18,completed,326,Low,; referral older than 14 days
+R-000160,CL-001348,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Referral Health Centre,2025-10-19,n/a,325,Low,; referral older than 14 days
+R-000705,CL-006719,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-10-20,completed,324,Low,; referral older than 14 days
+R-001025,CL-009894,Bungoma,Bungoma CHU 3,Kiptoo Kip,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-10-21,completed,323,Low,; referral older than 14 days
+R-000560,CL-005277,Kilifi,Kilifi CHU 3,Otieno Simiyu,ANC,Kilifi Sub-County Hospital,2025-10-21,completed,323,Low,; referral older than 14 days
+R-001015,CL-009761,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Sub-County Hospital,2025-10-21,completed,323,Low,; referral older than 14 days
+R-000971,CL-009400,Nyeri,Nyeri CHU 3,Kamau Odongo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-10-22,completed,322,Low,; referral older than 14 days
+R-000391,CL-003439,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Referral Health Centre,2025-10-22,completed,322,Low,; referral older than 14 days
+R-000890,CL-008469,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malaria_Case,Nyeri Level 4 Hospital,2025-10-23,completed,321,Low,; referral older than 14 days
+R-000698,CL-006627,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malaria_Case,Kakamega Referral Health Centre,2025-10-24,completed,320,Low,; referral older than 14 days
+R-000998,CL-009623,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Referral Health Centre,2025-10-25,na,319,Low,; referral older than 14 days
+R-000805,CL-007679,Bungoma,Bungoma CHU 3,Barasa Wekesa,Malaria_Case,Bungoma Sub-County Hospital,2025-10-25,completed,319,Low,; referral older than 14 days
+R-000569,CL-005383,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Sub-County Hospital,2025-10-25,completed,319,Low,; referral older than 14 days
+R-000083,CL-000649,Kilifi,Kilifi CHU 2,Wairimu Owino,Malaria_Case,Kilifi Level 4 Hospital,2025-10-25,completed,319,Low,; referral older than 14 days
+R-000843,CL-007950,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malnutrition_Screening,Kilifi Referral Health Centre,2025-10-25,completed,319,Low,; referral older than 14 days
+R-000364,CL-003148,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Referral Health Centre,2025-10-25,completed,319,Low,; referral older than 14 days
+R-000543,CL-005109,Bungoma,Bungoma CHU 2,Nyambura Mbithi,Malnutrition_Screening,Bungoma Referral Health Centre,2025-10-26,completed,318,Low,; referral older than 14 days
+R-000972,CL-009407,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-10-26,completed,318,Low,; referral older than 14 days
+R-000337,CL-002934,Nyeri,Nyeri CHU 2,Wanjiru Odongo,ANC,Nyeri Referral Health Centre,2025-10-26,n/a,318,Low,; referral older than 14 days
+R-000854,CL-008075,Kakamega,Kakamega CHU 1,Kamau Odongo,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-10-26,completed,318,Low,; referral older than 14 days
+R-000832,CL-007868,Kilifi,Kilifi CHU 2,Mwangi Kip,Malaria_Case,Kilifi Sub-County Hospital,2025-10-26,completed,318,Low,; referral older than 14 days
+R-000199,CL-001739,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Sub-County Hospital,2025-10-26,completed,318,Low,; referral older than 14 days
+R-000477,CL-004456,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Level 4 Hospital,2025-10-26,completed,318,Low,; referral older than 14 days
+R-000048,CL-000416,Kilifi,Kilifi CHU 1,Kiplagat Onyango,PNC,Kilifi Sub-County Hospital,2025-10-26,completed,318,Low,; referral older than 14 days
+R-000110,CL-000867,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Level 4 Hospital,2025-10-27,n/a,317,Low,; referral older than 14 days
+R-000707,CL-006768,Bungoma,Bungoma CHU 3,Barasa Wekesa,Malnutrition_Screening,Bungoma Referral Health Centre,2025-10-27,completed,317,Low,; referral older than 14 days
+R-000769,CL-007373,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malaria_Case,Kisumu Level 4 Hospital,2025-10-27,completed,317,Low,; referral older than 14 days
+R-000703,CL-006681,Bungoma,Bungoma CHU 1,Chebet Mbithi,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-10-28,completed,316,Low,; referral older than 14 days
+R-000065,CL-000527,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Referral Health Centre,2025-10-28,completed,316,Low,; referral older than 14 days
+R-000208,CL-001801,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Level 4 Hospital,2025-10-28,completed,316,Low,; referral older than 14 days
+R-000372,CL-003226,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-10-28,completed,316,Low,; referral older than 14 days
+R-000042,CL-000389,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malaria_Case,Kilifi Level 4 Hospital,2025-10-28,completed,316,Low,; referral older than 14 days
+R-000312,CL-002698,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Level 4 Hospital,2025-10-28,completed,316,Low,; referral older than 14 days
+R-000491,CL-004613,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Sub-County Hospital,2025-10-28,n/a,316,Low,; referral older than 14 days
+R-001036,CL-009989,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-10-29,completed,315,Low,; referral older than 14 days
+R-000414,CL-003640,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-10-31,completed,313,Low,; referral older than 14 days
+R-000345,CL-002974,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malaria_Case,Kakamega Level 4 Hospital,2025-11-02,completed,311,Low,; referral older than 14 days
+R-000106,CL-000844,Kakamega,Kakamega CHU 1,Nyambura Wekesa,Malaria_Case,Kakamega Referral Health Centre,2025-11-02,completed,311,Low,; referral older than 14 days
+R-000375,CL-003256,Kakamega,Kakamega CHU 1,Nyambura Wekesa,ANC,Kakamega Sub-County Hospital,2025-11-02,completed,311,Low,; referral older than 14 days
+R-001024,CL-009893,Bungoma,Bungoma CHU 3,Kiptoo Kip,Malaria_Case,Bungoma Sub-County Hospital,2025-11-03,completed,310,Low,; referral older than 14 days
+R-000591,CL-005526,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Referral Health Centre,2025-11-03,completed,310,Low,; referral older than 14 days
+R-000533,CL-005006,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-11-03,completed,310,Low,; referral older than 14 days
+R-000182,CL-001549,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Sub-County Hospital,2025-11-03,completed,310,Low,; referral older than 14 days
+R-000671,CL-006368,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Referral Health Centre,2025-11-03,completed,310,Low,; referral older than 14 days
+R-001019,CL-009785,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Referral Health Centre,2025-11-04,completed,309,Low,; referral older than 14 days
+R-000850,CL-008042,Bungoma,Bungoma CHU 1,Chebet Mutiso,ANC,Bungoma Level 4 Hospital,2025-11-04,completed,309,Low,; referral older than 14 days
+R-000834,CL-007890,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malaria_Case,Kilifi Level 4 Hospital,2025-11-04,completed,309,Low,; referral older than 14 days
+R-000009,CL-000031,Nyeri,Nyeri CHU 3,Kamau Odongo,ANC,Nyeri Level 4 Hospital,2025-11-04,na,309,Low,; referral older than 14 days
+R-000408,CL-003611,Machakos,Machakos CHU 3,Cherono Wambui,Malnutrition_Screening,Machakos Referral Health Centre,2025-11-05,completed,308,Low,; referral older than 14 days
+R-000818,CL-007746,Machakos,Machakos CHU 2,Wairimu Kilonzo,Malaria_Case,Machakos Sub-County Hospital,2025-11-05,completed,308,Low,; referral older than 14 days
+R-000949,CL-009121,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-11-07,completed,306,Low,; referral older than 14 days
+R-000103,CL-000802,Kisumu,Kisumu CHU 1,Odhiambo Owino,Malaria_Case,Kisumu Level 4 Hospital,2025-11-07,completed,306,Low,; referral older than 14 days
+R-000473,CL-004375,Kilifi,Kilifi CHU 2,Mwangi Kip,Malaria_Case,Kilifi Level 4 Hospital,2025-11-08,n/a,305,Low,; referral older than 14 days
+R-000266,CL-002252,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malaria_Case,Bungoma Referral Health Centre,2025-11-08,completed,305,Low,; referral older than 14 days
+R-000320,CL-002758,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malnutrition_Screening,Kisumu Referral Health Centre,2025-11-09,completed,304,Low,; referral older than 14 days
+R-000049,CL-000425,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-11-09,completed,304,Low,; referral older than 14 days
+R-000857,CL-008099,Kisumu,Kisumu CHU 2,Adhiambo Odongo,Malaria_Case,Kisumu Referral Health Centre,2025-11-10,completed,303,Low,; referral older than 14 days
+R-000330,CL-002857,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Level 4 Hospital,2025-11-10,completed,303,Low,; referral older than 14 days
+R-000537,CL-005027,Kisumu,Kisumu CHU 2,Wanjiru Simiyu,Malaria_Case,Kisumu Level 4 Hospital,2025-11-10,completed,303,Low,; referral older than 14 days
+R-000712,CL-006801,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malaria_Case,Kakamega Sub-County Hospital,2025-11-10,n/a,303,Low,; referral older than 14 days
+R-000580,CL-005455,Nyeri,Nyeri CHU 2,Wanjiru Odongo,PNC,Nyeri Level 4 Hospital,2025-11-10,completed,303,Low,; referral older than 14 days
+R-000357,CL-003058,Nyeri,Nyeri CHU 3,Kamau Odongo,Malaria_Case,Nyeri Level 4 Hospital,2025-11-10,completed,303,Low,; referral older than 14 days
+R-000672,CL-006392,Kisumu,Kisumu CHU 2,Mutua Mburu,ANC,Kisumu Sub-County Hospital,2025-11-11,completed,302,Low,; referral older than 14 days
+R-000059,CL-000504,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Referral Health Centre,2025-11-11,completed,302,Low,; referral older than 14 days
+R-000547,CL-005150,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Referral Health Centre,2025-11-11,completed,302,Low,; referral older than 14 days
+R-000576,CL-005427,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-11-11,completed,302,Low,; referral older than 14 days
+R-000666,CL-006333,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malaria_Case,Nyeri Referral Health Centre,2025-11-12,completed,301,Low,; referral older than 14 days
+R-000686,CL-006551,Kakamega,Kakamega CHU 1,Kamau Odongo,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-11-13,n/a,300,Low,; referral older than 14 days
+R-000004,CL-000019,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Referral Health Centre,2025-11-13,completed,300,Low,; referral older than 14 days
+R-000136,CL-001106,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,ANC,Kakamega Sub-County Hospital,2025-11-13,completed,300,Low,; referral older than 14 days
+R-000315,CL-002724,Kilifi,Kilifi CHU 2,Otieno Njoroge,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-11-14,completed,299,Low,; referral older than 14 days
+R-000554,CL-005234,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malaria_Case,Nyeri Level 4 Hospital,2025-11-14,completed,299,Low,; referral older than 14 days
+R-000349,CL-003005,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Referral Health Centre,2025-11-14,completed,299,Low,; referral older than 14 days
+R-000899,CL-008593,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-11-15,completed,298,Low,; referral older than 14 days
+R-000143,CL-001140,Machakos,Machakos CHU 2,Nyambura Njoroge,Malaria_Case,Machakos Sub-County Hospital,2025-11-15,completed,298,Low,; referral older than 14 days
+R-000812,CL-007716,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-11-15,completed,298,Low,; referral older than 14 days
+R-000719,CL-006867,Machakos,Machakos CHU 2,Nafula Kariuki,Malaria_Case,Machakos Referral Health Centre,2025-11-16,completed,297,Low,; referral older than 14 days
+R-000700,CL-006638,Machakos,Machakos CHU 3,Wafula Kilonzo,Malnutrition_Screening,Machakos Level 4 Hospital,2025-11-16,completed,297,Low,; referral older than 14 days
+R-000978,CL-009479,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Sub-County Hospital,2025-11-16,na,297,Low,; referral older than 14 days
+R-000986,CL-009518,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malaria_Case,Kilifi Level 4 Hospital,2025-11-16,completed,297,Low,; referral older than 14 days
+R-000243,CL-002065,Kakamega,Kakamega CHU 3,Nyambura Kip,Malaria_Case,Kakamega Sub-County Hospital,2025-11-17,completed,296,Low,; referral older than 14 days
+R-000011,CL-000044,Kisumu,Kisumu CHU 2,Nyambura Odongo,Malaria_Case,Kisumu Referral Health Centre,2025-11-17,completed,296,Low,; referral older than 14 days
+R-000935,CL-008989,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Level 4 Hospital,2025-11-17,completed,296,Low,; referral older than 14 days
+R-000313,CL-002718,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Sub-County Hospital,2025-11-17,n/a,296,Low,; referral older than 14 days
+R-000976,CL-009435,Bungoma,Bungoma CHU 3,Kiptoo Kip,Malaria_Case,Bungoma Sub-County Hospital,2025-11-18,na,295,Low,; referral older than 14 days
+R-000975,CL-009430,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Sub-County Hospital,2025-11-18,completed,295,Low,; referral older than 14 days
+R-000773,CL-007391,Machakos,Machakos CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Machakos Referral Health Centre,2025-11-18,completed,295,Low,; referral older than 14 days
+R-000472,CL-004374,Kilifi,Kilifi CHU 2,Mwangi Kip,PNC,Kilifi Level 4 Hospital,2025-11-19,completed,294,Low,; referral older than 14 days
+R-000588,CL-005513,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-11-19,completed,294,Low,; referral older than 14 days
+R-000156,CL-001283,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Referral Health Centre,2025-11-19,completed,294,Low,; referral older than 14 days
+R-000657,CL-006191,Kisumu,Kisumu CHU 3,Auma Onyango,Malaria_Case,Kisumu Referral Health Centre,2025-11-19,completed,294,Low,; referral older than 14 days
+R-000614,CL-005721,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Referral Health Centre,2025-11-20,completed,293,Low,; referral older than 14 days
+R-000456,CL-004206,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,PNC,Kakamega Level 4 Hospital,2025-11-21,completed,292,Low,; referral older than 14 days
+R-000239,CL-002024,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-11-21,completed,292,Low,; referral older than 14 days
+R-000495,CL-004658,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-11-21,completed,292,Low,; referral older than 14 days
+R-001044,CL-010067,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Sub-County Hospital,2025-11-22,completed,291,Low,; referral older than 14 days
+R-000240,CL-002026,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Referral Health Centre,2025-11-22,completed,291,Low,; referral older than 14 days
+R-000959,CL-009313,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Sub-County Hospital,2025-11-22,completed,291,Low,; referral older than 14 days
+R-000094,CL-000722,Kakamega,Kakamega CHU 1,Wairimu Mbithi,Malaria_Case,Kakamega Sub-County Hospital,2025-11-22,completed,291,Low,; referral older than 14 days
+R-000945,CL-009092,Kilifi,Kilifi CHU 3,Wairimu Kilonzo,Malaria_Case,Kilifi Sub-County Hospital,2025-11-22,completed,291,Low,; referral older than 14 days
+R-000257,CL-002153,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Referral Health Centre,2025-11-23,completed,290,Low,; referral older than 14 days
+R-000822,CL-007768,Kakamega,Kakamega CHU 1,Wairimu Mbithi,ANC,Kakamega Referral Health Centre,2025-11-23,completed,290,Low,; referral older than 14 days
+R-000486,CL-004580,Bungoma,Bungoma CHU 2,Nyambura Mbithi,Malaria_Case,Bungoma Level 4 Hospital,2025-11-23,completed,290,Low,; referral older than 14 days
+R-000076,CL-000601,Kisumu,Kisumu CHU 1,Otieno Simiyu,Malaria_Case,Kisumu Level 4 Hospital,2025-11-24,completed,289,Low,; referral older than 14 days
+R-000189,CL-001673,Kisumu,Kisumu CHU 2,Mutua Mburu,Malnutrition_Screening,Kisumu Referral Health Centre,2025-11-24,completed,289,Low,; referral older than 14 days
+R-000347,CL-002992,Nyeri,Nyeri CHU 1,Achieng Kip,Malaria_Case,Nyeri Sub-County Hospital,2025-11-24,completed,289,Low,; referral older than 14 days
+R-000032,CL-000302,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-11-24,completed,289,Low,; referral older than 14 days
+R-000582,CL-005457,Nyeri,Nyeri CHU 3,Kamau Odongo,Malaria_Case,Nyeri Level 4 Hospital,2025-11-24,completed,289,Low,; referral older than 14 days
+R-000760,CL-007300,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-11-24,completed,289,Low,; referral older than 14 days
+R-000031,CL-000294,Kilifi,Kilifi CHU 2,Otieno Njoroge,ANC,Kilifi Sub-County Hospital,2025-11-25,completed,288,Low,; referral older than 14 days
+R-001002,CL-009664,Kilifi,Kilifi CHU 1,Kiptoo Odongo,ANC,Kilifi Level 4 Hospital,2025-11-25,na,288,Low,; referral older than 14 days
+R-000146,CL-001176,Bungoma,Bungoma CHU 1,Chebet Mutiso,Malaria_Case,Bungoma Level 4 Hospital,2025-11-25,completed,288,Low,; referral older than 14 days
+R-000864,CL-008135,Bungoma,Bungoma CHU 1,Otieno Kilonzo,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-11-25,completed,288,Low,; referral older than 14 days
+R-000163,CL-001359,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Referral Health Centre,2025-11-26,completed,287,Low,; referral older than 14 days
+R-000420,CL-003716,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Sub-County Hospital,2025-11-27,na,286,Low,; referral older than 14 days
+R-000965,CL-009342,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Referral Health Centre,2025-11-27,completed,286,Low,; referral older than 14 days
+R-000901,CL-008607,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malaria_Case,Nyeri Sub-County Hospital,2025-11-27,completed,286,Low,; referral older than 14 days
+R-000581,CL-005455,Nyeri,Nyeri CHU 2,Wanjiru Kip,PNC,Nyeri Referral Health Centre,2025-11-28,completed,285,Low,; referral older than 14 days
+R-001021,CL-009851,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-11-28,completed,285,Low,; referral older than 14 days
+R-000838,CL-007926,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,PNC,Nyeri Referral Health Centre,2025-11-29,completed,284,Low,; referral older than 14 days
+R-000561,CL-005280,Kilifi,Kilifi CHU 3,Wanjiru Kip,ANC,Kilifi Referral Health Centre,2025-11-30,completed,283,Low,; referral older than 14 days
+R-000525,CL-004941,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malnutrition_Screening,Kilifi Referral Health Centre,2025-11-30,completed,283,Low,; referral older than 14 days
+R-000586,CL-005487,Kilifi,Kilifi CHU 1,Kiplagat Onyango,ANC,Kilifi Level 4 Hospital,2025-12-01,completed,282,Low,; referral older than 14 days
+R-000128,CL-000993,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-12-01,completed,282,Low,; referral older than 14 days
+R-000167,CL-001406,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Referral Health Centre,2025-12-01,completed,282,Low,; referral older than 14 days
+R-000275,CL-002309,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malaria_Case,Kisumu Level 4 Hospital,2025-12-01,completed,282,Low,; referral older than 14 days
+R-000498,CL-004676,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Referral Health Centre,2025-12-01,completed,282,Low,; referral older than 14 days
+R-000247,CL-002076,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Referral Health Centre,2025-12-02,completed,281,Low,; referral older than 14 days
+R-000837,CL-007924,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-12-04,completed,279,Low,; referral older than 14 days
+R-000716,CL-006854,Kilifi,Kilifi CHU 2,Wairimu Owino,Malnutrition_Screening,Kilifi Referral Health Centre,2025-12-04,completed,279,Low,; referral older than 14 days
+R-000242,CL-002053,Kisumu,Kisumu CHU 2,Mutua Mburu,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-12-04,completed,279,Low,; referral older than 14 days
+R-000763,CL-007335,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Sub-County Hospital,2025-12-04,completed,279,Low,; referral older than 14 days
+R-000231,CL-001987,Machakos,Machakos CHU 1,Barasa Mutiso,Malaria_Case,Machakos Sub-County Hospital,2025-12-05,completed,278,Low,; referral older than 14 days
+R-000891,CL-008483,Kakamega,Kakamega CHU 3,Njeri Odongo,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-12-06,na,277,Low,; referral older than 14 days
+R-001020,CL-009841,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malaria_Case,Nyeri Sub-County Hospital,2025-12-06,completed,277,Low,; referral older than 14 days
+R-000426,CL-003807,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Level 4 Hospital,2025-12-06,completed,277,Low,; referral older than 14 days
+R-000123,CL-000973,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-12-07,completed,276,Low,; referral older than 14 days
+R-000799,CL-007659,Kilifi,Kilifi CHU 1,Mutua Simiyu,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-12-07,completed,276,Low,; referral older than 14 days
+R-000273,CL-002295,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Sub-County Hospital,2025-12-08,na,275,Low,; referral older than 14 days
+R-000341,CL-002960,Nyeri,Nyeri CHU 3,Otieno Mburu,Malaria_Case,Nyeri Sub-County Hospital,2025-12-08,completed,275,Low,; referral older than 14 days
+R-000033,CL-000302,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-12-08,completed,275,Low,; referral older than 14 days
+R-000060,CL-000508,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Sub-County Hospital,2025-12-08,completed,275,Low,; referral older than 14 days
+R-000802,CL-007665,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Sub-County Hospital,2025-12-09,completed,274,Low,; referral older than 14 days
+R-000331,CL-002860,Bungoma,Bungoma CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Bungoma Referral Health Centre,2025-12-10,na,273,Low,; referral older than 14 days
+R-000780,CL-007460,Bungoma,Bungoma CHU 1,Auma Kilonzo,Malnutrition_Screening,Bungoma Referral Health Centre,2025-12-10,completed,273,Low,; referral older than 14 days
+R-000894,CL-008522,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malaria_Case,Kisumu Sub-County Hospital,2025-12-10,completed,273,Low,; referral older than 14 days
+R-000262,CL-002220,Nyeri,Nyeri CHU 2,Odhiambo Kariuki,Malnutrition_Screening,Nyeri Referral Health Centre,2025-12-11,completed,272,Low,; referral older than 14 days
+R-000851,CL-008045,Bungoma,Bungoma CHU 1,Auma Kilonzo,Malaria_Case,Bungoma Referral Health Centre,2025-12-11,completed,272,Low,; referral older than 14 days
+R-000126,CL-000985,Machakos,Machakos CHU 3,Njeri Mutiso,Malaria_Case,Machakos Level 4 Hospital,2025-12-12,n/a,271,Low,; referral older than 14 days
+R-001023,CL-009885,Kilifi,Kilifi CHU 3,Wanjiru Kip,Malaria_Case,Kilifi Referral Health Centre,2025-12-12,completed,271,Low,; referral older than 14 days
+R-000549,CL-005192,Kisumu,Kisumu CHU 2,Wanjiru Mbithi,Malaria_Case,Kisumu Sub-County Hospital,2025-12-12,completed,271,Low,; referral older than 14 days
+R-000502,CL-004704,Kilifi,Kilifi CHU 1,Kiptoo Odongo,Malnutrition_Screening,Kilifi Referral Health Centre,2025-12-14,completed,269,Low,; referral older than 14 days
+R-000412,CL-003634,Kilifi,Kilifi CHU 2,Mwangi Kip,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-12-15,completed,268,Low,; referral older than 14 days
+R-000963,CL-009334,Kakamega,Kakamega CHU 3,Chebet Simiyu,Malnutrition_Screening,Kakamega Referral Health Centre,2025-12-15,completed,268,Low,; referral older than 14 days
+R-000028,CL-000279,Nyeri,Nyeri CHU 2,Wanjiru Odongo,Malaria_Case,Nyeri Sub-County Hospital,2025-12-16,completed,267,Low,; referral older than 14 days
+R-000389,CL-003393,Kakamega,Kakamega CHU 2,Kiplagat Mburu,Malnutrition_Screening,Kakamega Level 4 Hospital,2025-12-16,completed,267,Low,; referral older than 14 days
+R-000056,CL-000477,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Referral Health Centre,2025-12-16,na,267,Low,; referral older than 14 days
+R-000224,CL-001959,Nyeri,Nyeri CHU 3,Kamau Odongo,Malaria_Case,Nyeri Sub-County Hospital,2025-12-16,completed,267,Low,; referral older than 14 days
+R-000228,CL-001982,Nyeri,Nyeri CHU 2,Nyambura Onyango,ANC,Nyeri Sub-County Hospital,2025-12-16,n/a,267,Low,; referral older than 14 days
+R-000131,CL-001031,Bungoma,Bungoma CHU 3,Mutua Kip,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-12-16,completed,267,Low,; referral older than 14 days
+R-000559,CL-005265,Kisumu,Kisumu CHU 1,Auma Wanyama,Malnutrition_Screening,Kisumu Sub-County Hospital,2025-12-17,completed,266,Low,; referral older than 14 days
+R-000958,CL-009296,Kilifi,Kilifi CHU 3,Wanjiru Kip,ANC,Kilifi Level 4 Hospital,2025-12-17,completed,266,Low,; referral older than 14 days
+R-000704,CL-006684,Bungoma,Bungoma CHU 1,Auma Kilonzo,Malnutrition_Screening,Bungoma Referral Health Centre,2025-12-17,na,266,Low,; referral older than 14 days
+R-000874,CL-008244,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,ANC,Nyeri Referral Health Centre,2025-12-18,completed,265,Low,; referral older than 14 days
+R-000072,CL-000582,Machakos,Machakos CHU 1,Nafula Kilonzo,Malnutrition_Screening,Machakos Level 4 Hospital,2025-12-18,completed,265,Low,; referral older than 14 days
+R-000888,CL-008450,Kakamega,Kakamega CHU 2,,Malaria_Case,Kakamega Level 4 Hospital,2025-12-18,n/a,265,Low,; referral older than 14 days
+R-000928,CL-008851,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malnutrition_Screening,Bungoma Sub-County Hospital,2025-12-18,completed,265,Low,; referral older than 14 days
+R-001046,CL-010103,Bungoma,Bungoma CHU 3,Wanjiru Kariuki,Malnutrition_Screening,Bungoma Level 4 Hospital,2025-12-19,completed,264,Low,; referral older than 14 days
+R-000996,CL-009605,Bungoma,Bungoma CHU 1,Otieno Kilonzo,Malnutrition_Screening,Bungoma Referral Health Centre,2025-12-19,completed,264,Low,; referral older than 14 days
+R-000697,CL-006618,Kakamega,Kakamega CHU 2,Kiplagat Mburu,ANC,Kakamega Sub-County Hospital,2025-12-19,completed,264,Low,; referral older than 14 days
+R-000660,CL-006219,Kilifi,Kilifi CHU 1,Kiplagat Onyango,Malaria_Case,Kilifi Referral Health Centre,2025-12-20,completed,263,Low,; referral older than 14 days
+R-000590,CL-005523,Bungoma,Bungoma CHU 1,Wairimu Mburu,Malaria_Case,Bungoma Referral Health Centre,2025-12-20,completed,263,Low,; referral older than 14 days
+R-000234,CL-002005,Kilifi,Kilifi CHU 3,Wanjiru Kip,Malaria_Case,Kilifi Level 4 Hospital,2025-12-20,completed,263,Low,; referral older than 14 days
+R-000170,CL-001448,Kakamega,Kakamega CHU 1,Wafula Mutiso,Malaria_Case,Kakamega Level 4 Hospital,2025-12-20,completed,263,Low,; referral older than 14 days
+R-000306,CL-002664,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-12-21,completed,262,Low,; referral older than 14 days
+R-000515,CL-004811,Nyeri,Nyeri CHU 2,Nyambura Onyango,Malnutrition_Screening,Nyeri Level 4 Hospital,2025-12-22,completed,261,Low,; referral older than 14 days
+R-000236,CL-002010,Kisumu,Kisumu CHU 1,Njeri Kariuki,ANC,Kisumu Level 4 Hospital,2025-12-22,completed,261,Low,; referral older than 14 days
+R-000215,CL-001866,Kakamega,Kakamega CHU 3,Kiplagat Onyango,ANC,Kakamega Referral Health Centre,2025-12-22,completed,261,Low,; referral older than 14 days
+R-000518,CL-004836,Kisumu,Kisumu CHU 2,Nyambura Odongo,ANC,Kisumu Level 4 Hospital,2025-12-22,completed,261,Low,; referral older than 14 days
+R-000022,CL-000268,Kilifi,Kilifi CHU 2,Mwangi Kip,ANC,Kilifi Referral Health Centre,2025-12-22,completed,261,Low,; referral older than 14 days
+R-000517,CL-004825,Nyeri,Nyeri CHU 2,Wanjiru Kip,ANC,Nyeri Referral Health Centre,2025-12-22,completed,261,Low,; referral older than 14 days
+R-000748,CL-007171,Bungoma,Bungoma CHU 2,Kamau Njoroge,ANC,Bungoma Referral Health Centre,2025-12-24,completed,259,Low,; referral older than 14 days
+R-000478,CL-004464,Nyeri,Nyeri CHU 1,Otieno Kilonzo,Malnutrition_Screening,Nyeri Referral Health Centre,2025-12-24,completed,259,Low,; referral older than 14 days
+R-000158,CL-001317,Nyeri,Nyeri CHU 3,Otieno Mburu,Malnutrition_Screening,Nyeri Referral Health Centre,2025-12-24,completed,259,Low,; referral older than 14 days
+R-000289,CL-002497,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malnutrition_Screening,Kakamega Sub-County Hospital,2025-12-24,completed,259,Low,; referral older than 14 days
+R-001003,CL-009664,Kilifi,Kilifi CHU 1,Mutua Simiyu,ANC,Kilifi Referral Health Centre,2025-12-25,completed,258,Low,; referral older than 14 days
+R-000443,CL-004064,Kakamega,Kakamega CHU 1,Chebet Kariuki,Malnutrition_Screening,Kakamega Referral Health Centre,2025-12-25,completed,258,Low,; referral older than 14 days
+R-000563,CL-005285,Bungoma,Bungoma CHU 2,Chebet Simiyu,Malnutrition_Screening,Bungoma Referral Health Centre,2025-12-26,completed,257,Low,; referral older than 14 days
+R-000052,CL-000455,Kakamega,Kakamega CHU 2,,ANC,Kakamega Sub-County Hospital,2025-12-26,completed,257,Low,; referral older than 14 days
+R-000809,CL-007691,Nyeri,Nyeri CHU 3,Otieno Njoroge,Malaria_Case,Nyeri Referral Health Centre,2025-12-26,completed,257,Low,; referral older than 14 days
+R-000960,CL-009317,Kakamega,Kakamega CHU 2,Wanjiru Njoroge,Malaria_Case,Kakamega Referral Health Centre,2025-12-26,completed,257,Low,; referral older than 14 days
+R-000186,CL-001650,Kakamega,Kakamega CHU 2,Kiplagat Kilonzo,ANC,Kakamega Referral Health Centre,2025-12-27,completed,256,Low,; referral older than 14 days
+R-000757,CL-007271,Kilifi,Kilifi CHU 2,Kiptoo Wambui,Malnutrition_Screening,Kilifi Level 4 Hospital,2025-12-27,completed,256,Low,; referral older than 14 days
+R-000350,CL-003009,Kisumu,Kisumu CHU 1,Auma Wanyama,ANC,Kisumu Referral Health Centre,2025-12-27,na,256,Low,; referral older than 14 days
+R-000786,CL-007552,Kisumu,Kisumu CHU 1,Mwangi Kilonzo,ANC,Kisumu Level 4 Hospital,2025-12-28,n/a,255,Low,; referral older than 14 days
+R-000115,CL-000911,Nyeri,Nyeri CHU 2,Wairimu Kilonzo,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-12-28,completed,255,Low,; referral older than 14 days
+R-000084,CL-000658,Nyeri,Nyeri CHU 1,Kiplagat Mburu,Malnutrition_Screening,Nyeri Sub-County Hospital,2025-12-28,completed,255,Low,; referral older than 14 days
+R-000087,CL-000666,Nyeri,Nyeri CHU 1,Otieno Kilonzo,ANC,Nyeri Level 4 Hospital,2025-12-29,completed,254,Low,; referral older than 14 days
+R-000481,CL-004536,Nyeri,Nyeri CHU 2,Wanjiru Kip,Malnutrition_Screening,Nyeri Referral Health Centre,2025-12-30,completed,253,Low,; referral older than 14 days
+R-000185,CL-001613,Bungoma,Bungoma CHU 1,Chebet Mbithi,ANC,Bungoma Level 4 Hospital,2025-12-30,completed,253,Low,; referral older than 14 days
+R-000775,CL-007409,Bungoma,Bungoma CHU 2,Nyambura Mbithi,ANC,Bungoma Sub-County Hospital,2025-12-30,completed,253,Low,; referral older than 14 days
+R-000867,CL-008172,Nyeri,Nyeri CHU 3,Otieno Njoroge,ANC,Nyeri Level 4 Hospital,2025-12-31,completed,252,Low,; referral older than 14 days

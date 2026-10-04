@@ -1,0 +1,21 @@
+chu_id,chu_name,county,sub_county,ward,population_target
+CHU-KSM-01,Kisumu CHU 1,Kisumu,Kisumu Sub-County 1,Kisumu Ward 1,3990
+CHU-KSM-02,Kisumu CHU 2,Kisumu,Kisumu Sub-County 2,Kisumu Ward 2,7756
+CHU-KSM-03,Kisumu CHU 3,Kisumu,Kisumu Sub-County 1,Kisumu Ward 3,7100
+CHU-KAK-01,Kakamega CHU 1,Kakamega,Kakamega Sub-County 1,Kakamega Ward 1,5913
+CHU-KAK-02,Kakamega CHU 2,Kakamega,Kakamega Sub-County 2,Kakamega Ward 2,5881
+CHU-KAK-03,Kakamega CHU 3,Kakamega,Kakamega Sub-County 1,Kakamega Ward 3,8222
+CHU-MCK-01,Machakos CHU 1,Machakos,Machakos Sub-County 1,Machakos Ward 1,3972
+CHU-MCK-02,Machakos CHU 2,Machakos,Machakos Sub-County 2,Machakos Ward 2,7335
+CHU-MCK-03,Machakos CHU 3,Machakos,Machakos Sub-County 1,Machakos Ward 3,4608
+CHU-KLF-01,Kilifi CHU 1,Kilifi,Kilifi Sub-County 1,Kilifi Ward 1,4017
+CHU-KLF-02,Kilifi CHU 2,Kilifi,Kilifi Sub-County 2,Kilifi Ward 2,6395
+CHU-KLF-03,Kilifi CHU 3,Kilifi,Kilifi Sub-County 1,Kilifi Ward 3,8865
+CHU-BGM-01,Bungoma CHU 1,Bungoma,Bungoma Sub-County 1,Bungoma Ward 1,7546
+CHU-BGM-02,Bungoma CHU 2,Bungoma,Bungoma Sub-County 2,Bungoma Ward 2,7686
+CHU-BGM-03,Bungoma CHU 3,Bungoma,Bungoma Sub-County 1,Bungoma Ward 3,7446
+CHU-NYR-01,Nyeri CHU 1,Nyeri,Nyeri Sub-County 1,Nyeri Ward 1,7823
+CHU-NYR-02,Nyeri CHU 2,Nyeri,Nyeri Sub-County 2,Nyeri Ward 2,6322
+CHU-NYR-03,Nyeri CHU 3,Nyeri,Nyeri Sub-County 1,Nyeri Ward 3,4204
+ chu-bgm-03,Bungoma CHU 3,Bungoma,Bungoma Sub-County 1,Bungoma Ward 3,7446
+ chu-bgm-01,Bungoma CHU 1,Bungoma,Bungoma Sub-County 1,Bungoma Ward 1,7546

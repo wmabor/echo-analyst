@@ -1,0 +1,13 @@
+module,field,total_records,missing_records,missing_percent
+Malaria_Case,rdt_result_clean,5507,508,9.22
+Malaria_Case,act_dispensed_clean,5507,0,0.0
+Malaria_Case,danger_sign_present_clean,5507,0,0.0
+ANC,danger_sign_present_clean,4534,0,0.0
+ANC,anc_contact_number_clean,4534,0,0.0
+PNC,danger_sign_present_clean,1265,0,0.0
+PNC,pnc_visit_number_clean,1265,0,0.0
+Immunization,antigen,8994,0,0.0
+Immunization,status_clean,8994,0,0.0
+Malnutrition_Screening,muac_cm_clean,6420,256,3.99
+Malnutrition_Screening,oedema_present_clean,6420,0,0.0
+Malnutrition_Screening,classification_clean,6420,0,0.0

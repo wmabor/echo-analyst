@@ -1,0 +1,1047 @@
+referral_id,visit_id,client_id,chu_id,county,module,referral_reason,referral_date,facility_name,outcome,completion_date
+R-001019,V-0025338,CL-009785,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-11-04,Kakamega Referral Health Centre,completed,2025-11-07
+R-000737,V-0018330,CL-007073,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-09-15,Bungoma Referral Health Centre,Not Completed,
+R-000315,V-0007136,CL-002724,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-11-14,Kilifi Level 4 Hospital,Yes,2025-11-18
+R-000816,V-0020069,CL-007733,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-04-19,Bungoma Sub-County Hospital,Yes,2025-04-23
+R-000979,V-0024587,CL-009485,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-01-04,Kakamega Referral Health Centre,Yes,2025-01-10
+R-000010,V-0000132,CL-000044,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-11-11,Kisumu Level 4 Hospital,unknown,
+R-000135,V-0002932,CL-001103,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-08-20,Nyeri Level 4 Hospital,,2025-08-29
+R-000778,V-0019352,CL-007446,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-11-19,Machakos Level 4 Hospital,,2025-11-27
+R-000410,V-0009416,CL-003629,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-12-18,Machakos Level 4 Hospital,Unknown,
+R-000413,V-0009451,CL-003639,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-08-22,Kakamega Level 4 Hospital,yes,2025-08-30
+R-001046,V-0026166,CL-010103,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-12-19,Bungoma Level 4 Hospital,completed,2025-12-25
+R-000460,V-0011062,CL-004250,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-03-14,Bungoma Referral Health Centre,yes,2025-03-22
+R-000510,V-0012367,CL-004773,CHU-KAK-01,Kakamega,PNC,PNC danger sign,2025-10-06,Kakamega Referral Health Centre,yes,2025-10-11
+R-000055,V-0001191,CL-000474,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-03-10,Kakamega Level 4 Hospital,Yes,2025-03-17
+R-000802,V-0019885,CL-007665,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-12-09,Kakamega Sub-County Hospital,Completed,2025-12-14
+R-000714,V-0017725,CL-006843,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-08-04,Bungoma Level 4 Hospital,yes,2025-08-05
+R-000543,V-0013256,CL-005109,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-10-26,Bungoma Referral Health Centre,completed,2025-11-01
+R-000768,V-0019118,CL-007356,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-09-17,Kakamega Referral Health Centre,not_completed,
+R-000147,V-0003116,CL-001178,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-03-23,Bungoma Referral Health Centre,1,2025-03-31
+R-000837,V-0020592,CL-007924,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-12-04,Nyeri Level 4 Hospital,Completed,2025-12-11
+R-000488,V-0011917,CL-004581,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-04-05,Bungoma Referral Health Centre,0,
+R-000874,V-0021477,CL-008244,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-12-18,Nyeri Referral Health Centre,completed,2025-12-19
+R-000949,V-0023672,CL-009121,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-11-07,Bungoma Sub-County Hospital,Yes,2025-11-15
+R-000719,V-0017798,CL-006867,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-11-16,Machakos Referral Health Centre,Completed,2025-11-22
+R-000035,V-0000773,CL-000307,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-06-19,Kakamega Referral Health Centre,Completed,2025-06-20
+R-000172,V-0003815,CL-001460,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-03-24,Kakamega Sub-County Hospital,1,2025-03-31
+R-000396,V-0009079,CL-003494,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-09-11,Bungoma Level 4 Hospital,0,
+R-001004,V-0025076,CL-009671,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-06-19,Kilifi Referral Health Centre,0,
+R-000362,V-0008252,CL-003140,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-09-19,Kisumu Sub-County Hospital,Completed,2025-09-28
+R-000329,V-0007453,CL-002850,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-05-24,Machakos Level 4 Hospital,Completed,2025-05-25
+R-000171,V-0003805,CL-001458,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-08-10,Nyeri Sub-County Hospital,completed,2025-08-16
+R-001044,V-0026074,CL-010067,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-11-22,Kisumu Sub-County Hospital,Yes,2025-11-25
+R-000257,V-0005717,CL-002153,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-11-23,Kisumu Referral Health Centre,1,2025-12-02
+R-001000,V-0025011,CL-009654,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-02-23,Kakamega Level 4 Hospital,1,2025-03-04
+R-000180,V-0003975,CL-001516,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-07-12,Nyeri Sub-County Hospital,Yes,2025-07-15
+R-000919,V-0022742,CL-008757,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-22,Kakamega Level 4 Hospital,not_completed,
+R-000586,V-0014278,CL-005487,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-12-01,Kilifi Level 4 Hospital,1,2025-12-04
+R-000165,V-0003609,CL-001363,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-11-28,Kilifi Level 4 Hospital,not_completed,
+R-000850,V-0020892,CL-008042,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-11-04,Bungoma Level 4 Hospital,Yes,2025-11-10
+R-000957,V-0024095,CL-009296,CHU-KLF-03,Kilifi,ANC,ANC danger sign,2025-06-13,Kilifi Referral Health Centre,Completed,2025-06-22
+R-000326,V-0007303,CL-002795,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-06-14,Kakamega Level 4 Hospital,Yes,2025-06-19
+R-000467,V-0011229,CL-004325,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-03-06,Kilifi Referral Health Centre,unknown,
+R-000373,V-0008437,CL-003233,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-11-07,Nyeri Referral Health Centre,Not completed,
+R-000602,V-0014643,CL-005624,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-09-03,Kisumu Referral Health Centre,1,2025-09-11
+R-000485,V-0011875,CL-004564,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-02,Kilifi Sub-County Hospital,NA,
+R-000014,V-0000285,CL-000100,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-07-07,Nyeri Level 4 Hospital,1,2025-07-10
+R-000749,V-0018724,CL-007200,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-01-18,Machakos Sub-County Hospital,yes,2025-01-25
+R-000317,V-0007159,CL-002740,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-06-13,Kisumu Level 4 Hospital,Completed,2025-06-20
+R-000456,V-0010957,CL-004206,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-11-21,Kakamega Level 4 Hospital,yes,2025-11-23
+R-000141,V-0003006,CL-001127,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-10-03,Kisumu Referral Health Centre,Completed,2025-10-08
+R-000217,V-0004924,CL-001881,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-01-03,Kilifi Referral Health Centre,Not completed,
+R-000490,V-0011988,CL-004607,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-04-17,Machakos Sub-County Hospital,yes,2025-04-19
+R-000306,V-0006966,CL-002664,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-12-21,Nyeri Level 4 Hospital,completed,2025-12-23
+R-000659,V-0016150,CL-006215,CHU-MCK-02,Machakos,ANC,ANC danger sign,2025-07-18,Machakos Level 4 Hospital,Not completed,
+R-000956,V-0024088,CL-009294,CHU-KLF-03,Kilifi,ANC,ANC danger sign,2025-07-14,Kilifi Sub-County Hospital,Not completed,
+R-000583,V-0014214,CL-005463,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-04-05,Bungoma Sub-County Hospital,NA,
+R-000900,V-0022317,CL-008593,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-02,Nyeri Level 4 Hospital,yes,2025-10-09
+R-000661,V-0016246,CL-006257,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-07-15,Nyeri Sub-County Hospital,Completed,2025-07-20
+R-000409,V-0009411,CL-003627,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-09-04,Machakos Level 4 Hospital,completed,2025-09-11
+R-000100,V-0002072,CL-000780,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-04,Kilifi Referral Health Centre,NA,
+R-000786,V-0019586,CL-007552,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-12-28,Kisumu Level 4 Hospital,N/A,
+R-000154,V-0003294,CL-001253,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-03-10,Bungoma Sub-County Hospital,1,2025-03-15
+R-000047,V-0001027,CL-000403,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-03-21,Kilifi Referral Health Centre,No,
+R-000005,V-0000051,CL-000024,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-05-09,Kakamega Referral Health Centre,yes,2025-05-18
+R-000173,V-0003830,CL-001464,CHU-KLF-01,Kilifi,PNC,PNC danger sign,2025-10-16,Kilifi Referral Health Centre,Completed,2025-10-23
+R-000966,V-0024257,CL-009345,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-27,Kakamega Level 4 Hospital,Completed,2025-06-06
+R-000927,V-0022975,CL-008848,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-08-29,Nyeri Referral Health Centre,No,
+R-000223,V-0005126,CL-001947,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-06-23,Kakamega Referral Health Centre,1,2025-07-02
+R-000998,V-0024939,CL-009623,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-25,Kilifi Referral Health Centre,NA,
+R-000260,V-0005820,CL-002198,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-04-10,Bungoma Level 4 Hospital,completed,2025-04-16
+R-000559,V-0013666,CL-005265,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-12-17,Kisumu Sub-County Hospital,yes,2025-12-23
+R-000233,V-0005297,CL-002000,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-01-04,Bungoma Sub-County Hospital,completed,2025-01-09
+R-000109,V-0002289,CL-000867,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-09-17,Nyeri Referral Health Centre,completed,2025-09-20
+R-000855,V-0021006,CL-008079,CHU-KAK-01,Kakamega,PNC,PNC danger sign,2025-06-03,Kakamega Level 4 Hospital,unknown,
+R-000981,V-0024618,CL-009492,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-06,Nyeri Sub-County Hospital,yes,2025-10-09
+R-000099,V-0002066,CL-000778,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-09-25,Kilifi Referral Health Centre,Completed,2025-10-04
+R-000601,V-0014639,CL-005623,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-02-08,Kisumu Referral Health Centre,No,
+R-000766,V-0019096,CL-007346,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-05-22,Kilifi Level 4 Hospital,0,
+R-000834,V-0020487,CL-007890,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-04,Kilifi Level 4 Hospital,1,2025-11-05
+R-000221,V-0005108,CL-001939,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-12-08,Nyeri Level 4 Hospital,0,
+R-000358,V-0008045,CL-003061,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-03-21,Nyeri Level 4 Hospital,,
+R-000972,V-0024384,CL-009407,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-10-26,Kakamega Sub-County Hospital,yes,2025-11-02
+R-000025,V-0000689,CL-000274,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-07-14,Kisumu Referral Health Centre,1,2025-07-16
+R-000993,V-0024879,CL-009591,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-25,Kakamega Sub-County Hospital,Yes,2025-08-04
+R-000682,V-0016844,CL-006499,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-06-13,Nyeri Referral Health Centre,not_completed,
+R-000385,V-0008712,CL-003334,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-09-07,Nyeri Referral Health Centre,Completed,2025-09-13
+R-000095,V-0001998,CL-000742,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-05-10,Bungoma Level 4 Hospital,not_completed,
+R-000771,V-0019194,CL-007388,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-04-14,Machakos Sub-County Hospital,,
+R-000452,V-0010803,CL-004160,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-03-07,Kisumu Sub-County Hospital,1,2025-03-16
+R-000026,V-0000691,CL-000274,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-09-23,Kisumu Referral Health Centre,completed,2025-10-02
+R-000114,V-0002352,CL-000894,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-05-04,Kakamega Referral Health Centre,Completed,2025-05-08
+R-000126,V-0002619,CL-000985,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-12-12,Machakos Level 4 Hospital,N/A,
+R-000061,V-0001289,CL-000510,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-07-09,Nyeri Level 4 Hospital,Unknown,
+R-001025,V-0025613,CL-009894,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-10-21,Bungoma Sub-County Hospital,Yes,2025-10-27
+R-001029,V-0025735,CL-009940,CHU-KAK-03,Kakamega,PNC,PNC danger sign,2025-03-16,Kakamega Referral Health Centre,Yes,2025-03-24
+R-000245,V-0005526,CL-002076,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-05-15,Kisumu Sub-County Hospital,Not completed,
+R-000681,V-0016824,CL-006482,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-05-01,Kakamega Level 4 Hospital,unknown,
+R-000076,V-0001611,CL-000601,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-24,Kisumu Level 4 Hospital,1,2025-11-30
+R-000899,V-0022314,CL-008593,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-11-15,Nyeri Sub-County Hospital,1,2025-11-24
+R-000427,V-0009856,CL-003809,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-26,Kakamega Sub-County Hospital,Completed,2025-04-27
+R-000716,V-0017763,CL-006854,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-12-04,Kilifi Referral Health Centre,yes,2025-12-05
+R-000418,V-0009539,CL-003682,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-31,Nyeri Referral Health Centre,not_completed,
+R-000910,V-0022520,CL-008668,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-04-20,Kilifi Referral Health Centre,Yes,2025-04-25
+R-000390,V-0008891,CL-003401,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-01-25,Nyeri Sub-County Hospital,No,
+R-000054,V-0001155,CL-000461,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-03-26,Machakos Referral Health Centre,completed,2025-04-01
+R-000844,V-0020708,CL-007971,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-03,Kilifi Sub-County Hospital,Yes,2025-08-08
+R-000351,V-0007909,CL-003011,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-05-01,Kisumu Referral Health Centre,yes,2025-05-06
+R-000206,V-0004662,CL-001780,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-10-04,Machakos Referral Health Centre,completed,2025-10-11
+R-000472,V-0011345,CL-004374,CHU-KLF-02,Kilifi,PNC,PNC danger sign,2025-11-19,Kilifi Level 4 Hospital,Completed,2025-11-24
+R-000532,V-0012957,CL-005003,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-02-01,Kakamega Level 4 Hospital,Completed,2025-02-08
+R-000644,V-0015732,CL-006047,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-06-23,Nyeri Referral Health Centre,completed,2025-07-01
+R-000404,V-0009245,CL-003573,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-30,Kilifi Level 4 Hospital,unknown,
+R-000907,V-0022499,CL-008660,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-20,Kakamega Referral Health Centre,NA,
+R-000493,V-0012024,CL-004620,CHU-NYR-03,Nyeri,PNC,PNC danger sign,2025-10-14,Nyeri Sub-County Hospital,Not completed,
+R-000376,V-0008489,CL-003260,CHU-NYR-01,Nyeri,PNC,PNC danger sign,2025-09-25,Nyeri Level 4 Hospital,No,
+R-000913,V-0022564,CL-008688,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-05-14,Bungoma Referral Health Centre,Yes,2025-05-18
+R-000511,V-0012399,CL-004796,CHU-NYR-03,Nyeri,PNC,PNC danger sign,2025-09-14,Nyeri Sub-County Hospital,1,2025-09-21
+R-000098,V-0002058,CL-000776,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-22,Kakamega Referral Health Centre,1,2025-04-26
+R-000286,V-0006345,CL-002416,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-02-14,Bungoma Sub-County Hospital,NA,
+R-000783,V-0019492,CL-007507,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-12,Kilifi Level 4 Hospital,No,
+R-000740,V-0018480,CL-007124,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-02-03,Kilifi Sub-County Hospital,Not Completed,
+R-000499,V-0012150,CL-004678,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-03-21,Kilifi Level 4 Hospital,yes,2025-03-23
+R-000781,V-0019458,CL-007492,CHU-KAK-03,Kakamega,ANC,ANC danger sign,2025-10-02,Kakamega Level 4 Hospital,Completed,2025-10-12
+R-000018,V-0000499,CL-000196,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-04-24,Kilifi Sub-County Hospital,1,2025-04-28
+R-000197,V-0004470,CL-001715,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-23,Kilifi Sub-County Hospital,N/A,
+R-000027,V-0000702,CL-000279,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-01-22,Nyeri Referral Health Centre,1,2025-01-25
+R-000729,V-0018158,CL-007022,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-01-28,Bungoma Sub-County Hospital,NA,
+R-000187,V-0004355,CL-001671,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-29,Kilifi Referral Health Centre,Not completed,
+R-000744,V-0018528,CL-007134,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-17,Kakamega Level 4 Hospital,,2025-11-20
+R-000345,V-0007792,CL-002974,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-02,Kakamega Level 4 Hospital,yes,2025-11-12
+R-000703,V-0017378,CL-006681,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-10-28,Bungoma Level 4 Hospital,Yes,2025-11-01
+R-000190,V-0004382,CL-001676,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-21,Nyeri Level 4 Hospital,yes,2025-05-29
+R-000743,V-0018523,CL-007131,CHU-MCK-01,Machakos,ANC,ANC danger sign,2025-11-06,Machakos Referral Health Centre,not_completed,
+R-000971,V-0024371,CL-009400,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-10-22,Nyeri Sub-County Hospital,Yes,2025-10-24
+R-000271,V-0006043,CL-002286,CHU-MCK-02,Machakos,ANC,ANC danger sign,2025-08-22,Machakos Sub-County Hospital,NA,
+R-000327,V-0007304,CL-002795,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-24,Kakamega Level 4 Hospital,not_completed,
+R-000807,V-0019951,CL-007688,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-11-18,Nyeri Sub-County Hospital,Not completed,
+R-000813,V-0020023,CL-007717,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-06-15,Bungoma Referral Health Centre,completed,2025-06-20
+R-000779,V-0019394,CL-007460,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-09-12,Bungoma Referral Health Centre,Not completed,
+R-000796,V-0019721,CL-007616,CHU-BGM-03,Bungoma,PNC,PNC danger sign,2025-10-04,Bungoma Referral Health Centre,Not Completed,
+R-000352,V-0007910,CL-003011,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-06-10,Kisumu Referral Health Centre,yes,2025-06-12
+R-000386,V-0008789,CL-003361,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-03-04,Kakamega Sub-County Hospital,,2025-03-08
+R-000753,V-0018856,CL-007241,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-08-27,Kakamega Referral Health Centre,Completed,2025-09-02
+R-000792,V-0019669,CL-007593,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-06-01,Kisumu Referral Health Centre,NA,
+R-000732,V-0018247,CL-007040,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-05-21,Kilifi Level 4 Hospital,Yes,2025-05-22
+R-000263,V-0005889,CL-002224,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-24,Nyeri Sub-County Hospital,Not Completed,
+R-000841,V-0020648,CL-007944,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-08,Kakamega Referral Health Centre,not_completed,
+R-000075,V-0001610,CL-000601,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-10-17,Kisumu Level 4 Hospital,yes,2025-10-19
+R-000169,V-0003795,CL-001445,CHU-MCK-01,Machakos,Malaria_Case,Severe malaria danger sign,2025-10-05,Machakos Sub-County Hospital,yes,2025-10-07
+R-000650,V-0015957,CL-006144,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-09-19,Machakos Referral Health Centre,0,
+R-000563,V-0013707,CL-005285,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-12-26,Bungoma Referral Health Centre,yes,2025-12-27
+R-001007,V-0025186,CL-009715,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-21,Kakamega Level 4 Hospital,Completed,2025-07-26
+R-000660,V-0016164,CL-006219,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-12-20,Kilifi Referral Health Centre,yes,2025-12-25
+R-000730,V-0018240,CL-007039,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-12-18,Kilifi Sub-County Hospital,Unknown,
+R-000554,V-0013577,CL-005234,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-14,Nyeri Level 4 Hospital,Yes,2025-11-22
+R-000307,V-0006977,CL-002671,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-08-17,Kakamega Sub-County Hospital,No,
+R-000926,V-0022918,CL-008826,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-12,Kakamega Sub-County Hospital,1,2025-06-18
+R-000962,V-0024201,CL-009333,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-15,Kakamega Referral Health Centre,Not completed,
+R-000758,V-0018973,CL-007291,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-09,Kakamega Sub-County Hospital,No,
+R-000897,V-0022275,CL-008578,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-15,Kakamega Referral Health Centre,completed,2025-06-25
+R-000791,V-0019668,CL-007593,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-03-08,Kisumu Sub-County Hospital,1,2025-03-14
+R-000642,V-0015710,CL-006030,CHU-BGM-02,Bungoma,PNC,PNC danger sign,2025-11-17,Bungoma Sub-County Hospital,unknown,
+R-001024,V-0025611,CL-009893,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-11-03,Bungoma Sub-County Hospital,yes,2025-11-07
+R-000309,V-0006998,CL-002678,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-09-03,Kakamega Level 4 Hospital,1,2025-09-07
+R-000111,V-0002306,CL-000873,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-07-14,Kakamega Referral Health Centre,Completed,2025-07-20
+R-000526,V-0012831,CL-004964,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-05-03,Bungoma Level 4 Hospital,Completed,2025-05-07
+R-000870,V-0021346,CL-008204,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-08-13,Kakamega Sub-County Hospital,1,2025-08-19
+R-000058,V-0001250,CL-000496,CHU-MCK-03,Machakos,Malnutrition_Screening,SAM classification,2025-10-02,Machakos Sub-County Hospital,completed,2025-10-12
+R-000651,V-0015969,CL-006148,CHU-KSM-01,Kisumu,PNC,PNC danger sign,2025-07-26,Kisumu Sub-County Hospital,NA,
+R-000007,V-0000063,CL-000025,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-08-11,Kakamega Level 4 Hospital,Completed,2025-08-18
+R-000967,V-0024258,CL-009345,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-28,Kakamega Level 4 Hospital,Not completed,
+R-000139,V-0002965,CL-001119,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-08-19,Kisumu Level 4 Hospital,Completed,2025-08-20
+R-000164,V-0003588,CL-001360,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-03-20,Bungoma Referral Health Centre,1,2025-03-28
+R-000359,V-0008058,CL-003064,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-05-02,Kakamega Level 4 Hospital,completed,2025-05-09
+R-000891,V-0022104,CL-008483,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-12-06,Kakamega Sub-County Hospital,NA,
+R-000839,V-0020616,CL-007933,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-03-31,Nyeri Level 4 Hospital,Yes,2025-04-09
+R-000044,V-0000995,CL-000391,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-02-25,Kilifi Level 4 Hospital,0,
+R-000616,V-0015008,CL-005757,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-10-15,Nyeri Sub-County Hospital,yes,2025-10-19
+R-000064,V-0001299,CL-000520,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-07-18,Bungoma Referral Health Centre,unknown,
+R-000592,V-0014394,CL-005543,CHU-MCK-02,Machakos,ANC,ANC danger sign,2025-08-22,Machakos Sub-County Hospital,yes,2025-08-27
+R-000587,V-0014342,CL-005510,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-10-06,Kisumu Level 4 Hospital,1,2025-10-15
+R-000039,V-0000922,CL-000366,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-08-04,Kisumu Referral Health Centre,1,2025-08-12
+R-000400,V-0009206,CL-003554,CHU-BGM-03,Bungoma,PNC,PNC danger sign,2025-03-15,Bungoma Sub-County Hospital,Completed,2025-03-24
+R-000787,V-0019612,CL-007576,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-05-30,Nyeri Level 4 Hospital,Completed,2025-06-03
+R-000889,V-0022057,CL-008460,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-08,Kakamega Referral Health Centre,Not Completed,
+R-000984,V-0024657,CL-009509,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-09-12,Kakamega Sub-County Hospital,Not Completed,
+R-000205,V-0004623,CL-001769,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-08-19,Kakamega Referral Health Centre,Completed,2025-08-22
+R-000421,V-0009658,CL-003753,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-03-16,Kilifi Referral Health Centre,Yes,2025-03-25
+R-000961,V-0024179,CL-009324,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-01-30,Bungoma Level 4 Hospital,Yes,2025-02-01
+R-000863,V-0021149,CL-008131,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-09-10,Nyeri Level 4 Hospital,yes,2025-09-20
+R-000285,V-0006321,CL-002406,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-11-04,Kilifi Sub-County Hospital,0,
+R-001003,V-0025067,CL-009664,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-12-25,Kilifi Referral Health Centre,1,2026-01-03
+R-001040,V-0025990,CL-010030,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-11-15,Nyeri Level 4 Hospital,0,
+R-001020,V-0025483,CL-009841,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-06,Nyeri Sub-County Hospital,yes,2025-12-11
+R-000419,V-0009553,CL-003689,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-08-22,Kisumu Sub-County Hospital,yes,2025-08-28
+R-001045,V-0026131,CL-010095,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-01-04,Nyeri Level 4 Hospital,1,2025-01-12
+R-000473,V-0011346,CL-004375,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-08,Kilifi Level 4 Hospital,N/A,
+R-000186,V-0004305,CL-001650,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-12-27,Kakamega Referral Health Centre,Yes,2025-12-30
+R-001013,V-0025277,CL-009753,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-02-08,Kakamega Referral Health Centre,Unknown,
+R-000633,V-0015468,CL-005939,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-01-04,Kisumu Referral Health Centre,0,
+R-000857,V-0021058,CL-008099,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-10,Kisumu Referral Health Centre,Completed,2025-11-19
+R-000873,V-0021464,CL-008242,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-04-22,Nyeri Sub-County Hospital,1,2025-05-02
+R-000229,V-0005247,CL-001985,CHU-MCK-01,Machakos,ANC,ANC danger sign,2025-05-22,Machakos Referral Health Centre,yes,2025-05-29
+R-000548,V-0013464,CL-005189,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-04-14,Nyeri Sub-County Hospital,completed,2025-04-18
+R-000858,V-0021070,CL-008105,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-11,Nyeri Referral Health Centre,N/A,
+R-000368,V-0008338,CL-003176,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-01-24,Kilifi Referral Health Centre,Completed,2025-02-02
+R-000062,V-0001294,CL-000515,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-05-16,Kisumu Referral Health Centre,N/A,
+R-000627,V-0015280,CL-005870,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-05-09,Kakamega Level 4 Hospital,,2025-05-12
+R-000597,V-0014529,CL-005589,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-02-17,Bungoma Level 4 Hospital,not_completed,
+R-000508,V-0012318,CL-004751,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-09-05,Machakos Referral Health Centre,Not Completed,
+R-000545,V-0013337,CL-005142,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-07-19,Bungoma Level 4 Hospital,completed,2025-07-24
+R-000596,V-0014525,CL-005588,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-11-11,Bungoma Referral Health Centre,Not completed,
+R-000748,V-0018628,CL-007171,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-12-24,Bungoma Referral Health Centre,Yes,2025-12-26
+R-000455,V-0010905,CL-004193,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-11-28,Bungoma Sub-County Hospital,Not completed,
+R-000254,V-0005675,CL-002145,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-08-07,Bungoma Referral Health Centre,yes,2025-08-16
+R-001037,V-0025900,CL-009993,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-07-07,Bungoma Sub-County Hospital,yes,2025-07-14
+R-000515,V-0012461,CL-004811,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-12-22,Nyeri Level 4 Hospital,Completed,2026-01-01
+R-000710,V-0017608,CL-006785,CHU-NYR-01,Nyeri,PNC,PNC danger sign,2025-09-03,Nyeri Referral Health Centre,yes,2025-09-06
+R-000436,V-0010202,CL-003929,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-13,Nyeri Sub-County Hospital,NA,
+R-000571,V-0013974,CL-005397,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-06-02,Kakamega Level 4 Hospital,yes,2025-05-30
+R-000110,V-0002290,CL-000867,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-27,Nyeri Level 4 Hospital,N/A,
+R-000678,V-0016727,CL-006449,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-03-22,Kakamega Referral Health Centre,,2025-03-27
+R-000361,V-0008229,CL-003131,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-19,Nyeri Level 4 Hospital,unknown,
+R-000337,V-0007669,CL-002934,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-10-26,Nyeri Referral Health Centre,N/A,
+R-000611,V-0014843,CL-005691,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-03-04,Nyeri Sub-County Hospital,not_completed,
+R-000701,V-0017274,CL-006646,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-11-11,Kisumu Sub-County Hospital,unknown,
+R-000320,V-0007204,CL-002758,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-11-09,Kisumu Referral Health Centre,yes,2025-11-18
+R-000614,V-0014914,CL-005721,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-20,Kilifi Referral Health Centre,Yes,2025-11-30
+R-000397,V-0009098,CL-003498,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-07-28,Bungoma Level 4 Hospital,Not Completed,
+R-000149,V-0003168,CL-001197,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-06-15,Machakos Sub-County Hospital,completed,2025-06-18
+R-000794,V-0019702,CL-007608,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-02-14,Kisumu Sub-County Hospital,completed,2025-02-16
+R-000685,V-0016957,CL-006535,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-01-24,Machakos Level 4 Hospital,Completed,2025-02-03
+R-000541,V-0013212,CL-005090,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-08-12,Kisumu Level 4 Hospital,1,2025-08-15
+R-000159,V-0003506,CL-001335,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-08-22,Kisumu Sub-County Hospital,1,2025-08-23
+R-000929,V-0023016,CL-008862,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-08,Kakamega Referral Health Centre,Completed,2025-07-14
+R-000483,V-0011841,CL-004549,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-01-15,Nyeri Sub-County Hospital,Not Completed,
+R-000570,V-0013952,CL-005392,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-04-04,Kilifi Level 4 Hospital,Completed,2025-04-13
+R-000494,V-0012073,CL-004638,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-07-09,Kakamega Referral Health Centre,yes,2025-07-14
+R-000024,V-0000688,CL-000274,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-06-05,Kisumu Referral Health Centre,completed,2025-06-12
+R-000690,V-0017112,CL-006587,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-11,Kakamega Referral Health Centre,Completed,2025-05-20
+R-000129,V-0002712,CL-001016,CHU-KLF-03,Kilifi,Malnutrition_Screening,SAM classification,2025-12-07,Kilifi Sub-County Hospital,No,
+R-000862,V-0021147,CL-008131,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-07-02,Nyeri Level 4 Hospital,yes,2025-07-05
+R-000973,V-0024437,CL-009425,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-09-14,Nyeri Referral Health Centre,yes,2025-09-17
+R-000325,V-0007238,CL-002775,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-11-06,Kisumu Level 4 Hospital,Not Completed,
+R-000903,V-0022416,CL-008629,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-07-20,Machakos Sub-County Hospital,Not Completed,
+R-000512,V-0012444,CL-004804,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-02-02,Kakamega Sub-County Hospital,Completed,2025-02-12
+R-000363,V-0008273,CL-003148,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-03-10,Nyeri Sub-County Hospital,1,2025-03-19
+R-000953,V-0023885,CL-009216,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-01-06,Kisumu Sub-County Hospital,Completed,2025-01-09
+R-000468,V-0011231,CL-004325,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-09-12,Kilifi Sub-County Hospital,not_completed,
+R-000715,V-0017753,CL-006848,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-09-08,Kisumu Level 4 Hospital,Yes,2025-09-13
+R-000847,V-0020748,CL-007988,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-07-09,Nyeri Level 4 Hospital,N/A,
+R-000759,V-0018982,CL-007300,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-10-09,Bungoma Level 4 Hospital,yes,2025-10-11
+R-000831,V-0020391,CL-007861,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-09-07,Kisumu Sub-County Hospital,Unknown,
+R-000680,V-0016750,CL-006462,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-02,Nyeri Referral Health Centre,completed,2025-10-10
+R-000420,V-0009583,CL-003716,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-11-27,Nyeri Sub-County Hospital,NA,
+R-000527,V-0012873,CL-004974,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-10-01,Kakamega Sub-County Hospital,NA,
+R-000610,V-0014805,CL-005681,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-09-30,Nyeri Level 4 Hospital,1,2025-10-03
+R-000250,V-0005618,CL-002112,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-07-26,Bungoma Referral Health Centre,Yes,2025-08-03
+R-000380,V-0008617,CL-003308,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-09-02,Bungoma Sub-County Hospital,NA,
+R-000016,V-0000417,CL-000164,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-09-06,Kakamega Referral Health Centre,Not Completed,
+R-000160,V-0003552,CL-001348,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-19,Nyeri Referral Health Centre,N/A,
+R-000645,V-0015734,CL-006048,CHU-NYR-01,Nyeri,Malnutrition_Screening,SAM classification,2025-10-06,Nyeri Sub-County Hospital,Unknown,
+R-000049,V-0001067,CL-000425,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-09,Kakamega Sub-County Hospital,Completed,2025-11-12
+R-000990,V-0024773,CL-009548,CHU-KAK-03,Kakamega,ANC,ANC danger sign,2025-10-08,Kakamega Referral Health Centre,No,
+R-000700,V-0017261,CL-006638,CHU-MCK-03,Machakos,Malnutrition_Screening,SAM classification,2025-11-16,Machakos Level 4 Hospital,1,2025-11-21
+R-000412,V-0009437,CL-003634,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-12-15,Kilifi Level 4 Hospital,Completed,2025-12-25
+R-000378,V-0008502,CL-003263,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-15,Kakamega Referral Health Centre,Completed,2025-06-23
+R-000295,V-0006742,CL-002568,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-09-03,Bungoma Referral Health Centre,N/A,
+R-000568,V-0013894,CL-005376,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-04-17,Kisumu Referral Health Centre,1,2025-04-26
+R-000128,V-0002628,CL-000993,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-12-01,Kakamega Level 4 Hospital,yes,2025-12-09
+R-000298,V-0006794,CL-002582,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-02-05,Kakamega Referral Health Centre,0,
+R-000997,V-0024928,CL-009622,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-15,Kilifi Sub-County Hospital,completed,2025-10-17
+R-000238,V-0005351,CL-002016,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-06-09,Kakamega Referral Health Centre,yes,2025-06-19
+R-000168,V-0003722,CL-001415,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-02-05,Nyeri Referral Health Centre,NA,
+R-000893,V-0022175,CL-008519,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-08-20,Kisumu Sub-County Hospital,Yes,2025-08-22
+R-000447,V-0010677,CL-004103,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-02,Kisumu Referral Health Centre,not_completed,
+R-000081,V-0001689,CL-000626,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-07-22,Machakos Sub-County Hospital,Yes,2025-07-28
+R-000876,V-0021531,CL-008260,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-02-21,Kisumu Level 4 Hospital,completed,2025-03-02
+R-000942,V-0023550,CL-009063,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-05-06,Bungoma Sub-County Hospital,No,
+R-000938,V-0023455,CL-009032,CHU-NYR-03,Nyeri,PNC,PNC danger sign,2025-08-17,Nyeri Sub-County Hospital,completed,2025-08-26
+R-000031,V-0000741,CL-000294,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-11-25,Kilifi Sub-County Hospital,Yes,2025-11-21
+R-000243,V-0005501,CL-002065,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-17,Kakamega Sub-County Hospital,Yes,2025-11-18
+R-000672,V-0016599,CL-006392,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-11-11,Kisumu Sub-County Hospital,1,2025-11-18
+R-000741,V-0018502,CL-007127,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-03-28,Kilifi Level 4 Hospital,not_completed,
+R-000572,V-0013991,CL-005402,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-12-14,Kisumu Sub-County Hospital,No,
+R-000776,V-0019296,CL-007424,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-10,Nyeri Referral Health Centre,yes,2025-05-17
+R-000579,V-0014170,CL-005454,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-13,Nyeri Sub-County Hospital,completed,2025-08-20
+R-000706,V-0017496,CL-006726,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-16,Kakamega Sub-County Hospital,Yes,2025-06-23
+R-000028,V-0000705,CL-000279,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-16,Nyeri Sub-County Hospital,yes,2025-12-17
+R-000578,V-0014158,CL-005449,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-12-21,Kisumu Sub-County Hospital,Not Completed,
+R-000123,V-0002566,CL-000973,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-12-07,Kakamega Sub-County Hospital,yes,2025-12-09
+R-000803,V-0019897,CL-007669,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-04,Nyeri Referral Health Centre,Yes,2025-10-03
+R-000936,V-0023380,CL-009002,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-09-02,Bungoma Sub-County Hospital,Yes,2025-09-07
+R-000921,V-0022772,CL-008773,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-11-21,Kakamega Referral Health Centre,unknown,
+R-000724,V-0017985,CL-006934,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-09-24,Kisumu Sub-County Hospital,completed,2025-10-01
+R-000564,V-0013728,CL-005292,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-05-08,Machakos Referral Health Centre,1,2025-05-10
+R-000509,V-0012319,CL-004751,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-10-10,Machakos Referral Health Centre,unknown,
+R-001032,V-0025815,CL-009964,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-24,Kisumu Level 4 Hospital,unknown,
+R-000272,V-0006075,CL-002295,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-24,Nyeri Level 4 Hospital,Not completed,
+R-000348,V-0007865,CL-002997,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-08-21,Nyeri Sub-County Hospital,Completed,2025-08-31
+R-000757,V-0018927,CL-007271,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-12-27,Kilifi Level 4 Hospital,1,2026-01-04
+R-000278,V-0006105,CL-002312,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-03-04,Kisumu Referral Health Centre,1,2025-03-12
+R-000895,V-0022213,CL-008542,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-18,Kakamega Referral Health Centre,completed,2025-10-28
+R-000908,V-0022510,CL-008665,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-21,Bungoma Sub-County Hospital,completed,2025-03-29
+R-000432,V-0009960,CL-003847,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-01-28,Bungoma Level 4 Hospital,1,2025-02-07
+R-000692,V-0017169,CL-006610,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-06-12,Bungoma Level 4 Hospital,NA,
+R-000976,V-0024469,CL-009435,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-11-18,Bungoma Sub-County Hospital,NA,
+R-000148,V-0003123,CL-001179,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-06-12,Bungoma Level 4 Hospital,Unknown,
+R-000300,V-0006823,CL-002590,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-08-18,Bungoma Level 4 Hospital,completed,2025-08-21
+R-000557,V-0013645,CL-005255,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-09-12,Kakamega Level 4 Hospital,unknown,
+R-000446,V-0010649,CL-004089,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-03-22,Kisumu Sub-County Hospital,Yes,2025-03-24
+R-000878,V-0021624,CL-008290,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-07-15,Nyeri Sub-County Hospital,Completed,2025-07-24
+R-000458,V-0010973,CL-004218,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-09-08,Kisumu Sub-County Hospital,not_completed,
+R-000052,V-0001141,CL-000455,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-12-26,Kakamega Sub-County Hospital,1,2025-12-27
+R-000879,V-0021684,CL-008312,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-06-15,Kakamega Sub-County Hospital,Not Completed,
+R-000519,V-0012524,CL-004840,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-15,Kakamega Referral Health Centre,Not Completed,
+R-000023,V-0000685,CL-000272,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-06-19,Kisumu Sub-County Hospital,completed,2025-06-23
+R-000319,V-0007191,CL-002755,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-03-03,Kilifi Sub-County Hospital,Yes,2025-03-09
+R-000675,V-0016665,CL-006415,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-06-27,Bungoma Level 4 Hospital,Not completed,
+R-000433,V-0010052,CL-003878,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-08-12,Kakamega Referral Health Centre,completed,2025-08-20
+R-000210,V-0004759,CL-001818,CHU-KSM-03,Kisumu,PNC,PNC danger sign,2025-06-09,Kisumu Referral Health Centre,Yes,2025-06-19
+R-000620,V-0015083,CL-005782,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-05-05,Kakamega Referral Health Centre,,2025-05-11
+R-000143,V-0003038,CL-001140,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-11-15,Machakos Sub-County Hospital,completed,2025-11-23
+R-000051,V-0001135,CL-000450,CHU-KSM-03,Kisumu,Malnutrition_Screening,SAM classification,2025-02-26,Kisumu Sub-County Hospital,1,2025-03-03
+R-000167,V-0003710,CL-001406,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-12-01,Kakamega Referral Health Centre,completed,2025-12-02
+R-000667,V-0016491,CL-006336,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-03-24,Kilifi Level 4 Hospital,not_completed,
+R-001009,V-0025197,CL-009719,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-09-10,Nyeri Sub-County Hospital,NA,
+R-000082,V-0001763,CL-000649,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-02-19,Kilifi Sub-County Hospital,Not Completed,
+R-000849,V-0020876,CL-008035,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-06-19,Kilifi Referral Health Centre,unknown,
+R-000322,V-0007223,CL-002770,CHU-KLF-03,Kilifi,PNC,PNC danger sign,2025-10-09,Kilifi Sub-County Hospital,Completed,2025-10-13
+R-000933,V-0023143,CL-008903,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-09-13,Nyeri Sub-County Hospital,Not completed,
+R-000965,V-0024238,CL-009342,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-27,Kakamega Referral Health Centre,Completed,2025-12-02
+R-000887,V-0022027,CL-008448,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-04-25,Kilifi Sub-County Hospital,Completed,2025-04-28
+R-000067,V-0001409,CL-000541,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-04-27,Nyeri Referral Health Centre,completed,2025-05-03
+R-000335,V-0007630,CL-002909,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-01-23,Bungoma Referral Health Centre,1,2025-01-27
+R-001018,V-0025329,CL-009783,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-09-21,Nyeri Level 4 Hospital,No,
+R-001012,V-0025252,CL-009748,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-01-16,Kakamega Referral Health Centre,not_completed,
+R-000290,V-0006593,CL-002516,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-05,Kakamega Sub-County Hospital,No,
+R-000340,V-0007733,CL-002958,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-04-29,Nyeri Referral Health Centre,Completed,2025-05-02
+R-000830,V-0020385,CL-007860,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-09-06,Kisumu Sub-County Hospital,Unknown,
+R-000284,V-0006275,CL-002385,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-08-31,Kisumu Sub-County Hospital,1,2025-09-02
+R-000501,V-0012197,CL-004698,CHU-NYR-03,Nyeri,PNC,PNC danger sign,2025-01-03,Nyeri Sub-County Hospital,Completed,2025-01-06
+R-000665,V-0016408,CL-006316,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-01-20,Nyeri Referral Health Centre,Completed,2025-01-26
+R-000065,V-0001330,CL-000527,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-10-28,Bungoma Referral Health Centre,completed,2025-11-06
+R-000694,V-0017188,CL-006618,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-04,Kakamega Referral Health Centre,Yes,2025-07-05
+R-000265,V-0005970,CL-002251,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-07-23,Bungoma Referral Health Centre,yes,2025-08-01
+R-000450,V-0010741,CL-004138,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-09-17,Nyeri Sub-County Hospital,yes,2025-09-24
+R-000581,V-0014177,CL-005455,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-11-28,Nyeri Referral Health Centre,Completed,2025-12-07
+R-000784,V-0019540,CL-007527,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-08-19,Kakamega Referral Health Centre,1,2025-08-25
+R-000021,V-0000602,CL-000244,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-04-26,Kakamega Level 4 Hospital,Completed,2025-04-30
+R-000443,V-0010581,CL-004064,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-12-25,Kakamega Referral Health Centre,completed,2025-12-29
+R-000822,V-0020140,CL-007768,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-11-23,Kakamega Referral Health Centre,1,2025-11-27
+R-000747,V-0018614,CL-007165,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-06-17,Bungoma Level 4 Hospital,unknown,
+R-000297,V-0006786,CL-002581,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-03-25,Kakamega Level 4 Hospital,completed,2025-03-31
+R-000500,V-0012157,CL-004683,CHU-MCK-02,Machakos,PNC,PNC danger sign,2025-09-18,Machakos Level 4 Hospital,No,
+R-000573,V-0014057,CL-005417,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-16,Kakamega Referral Health Centre,Completed,2025-10-17
+R-000262,V-0005885,CL-002220,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-12-11,Nyeri Referral Health Centre,completed,2025-12-14
+R-000805,V-0019920,CL-007679,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-10-25,Bungoma Sub-County Hospital,1,2025-10-27
+R-000866,V-0021195,CL-008145,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-05-06,Bungoma Level 4 Hospital,0,
+R-001033,V-0025853,CL-009976,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-12-04,Kakamega Referral Health Centre,Not Completed,
+R-000558,V-0013661,CL-005260,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-05-07,Kilifi Referral Health Centre,not_completed,
+R-000612,V-0014846,CL-005691,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-09-17,Nyeri Referral Health Centre,unknown,
+R-000622,V-0015110,CL-005799,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-03-12,Nyeri Sub-County Hospital,N/A,
+R-000529,V-0012898,CL-004984,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-07-23,Kakamega Sub-County Hospital,Completed,2025-07-25
+R-000882,V-0021805,CL-008379,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-06-30,Kakamega Sub-County Hospital,1,2025-07-06
+R-000189,V-0004363,CL-001673,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-11-24,Kisumu Referral Health Centre,Completed,2025-11-30
+R-000252,V-0005664,CL-002140,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-06-27,Kilifi Sub-County Hospital,Yes,2025-06-29
+R-000072,V-0001538,CL-000582,CHU-MCK-01,Machakos,Malnutrition_Screening,SAM classification,2025-12-18,Machakos Level 4 Hospital,Completed,2025-12-24
+R-000102,V-0002095,CL-000789,CHU-KSM-03,Kisumu,Malaria_Case,Severe malaria danger sign,2025-05-29,Kisumu Sub-County Hospital,Yes,2025-05-31
+R-000789,V-0019640,CL-007586,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-23,Kisumu Referral Health Centre,not_completed,
+R-000946,V-0023634,CL-009100,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-07-16,Kakamega Level 4 Hospital,0,
+R-000398,V-0009162,CL-003537,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-09-07,Nyeri Sub-County Hospital,Not completed,
+R-000888,V-0022028,CL-008450,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-12-18,Kakamega Level 4 Hospital,N/A,
+R-000566,V-0013792,CL-005328,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-06-02,Kakamega Referral Health Centre,Yes,2025-06-07
+R-000668,V-0016531,CL-006353,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-14,Kakamega Level 4 Hospital,unknown,
+R-000996,V-0024910,CL-009605,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-12-19,Bungoma Referral Health Centre,Completed,2025-12-29
+R-000772,V-0019196,CL-007389,CHU-MCK-02,Machakos,ANC,ANC danger sign,2025-10-10,Machakos Level 4 Hospital,completed,2025-10-11
+R-000331,V-0007480,CL-002860,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-12-10,Bungoma Referral Health Centre,NA,
+R-000453,V-0010843,CL-004172,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-05-23,Kakamega Level 4 Hospital,Yes,2025-05-31
+R-000599,V-0014611,CL-005616,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-25,Nyeri Referral Health Centre,Completed,2025-05-27
+R-000735,V-0018282,CL-007055,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-02-22,Kakamega Level 4 Hospital,yes,2025-02-26
+R-000366,V-0008283,CL-003157,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-07-02,Kisumu Sub-County Hospital,Yes,2025-07-08
+R-000282,V-0006247,CL-002373,CHU-KSM-01,Kisumu,PNC,PNC danger sign,2025-09-25,Kisumu Referral Health Centre,0,
+R-000867,V-0021268,CL-008172,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-12-31,Nyeri Level 4 Hospital,Completed,2026-01-08
+R-000782,V-0019470,CL-007495,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-04-23,Kilifi Level 4 Hospital,Completed,2025-04-27
+R-000814,V-0020035,CL-007719,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-04-27,Bungoma Level 4 Hospital,Unknown,
+R-000854,V-0020994,CL-008075,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-26,Kakamega Level 4 Hospital,completed,2025-10-31
+R-000464,V-0011137,CL-004281,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-15,Kakamega Referral Health Centre,Not Completed,
+R-000800,V-0019864,CL-007663,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-09,Kilifi Referral Health Centre,1,2025-08-14
+R-000208,V-0004717,CL-001801,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-10-28,Kakamega Level 4 Hospital,Yes,2025-11-03
+R-000514,V-0012450,CL-004807,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-09,Kakamega Level 4 Hospital,Not completed,
+R-000219,V-0005044,CL-001926,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-09,Kilifi Level 4 Hospital,1,2025-10-11
+R-000240,V-0005371,CL-002026,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-11-22,Kilifi Referral Health Centre,Yes,2025-11-25
+R-000964,V-0024220,CL-009339,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-06-18,Kakamega Sub-County Hospital,0,
+R-000356,V-0008032,CL-003057,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-09-10,Nyeri Level 4 Hospital,Completed,2025-09-15
+R-000565,V-0013772,CL-005311,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-02-26,Bungoma Sub-County Hospital,not_completed,
+R-000193,V-0004405,CL-001690,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-04-06,Bungoma Sub-County Hospital,yes,2025-04-08
+R-000281,V-0006219,CL-002361,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-05-14,Kisumu Level 4 Hospital,completed,2025-05-21
+R-000192,V-0004402,CL-001686,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-02-09,Kakamega Sub-County Hospital,1,2025-02-11
+R-000408,V-0009353,CL-003611,CHU-MCK-03,Machakos,Malnutrition_Screening,SAM classification,2025-11-05,Machakos Referral Health Centre,1,2025-11-08
+R-000431,V-0009959,CL-003846,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-11-03,Bungoma Referral Health Centre,not_completed,
+R-000686,V-0017016,CL-006551,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-11-13,Kakamega Level 4 Hospital,N/A,
+R-000133,V-0002857,CL-001075,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-09-30,Nyeri Referral Health Centre,Unknown,
+R-000708,V-0017586,CL-006773,CHU-BGM-01,Bungoma,PNC,PNC danger sign,2025-08-03,Bungoma Level 4 Hospital,not_completed,
+R-000524,V-0012735,CL-004928,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-06-16,Kakamega Sub-County Hospital,completed,2025-06-26
+R-000253,V-0005673,CL-002145,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-06-01,Bungoma Level 4 Hospital,completed,2025-06-03
+R-000721,V-0017911,CL-006899,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-06-25,Nyeri Sub-County Hospital,Not completed,
+R-000552,V-0013498,CL-005202,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-07-04,Nyeri Referral Health Centre,yes,2025-07-13
+R-000264,V-0005900,CL-002225,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-14,Nyeri Referral Health Centre,completed,2025-10-17
+R-000071,V-0001501,CL-000572,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-07-17,Kilifi Referral Health Centre,1,2025-07-22
+R-000273,V-0006078,CL-002295,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-12-08,Nyeri Sub-County Hospital,NA,
+R-000113,V-0002331,CL-000879,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-20,Bungoma Sub-County Hospital,yes,2025-06-30
+R-000328,V-0007338,CL-002802,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-09-30,Kilifi Referral Health Centre,1,2025-10-10
+R-000116,V-0002401,CL-000913,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-11-23,Nyeri Sub-County Hospital,No,
+R-000324,V-0007234,CL-002774,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-06-21,Kisumu Level 4 Hospital,NA,
+R-001026,V-0025633,CL-009900,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-08-30,Nyeri Referral Health Centre,yes,2025-09-09
+R-000868,V-0021310,CL-008189,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-03-11,Kakamega Level 4 Hospital,Yes,2025-03-12
+R-000424,V-0009793,CL-003797,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-04-14,Nyeri Sub-County Hospital,Yes,2025-04-21
+R-000906,V-0022481,CL-008651,CHU-KAK-03,Kakamega,PNC,PNC danger sign,2025-01-30,Kakamega Referral Health Centre,NA,
+R-000835,V-0020570,CL-007918,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-03-18,Bungoma Referral Health Centre,Unknown,
+R-000948,V-0023652,CL-009114,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-09,Bungoma Sub-County Hospital,Not completed,
+R-000516,V-0012469,CL-004813,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-10-26,Nyeri Sub-County Hospital,Not completed,
+R-000531,V-0012937,CL-004995,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-01-28,Bungoma Sub-County Hospital,Completed,2025-02-07
+R-000603,V-0014653,CL-005627,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-03-05,Nyeri Sub-County Hospital,No,
+R-000755,V-0018906,CL-007264,CHU-KLF-03,Kilifi,Malnutrition_Screening,SAM classification,2025-09-30,Kilifi Sub-County Hospital,1,2025-10-09
+R-000654,V-0016051,CL-006171,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-07-26,Kisumu Sub-County Hospital,not_completed,
+R-000279,V-0006136,CL-002319,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-05-19,Kisumu Sub-County Hospital,not_completed,
+R-000840,V-0020628,CL-007940,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-08-04,Kakamega Referral Health Centre,completed,2025-08-13
+R-000695,V-0017189,CL-006618,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-08-07,Kakamega Level 4 Hospital,No,
+R-000003,V-0000029,CL-000017,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-07-07,Nyeri Level 4 Hospital,Yes,2025-07-16
+R-000230,V-0005249,CL-001985,CHU-MCK-01,Machakos,ANC,ANC danger sign,2025-07-27,Machakos Level 4 Hospital,1,2025-07-29
+R-000504,V-0012216,CL-004708,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-08-12,Kilifi Referral Health Centre,Yes,2025-08-19
+R-000991,V-0024789,CL-009551,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-08-15,Nyeri Sub-County Hospital,completed,2025-08-16
+R-000869,V-0021329,CL-008196,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-08-09,Kisumu Sub-County Hospital,completed,2025-08-13
+R-000915,V-0022648,CL-008718,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-09-10,Bungoma Sub-County Hospital,yes,2025-09-15
+R-000619,V-0015080,CL-005781,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-03,Nyeri Referral Health Centre,No,
+R-000200,V-0004567,CL-001743,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-06-22,Nyeri Level 4 Hospital,Unknown,
+R-000372,V-0008427,CL-003226,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-10-28,Kilifi Level 4 Hospital,yes,2025-11-03
+R-000917,V-0022717,CL-008752,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-03-22,Nyeri Sub-County Hospital,Completed,2025-03-30
+R-001038,V-0025914,CL-009996,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-09-28,Kakamega Level 4 Hospital,Yes,2025-10-05
+R-000438,V-0010260,CL-003952,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-01-19,Kakamega Referral Health Centre,completed,2025-01-26
+R-000656,V-0016089,CL-006188,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-12-31,Kilifi Sub-County Hospital,Not Completed,
+R-000066,V-0001397,CL-000540,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-12,Bungoma Referral Health Centre,yes,2025-03-22
+R-000308,V-0006992,CL-002677,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-05-19,Kakamega Referral Health Centre,Yes,2025-05-21
+R-000041,V-0000955,CL-000379,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-04-20,Nyeri Sub-County Hospital,yes,2025-04-21
+R-000591,V-0014387,CL-005526,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-03,Kilifi Referral Health Centre,Completed,2025-11-10
+R-000795,V-0019714,CL-007612,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-10-04,Kakamega Referral Health Centre,not_completed,
+R-000697,V-0017193,CL-006618,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-12-19,Kakamega Sub-County Hospital,Completed,2025-12-22
+R-000505,V-0012253,CL-004725,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-05-24,Nyeri Sub-County Hospital,Not completed,
+R-000542,V-0013221,CL-005099,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-08-15,Nyeri Level 4 Hospital,1,2025-08-21
+R-001010,V-0025198,CL-009719,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-10-15,Nyeri Referral Health Centre,Yes,2025-10-21
+R-000604,V-0014682,CL-005635,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-02-07,Nyeri Referral Health Centre,yes,2025-02-17
+R-000274,V-0006086,CL-002304,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-10-13,Nyeri Level 4 Hospital,Completed,2025-10-19
+R-000745,V-0018591,CL-007158,CHU-MCK-01,Machakos,Malnutrition_Screening,SAM classification,2025-03-20,Machakos Referral Health Centre,yes,2025-03-26
+R-000702,V-0017375,CL-006680,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-04-24,Bungoma Referral Health Centre,0,
+R-000687,V-0017056,CL-006563,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-07-02,Kakamega Referral Health Centre,completed,2025-07-06
+R-000865,V-0021194,CL-008145,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-10,Bungoma Sub-County Hospital,completed,2025-03-20
+R-000178,V-0003919,CL-001495,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-09-12,Nyeri Level 4 Hospital,,2025-09-22
+R-000301,V-0006832,CL-002592,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-06-21,Kakamega Referral Health Centre,NA,
+R-000038,V-0000826,CL-000316,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-24,Nyeri Sub-County Hospital,Not Completed,
+R-000354,V-0007970,CL-003037,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-04-30,Kakamega Sub-County Hospital,Yes,2025-05-08
+R-000203,V-0004617,CL-001767,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-04-24,Kakamega Level 4 Hospital,Not Completed,
+R-000237,V-0005346,CL-002012,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-08-12,Kisumu Level 4 Hospital,Not completed,
+R-000150,V-0003237,CL-001222,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-06-17,Machakos Level 4 Hospital,Not Completed,
+R-000725,V-0018080,CL-006974,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-06-20,Nyeri Level 4 Hospital,completed,2025-06-29
+R-000448,V-0010680,CL-004106,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-06-04,Kisumu Sub-County Hospital,completed,2025-06-12
+R-000218,V-0004967,CL-001893,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-06-14,Nyeri Level 4 Hospital,1,2025-06-18
+R-000723,V-0017934,CL-006908,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-12,Nyeri Level 4 Hospital,Not Completed,
+R-000474,V-0011586,CL-004449,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-06-21,Kakamega Level 4 Hospital,Yes,2025-06-27
+R-000588,V-0014356,CL-005513,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-19,Kakamega Referral Health Centre,1,2025-11-21
+R-000653,V-0015989,CL-006155,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-11-09,Nyeri Referral Health Centre,,
+R-000733,V-0018259,CL-007043,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-07-12,Kilifi Referral Health Centre,completed,2025-07-15
+R-000303,V-0006902,CL-002625,CHU-NYR-03,Nyeri,PNC,PNC danger sign,2025-08-14,Nyeri Sub-County Hospital,1,2025-08-16
+R-000914,V-0022579,CL-008693,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-10-12,Kakamega Sub-County Hospital,Completed,2025-10-14
+R-000978,V-0024578,CL-009479,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-16,Kilifi Sub-County Hospital,NA,
+R-000717,V-0017765,CL-006854,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-07-31,Kilifi Referral Health Centre,Not completed,
+R-000986,V-0024683,CL-009518,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-16,Kilifi Level 4 Hospital,Completed,2025-11-22
+R-000389,V-0008869,CL-003393,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-12-16,Kakamega Level 4 Hospital,completed,2025-12-24
+R-000479,V-0011670,CL-004478,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-17,Kakamega Sub-County Hospital,1,2025-10-19
+R-000492,V-0012006,CL-004614,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-02-06,Nyeri Referral Health Centre,,2025-02-14
+R-000423,V-0009756,CL-003782,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-09-08,Machakos Referral Health Centre,completed,2025-09-16
+R-000388,V-0008852,CL-003387,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-04-27,Kakamega Level 4 Hospital,N/A,
+R-000860,V-0021115,CL-008120,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-09-14,Bungoma Level 4 Hospital,N/A,
+R-000391,V-0008963,CL-003439,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-10-22,Kilifi Referral Health Centre,1,2025-10-19
+R-000535,V-0012999,CL-005018,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-01-27,Kakamega Level 4 Hospital,No,
+R-000353,V-0007913,CL-003011,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-09-15,Kisumu Sub-County Hospital,Yes,2025-09-24
+R-000194,V-0004411,CL-001694,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-13,Bungoma Level 4 Hospital,NA,
+R-000236,V-0005336,CL-002010,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-12-22,Kisumu Level 4 Hospital,completed,2025-12-25
+R-000770,V-0019186,CL-007381,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-08-22,Nyeri Sub-County Hospital,Completed,2025-08-25
+R-000890,V-0022063,CL-008469,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-23,Nyeri Level 4 Hospital,Completed,2025-10-26
+R-000481,V-0011807,CL-004536,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-12-30,Nyeri Referral Health Centre,Completed,2026-01-02
+R-000056,V-0001213,CL-000477,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-12-16,Kakamega Referral Health Centre,NA,
+R-000117,V-0002420,CL-000918,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-16,Nyeri Sub-County Hospital,not_completed,
+R-000097,V-0002055,CL-000774,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-07-27,Kakamega Referral Health Centre,not_completed,
+R-000142,V-0003026,CL-001139,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-09-05,Machakos Referral Health Centre,yes,2025-09-14
+R-000958,V-0024100,CL-009296,CHU-KLF-03,Kilifi,ANC,ANC danger sign,2025-12-17,Kilifi Level 4 Hospital,yes,2025-12-27
+R-000918,V-0022730,CL-008754,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-05-30,Nyeri Sub-County Hospital,NA,
+R-000636,V-0015572,CL-005979,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-09-12,Kakamega Sub-County Hospital,completed,2025-09-14
+R-000598,V-0014610,CL-005615,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-10-02,Nyeri Sub-County Hospital,Not completed,
+R-000674,V-0016652,CL-006411,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-08,Nyeri Referral Health Centre,Completed,2025-05-13
+R-000121,V-0002520,CL-000962,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-05-14,Kilifi Level 4 Hospital,yes,2025-05-16
+R-000811,V-0019986,CL-007705,CHU-MCK-01,Machakos,Malnutrition_Screening,SAM classification,2025-07-28,Machakos Level 4 Hospital,1,2025-08-01
+R-001022,V-0025527,CL-009864,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-10,Kakamega Level 4 Hospital,1,2025-05-12
+R-001006,V-0025156,CL-009704,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-02-16,Kilifi Referral Health Centre,No,
+R-000063,V-0001296,CL-000515,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-07-17,Kisumu Referral Health Centre,yes,2025-07-26
+R-000809,V-0019957,CL-007691,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-26,Nyeri Referral Health Centre,Yes,2026-01-04
+R-001002,V-0025066,CL-009664,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-11-25,Kilifi Level 4 Hospital,NA,
+R-000454,V-0010875,CL-004181,CHU-MCK-01,Machakos,Malnutrition_Screening,SAM classification,2025-02-02,Machakos Level 4 Hospital,Yes,2025-02-04
+R-000780,V-0019395,CL-007460,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-12-10,Bungoma Referral Health Centre,completed,2025-12-11
+R-000415,V-0009524,CL-003669,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-07-14,Nyeri Level 4 Hospital,yes,2025-07-23
+R-000004,V-0000041,CL-000019,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-13,Nyeri Referral Health Centre,Yes,2025-11-23
+R-000059,V-0001273,CL-000504,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-11,Kakamega Referral Health Centre,1,2025-11-13
+R-000224,V-0005160,CL-001959,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-16,Nyeri Sub-County Hospital,yes,2025-12-20
+R-000222,V-0005119,CL-001941,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-10-02,Nyeri Referral Health Centre,,
+R-000466,V-0011210,CL-004316,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-06-21,Kilifi Referral Health Centre,Yes,2025-06-30
+R-000053,V-0001142,CL-000456,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-03-20,Kakamega Level 4 Hospital,yes,2025-03-21
+R-000486,V-0011911,CL-004580,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-11-23,Bungoma Level 4 Hospital,completed,2025-11-28
+R-000969,V-0024342,CL-009392,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-01-07,Kakamega Referral Health Centre,1,2025-01-12
+R-000709,V-0017599,CL-006776,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-03-29,Kakamega Referral Health Centre,Yes,2025-04-06
+R-000156,V-0003386,CL-001283,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-19,Kakamega Referral Health Centre,completed,2025-11-21
+R-000707,V-0017566,CL-006768,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-10-27,Bungoma Referral Health Centre,Yes,2025-11-02
+R-000683,V-0016866,CL-006504,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-03-04,Kilifi Referral Health Centre,Completed,2025-03-12
+R-000249,V-0005548,CL-002087,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-05-28,Kilifi Sub-County Hospital,not_completed,
+R-000442,V-0010536,CL-004053,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-05-22,Kilifi Level 4 Hospital,N/A,
+R-000904,V-0022422,CL-008635,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-01-09,Bungoma Level 4 Hospital,Not completed,
+R-000118,V-0002445,CL-000928,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-25,Nyeri Referral Health Centre,Yes,2025-08-31
+R-000569,V-0013914,CL-005383,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-25,Kilifi Sub-County Hospital,Yes,2025-10-28
+R-000925,V-0022889,CL-008817,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-09-30,Nyeri Sub-County Hospital,completed,2025-10-08
+R-000292,V-0006677,CL-002550,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-09-05,Bungoma Referral Health Centre,yes,2025-09-14
+R-000382,V-0008670,CL-003326,CHU-KAK-01,Kakamega,PNC,PNC danger sign,2025-03-09,Kakamega Referral Health Centre,0,
+R-000952,V-0023864,CL-009195,CHU-KSM-03,Kisumu,Malnutrition_Screening,SAM classification,2025-08-01,Kisumu Level 4 Hospital,0,
+R-000201,V-0004580,CL-001745,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-04-16,Kilifi Referral Health Centre,Completed,2025-04-24
+R-000762,V-0019026,CL-007317,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-04-18,Bungoma Level 4 Hospital,Yes,2025-04-21
+R-000963,V-0024207,CL-009334,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-12-15,Kakamega Referral Health Centre,yes,2025-12-24
+R-000506,V-0012260,CL-004728,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-12-11,Kakamega Referral Health Centre,Not completed,
+R-000815,V-0020047,CL-007722,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-04-16,Nyeri Level 4 Hospital,Completed,2025-04-12
+R-001041,V-0026002,CL-010033,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-04-28,Nyeri Sub-County Hospital,yes,2025-05-08
+R-000341,V-0007754,CL-002960,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-08,Nyeri Sub-County Hospital,yes,2025-12-14
+R-000155,V-0003380,CL-001281,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-03-16,Kakamega Sub-County Hospital,completed,2025-03-17
+R-000916,V-0022667,CL-008732,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-09-22,Kilifi Level 4 Hospital,yes,2025-09-24
+R-000595,V-0014489,CL-005574,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-21,Kakamega Referral Health Centre,Not Completed,
+R-000777,V-0019344,CL-007443,CHU-MCK-02,Machakos,ANC,ANC danger sign,2025-09-10,Machakos Sub-County Hospital,1,2025-09-16
+R-000838,V-0020599,CL-007926,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-11-29,Nyeri Referral Health Centre,1,2025-12-09
+R-000323,V-0007232,CL-002774,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-04-10,Kisumu Sub-County Hospital,1,2025-04-13
+R-000643,V-0015729,CL-006046,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-07-20,Nyeri Sub-County Hospital,Completed,2025-07-25
+R-000624,V-0015177,CL-005825,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-06-15,Kisumu Sub-County Hospital,Completed,2025-06-23
+R-000083,V-0001765,CL-000649,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-25,Kilifi Level 4 Hospital,Yes,2025-10-29
+R-000621,V-0015084,CL-005786,CHU-MCK-01,Machakos,PNC,PNC danger sign,2025-01-17,Machakos Level 4 Hospital,completed,2025-01-18
+R-000465,V-0011158,CL-004290,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-04-01,Nyeri Referral Health Centre,Completed,2025-04-03
+R-000761,V-0019025,CL-007315,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-06-13,Machakos Level 4 Hospital,Yes,2025-06-16
+R-001023,V-0025588,CL-009885,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-12-12,Kilifi Referral Health Centre,Yes,2025-12-17
+R-000334,V-0007569,CL-002888,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-04-11,Kisumu Sub-County Hospital,0,
+R-000011,V-0000138,CL-000044,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-17,Kisumu Referral Health Centre,Completed,2025-11-26
+R-000471,V-0011309,CL-004364,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-04-22,Kakamega Sub-County Hospital,N/A,
+R-000033,V-0000759,CL-000302,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-12-08,Nyeri Level 4 Hospital,completed,2025-12-17
+R-000819,V-0020108,CL-007752,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-06-24,Kakamega Referral Health Centre,Not Completed,
+R-000934,V-0023185,CL-008919,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-19,Bungoma Level 4 Hospital,Not Completed,
+R-000383,V-0008692,CL-003331,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-06,Nyeri Level 4 Hospital,,
+R-000726,V-0018135,CL-007007,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-23,Nyeri Referral Health Centre,not_completed,
+R-000631,V-0015420,CL-005924,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-18,Nyeri Referral Health Centre,completed,2025-05-28
+R-000959,V-0024149,CL-009313,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-11-22,Kilifi Sub-County Hospital,Yes,2025-12-02
+R-000968,V-0024285,CL-009364,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-09-08,Kakamega Sub-County Hospital,0,
+R-000379,V-0008590,CL-003295,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-03,Kakamega Referral Health Centre,Yes,2025-07-07
+R-000090,V-0001841,CL-000684,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-04,Kakamega Sub-County Hospital,1,2025-10-12
+R-000214,V-0004881,CL-001865,CHU-KAK-03,Kakamega,ANC,ANC danger sign,2025-07-20,Kakamega Sub-County Hospital,Completed,2025-07-25
+R-000987,V-0024699,CL-009522,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-25,Kakamega Level 4 Hospital,,
+R-000134,V-0002858,CL-001079,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-05-30,Machakos Sub-County Hospital,yes,2025-06-04
+R-000347,V-0007848,CL-002992,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-24,Nyeri Sub-County Hospital,yes,2025-12-03
+R-000670,V-0016565,CL-006368,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-09-27,Nyeri Sub-County Hospital,Yes,2025-09-30
+R-000008,V-0000084,CL-000031,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-09-22,Nyeri Sub-County Hospital,Completed,2025-10-02
+R-000658,V-0016098,CL-006196,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-05-29,Kisumu Level 4 Hospital,completed,2025-06-01
+R-000321,V-0007222,CL-002769,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-12-12,Kilifi Referral Health Centre,Not completed,
+R-000832,V-0020418,CL-007868,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-26,Kilifi Sub-County Hospital,yes,2025-10-28
+R-000188,V-0004356,CL-001671,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-10-04,Kilifi Referral Health Centre,yes,2025-10-12
+R-000553,V-0013538,CL-005218,CHU-KAK-03,Kakamega,PNC,PNC danger sign,2025-05-12,Kakamega Level 4 Hospital,completed,2025-05-22
+R-000305,V-0006927,CL-002635,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-09-17,Kakamega Referral Health Centre,NA,
+R-000032,V-0000758,CL-000302,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-11-24,Nyeri Referral Health Centre,Completed,2025-12-01
+R-000652,V-0015982,CL-006154,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-10-10,Nyeri Sub-County Hospital,1,2025-10-12
+R-000241,V-0005463,CL-002052,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-05-09,Kisumu Referral Health Centre,1,2025-05-10
+R-000880,V-0021724,CL-008348,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-04,Kilifi Sub-County Hospital,No,
+R-000175,V-0003882,CL-001486,CHU-BGM-03,Bungoma,PNC,PNC danger sign,2025-04-24,Bungoma Referral Health Centre,completed,2025-04-25
+R-000246,V-0005531,CL-002076,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-11-01,Kisumu Level 4 Hospital,Unknown,
+R-000057,V-0001235,CL-000491,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-07-22,Kilifi Level 4 Hospital,Completed,2025-07-26
+R-000799,V-0019855,CL-007659,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-12-07,Kilifi Level 4 Hospital,Completed,2025-12-08
+R-000146,V-0003107,CL-001176,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-11-25,Bungoma Level 4 Hospital,Yes,2025-12-05
+R-000091,V-0001867,CL-000692,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-10-03,Kilifi Sub-County Hospital,Completed,2025-10-11
+R-000393,V-0009016,CL-003455,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-03-12,Nyeri Level 4 Hospital,yes,2025-03-13
+R-000311,V-0007054,CL-002694,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-05-11,Nyeri Level 4 Hospital,1,2025-05-20
+R-000360,V-0008087,CL-003078,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-09-25,Nyeri Sub-County Hospital,unknown,
+R-000094,V-0001931,CL-000722,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-22,Kakamega Sub-County Hospital,1,2025-11-29
+R-000738,V-0018364,CL-007087,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-02-25,Kilifi Sub-County Hospital,completed,2025-03-04
+R-000930,V-0023066,CL-008885,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-11-12,Nyeri Level 4 Hospital,Not Completed,
+R-000377,V-0008497,CL-003262,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-09-02,Kakamega Referral Health Centre,not_completed,
+R-000244,V-0005514,CL-002071,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-08-14,Kakamega Sub-County Hospital,Not completed,
+R-000875,V-0021528,CL-008259,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-03-21,Nyeri Level 4 Hospital,Yes,2025-03-28
+R-000088,V-0001816,CL-000675,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-02-18,Kisumu Level 4 Hospital,yes,2025-02-24
+R-000215,V-0004885,CL-001866,CHU-KAK-03,Kakamega,ANC,ANC danger sign,2025-12-22,Kakamega Referral Health Centre,1,2025-12-24
+R-000445,V-0010645,CL-004087,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-08-27,Kisumu Level 4 Hospital,completed,2025-09-04
+R-000174,V-0003865,CL-001474,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-08-31,Kisumu Level 4 Hospital,completed,2025-09-10
+R-000426,V-0009839,CL-003807,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-12-06,Kakamega Level 4 Hospital,1,2025-12-15
+R-000823,V-0020145,CL-007769,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-06-26,Kakamega Referral Health Centre,1,2025-07-05
+R-000119,V-0002454,CL-000932,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-08-22,Kakamega Level 4 Hospital,Completed,2025-08-29
+R-000120,V-0002472,CL-000939,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-14,Kilifi Sub-County Hospital,Yes,2025-10-17
+R-000677,V-0016707,CL-006443,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-09-04,Kilifi Level 4 Hospital,completed,2025-09-14
+R-000001,V-0000026,CL-000017,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-05-20,Nyeri Referral Health Centre,1,2025-05-27
+R-000395,V-0009075,CL-003487,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-07-03,Bungoma Referral Health Centre,,
+R-000402,V-0009240,CL-003571,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-09-18,Kilifi Level 4 Hospital,Completed,2025-09-26
+R-000405,V-0009276,CL-003579,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-05-01,Bungoma Sub-County Hospital,0,
+R-000657,V-0016094,CL-006191,CHU-KSM-03,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-19,Kisumu Referral Health Centre,yes,2025-11-26
+R-000664,V-0016384,CL-006308,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-08-11,Nyeri Level 4 Hospital,1,2025-08-18
+R-000163,V-0003580,CL-001359,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-26,Kakamega Referral Health Centre,1,2025-12-02
+R-000115,V-0002396,CL-000911,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-12-28,Nyeri Sub-County Hospital,completed,2026-01-07
+R-000151,V-0003285,CL-001250,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-08-10,Nyeri Sub-County Hospital,Completed,2025-08-13
+R-000626,V-0015267,CL-005864,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-05-28,Kisumu Referral Health Centre,Completed,2025-05-30
+R-000628,V-0015300,CL-005873,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-06-21,Kakamega Level 4 Hospital,Yes,2025-06-29
+R-000774,V-0019214,CL-007395,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-06-21,Kakamega Sub-County Hospital,completed,2025-06-26
+R-000369,V-0008351,CL-003181,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-02-05,Nyeri Sub-County Hospital,0,
+R-000544,V-0013280,CL-005118,CHU-KSM-03,Kisumu,Malnutrition_Screening,SAM classification,2025-09-05,Kisumu Referral Health Centre,1,2025-09-15
+R-000478,V-0011626,CL-004464,CHU-NYR-01,Nyeri,Malnutrition_Screening,SAM classification,2025-12-24,Nyeri Referral Health Centre,Completed,2026-01-02
+R-000533,V-0012965,CL-005006,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-11-03,Nyeri Level 4 Hospital,Yes,2025-11-04
+R-000513,V-0012449,CL-004807,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-02-15,Kakamega Level 4 Hospital,completed,2025-02-19
+R-000861,V-0021135,CL-008128,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-12-13,Kilifi Sub-County Hospital,not_completed,
+R-001016,V-0025293,CL-009764,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-16,Nyeri Level 4 Hospital,yes,2025-10-24
+R-000259,V-0005794,CL-002183,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-26,Kakamega Sub-County Hospital,No,
+R-000625,V-0015228,CL-005849,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-09-11,Kilifi Sub-County Hospital,Completed,2025-09-19
+R-000898,V-0022304,CL-008592,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-06-17,Nyeri Referral Health Centre,Yes,2025-06-27
+R-000136,V-0002940,CL-001106,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-11-13,Kakamega Sub-County Hospital,completed,2025-11-21
+R-000617,V-0015034,CL-005772,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-06-07,Kisumu Level 4 Hospital,Completed,2025-06-11
+R-000982,V-0024639,CL-009498,CHU-MCK-01,Machakos,Malnutrition_Screening,SAM classification,2025-12-03,Machakos Referral Health Centre,No,
+R-000704,V-0017395,CL-006684,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-12-17,Bungoma Referral Health Centre,NA,
+R-000593,V-0014421,CL-005550,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-09-14,Kisumu Level 4 Hospital,Not completed,
+R-000846,V-0020738,CL-007986,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-03,Nyeri Level 4 Hospital,Completed,2025-05-11
+R-000502,V-0012211,CL-004704,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-12-14,Kilifi Referral Health Centre,completed,2025-12-20
+R-000539,V-0013158,CL-005070,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-03-23,Machakos Referral Health Centre,Completed,2025-03-25
+R-000713,V-0017692,CL-006828,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-04-04,Bungoma Level 4 Hospital,completed,2025-04-14
+R-000582,V-0014187,CL-005457,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-24,Nyeri Level 4 Hospital,Yes,2025-11-29
+R-000344,V-0007781,CL-002973,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-13,Kakamega Level 4 Hospital,yes,2025-04-23
+R-000752,V-0018827,CL-007233,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-04-21,Nyeri Level 4 Hospital,completed,2025-04-30
+R-000663,V-0016344,CL-006293,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-05-17,Nyeri Level 4 Hospital,completed,2025-05-20
+R-000294,V-0006688,CL-002556,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-05-23,Kisumu Level 4 Hospital,unknown,
+R-000365,V-0008278,CL-003151,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-09,Nyeri Sub-County Hospital,Yes,2025-10-19
+R-000669,V-0016563,CL-006367,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-25,Nyeri Sub-County Hospital,Unknown,
+R-000015,V-0000354,CL-000122,CHU-KLF-02,Kilifi,PNC,PNC danger sign,2025-09-21,Kilifi Referral Health Centre,completed,2025-09-23
+R-000087,V-0001796,CL-000666,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-12-29,Nyeri Level 4 Hospital,completed,2025-12-31
+R-000371,V-0008408,CL-003214,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-17,Kakamega Referral Health Centre,yes,2025-10-19
+R-000166,V-0003638,CL-001381,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-05-15,Bungoma Referral Health Centre,,2025-05-18
+R-000935,V-0023332,CL-008989,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-17,Nyeri Level 4 Hospital,yes,2025-11-26
+R-000336,V-0007664,CL-002933,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-05-04,Nyeri Referral Health Centre,Not Completed,
+R-000060,V-0001284,CL-000508,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-08,Nyeri Sub-County Hospital,1,2025-12-13
+R-000355,V-0008007,CL-003046,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-04-20,Kilifi Sub-County Hospital,1,2025-04-24
+R-000425,V-0009799,CL-003799,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-09-01,Kisumu Sub-County Hospital,Completed,2025-09-06
+R-000293,V-0006687,CL-002556,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-04-18,Kisumu Referral Health Centre,0,
+R-000042,V-0000984,CL-000389,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-28,Kilifi Level 4 Hospital,yes,2025-11-07
+R-000330,V-0007473,CL-002857,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-11-10,Kilifi Level 4 Hospital,completed,2025-11-11
+R-000615,V-0014984,CL-005751,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-06-04,Nyeri Sub-County Hospital,Yes,2025-06-07
+R-000430,V-0009958,CL-003846,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-09-28,Bungoma Level 4 Hospital,completed,2025-10-02
+R-000080,V-0001680,CL-000622,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-10-03,Machakos Level 4 Hospital,1,2025-10-07
+R-000029,V-0000727,CL-000289,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-21,Kakamega Level 4 Hospital,completed,2025-04-26
+R-000255,V-0005711,CL-002153,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-05-03,Kisumu Referral Health Centre,NA,
+R-000797,V-0019813,CL-007651,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-09-06,Kisumu Referral Health Centre,yes,2025-09-12
+R-000459,V-0011033,CL-004239,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-08-21,Nyeri Sub-County Hospital,yes,2025-08-22
+R-000384,V-0008706,CL-003332,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-06-20,Nyeri Level 4 Hospital,yes,2025-06-23
+R-000314,V-0007100,CL-002718,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-12-24,Kilifi Sub-County Hospital,,2025-12-26
+R-000085,V-0001777,CL-000658,CHU-NYR-01,Nyeri,Malnutrition_Screening,SAM classification,2025-01-06,Nyeri Sub-County Hospital,unknown,
+R-000575,V-0014092,CL-005426,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-09-11,Kakamega Level 4 Hospital,NA,
+R-000137,V-0002963,CL-001117,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-02-08,Kakamega Level 4 Hospital,completed,2025-02-11
+R-000112,V-0002320,CL-000875,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-08-12,Bungoma Level 4 Hospital,completed,2025-08-14
+R-000195,V-0004446,CL-001708,CHU-KSM-02,Kisumu,PNC,PNC danger sign,2025-09-05,Kisumu Sub-County Hospital,N/A,
+R-000179,V-0003938,CL-001502,CHU-KSM-03,Kisumu,PNC,PNC danger sign,2025-06-20,Kisumu Referral Health Centre,Not Completed,
+R-000939,V-0023477,CL-009036,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-05-21,Machakos Referral Health Centre,yes,2025-05-23
+R-000497,V-0012143,CL-004676,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-05-19,Kilifi Level 4 Hospital,Not completed,
+R-000130,V-0002726,CL-001025,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-06-11,Nyeri Referral Health Centre,Yes,2025-06-12
+R-000338,V-0007691,CL-002950,CHU-BGM-03,Bungoma,PNC,PNC danger sign,2025-10-21,Bungoma Level 4 Hospital,No,
+R-000609,V-0014800,CL-005681,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-04-06,Nyeri Level 4 Hospital,completed,2025-04-15
+R-000125,V-0002578,CL-000975,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-05-27,Kakamega Referral Health Centre,,
+R-001017,V-0025302,CL-009773,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-04-16,Bungoma Referral Health Centre,1,2025-04-23
+R-000227,V-0005235,CL-001982,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-10-02,Nyeri Referral Health Centre,1,2025-10-11
+R-000269,V-0005991,CL-002260,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-07-20,Kilifi Level 4 Hospital,1,2025-07-29
+R-000153,V-0003293,CL-001252,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-10-10,Bungoma Referral Health Centre,Completed,2025-10-19
+R-000585,V-0014259,CL-005482,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-24,Bungoma Referral Health Centre,completed,2025-07-03
+R-000104,V-0002189,CL-000831,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-14,Kilifi Referral Health Centre,completed,2025-08-22
+R-000594,V-0014431,CL-005552,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-10-03,Kisumu Sub-County Hospital,Yes,2025-10-06
+R-001036,V-0025887,CL-009989,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-10-29,Bungoma Sub-County Hospital,yes,2025-11-01
+R-000977,V-0024483,CL-009438,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-06-11,Kilifi Referral Health Centre,1,2025-06-16
+R-000228,V-0005237,CL-001982,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-12-16,Nyeri Sub-County Hospital,N/A,
+R-000937,V-0023398,CL-009006,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-02,Nyeri Sub-County Hospital,1,2025-05-03
+R-000302,V-0006891,CL-002621,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-09-05,Nyeri Level 4 Hospital,,
+R-000276,V-0006096,CL-002311,CHU-KSM-02,Kisumu,PNC,PNC danger sign,2025-02-16,Kisumu Referral Health Centre,Completed,2025-02-26
+R-000127,V-0002620,CL-000988,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-10,Bungoma Level 4 Hospital,1,2025-06-20
+R-000406,V-0009283,CL-003580,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-11-24,Bungoma Sub-County Hospital,,
+R-000684,V-0016898,CL-006513,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-08-09,Nyeri Referral Health Centre,Not Completed,
+R-000943,V-0023564,CL-009070,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-03-21,Nyeri Referral Health Centre,Completed,2025-03-29
+R-000037,V-0000818,CL-000314,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-08-17,Nyeri Sub-County Hospital,Unknown,
+R-000140,V-0003003,CL-001127,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-06-14,Kisumu Referral Health Centre,No,
+R-000304,V-0006908,CL-002628,CHU-MCK-03,Machakos,Malnutrition_Screening,SAM classification,2025-12-31,Machakos Sub-County Hospital,No,
+R-000268,V-0005984,CL-002258,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-09-21,Kilifi Level 4 Hospital,Yes,2025-09-30
+R-000534,V-0012980,CL-005010,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-10-16,Kakamega Referral Health Centre,N/A,
+R-000546,V-0013339,CL-005142,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-09-23,Bungoma Level 4 Hospital,No,
+R-000213,V-0004873,CL-001863,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-21,Kakamega Level 4 Hospital,Unknown,
+R-000469,V-0011233,CL-004327,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-03,Bungoma Level 4 Hospital,Completed,2025-03-06
+R-000199,V-0004553,CL-001739,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-10-26,Kakamega Sub-County Hospital,yes,2025-10-28
+R-000673,V-0016618,CL-006397,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-05-20,Nyeri Referral Health Centre,completed,2025-05-30
+R-000528,V-0012891,CL-004981,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-08-14,Kakamega Sub-County Hospital,completed,2025-08-18
+R-000676,V-0016667,CL-006415,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-09-06,Bungoma Sub-County Hospital,Yes,2025-09-13
+R-000975,V-0024446,CL-009430,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-11-18,Kilifi Sub-County Hospital,completed,2025-11-26
+R-000242,V-0005468,CL-002053,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-12-04,Kisumu Sub-County Hospital,yes,2025-12-11
+R-000343,V-0007761,CL-002966,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-08-18,Nyeri Referral Health Centre,Yes,2025-08-22
+R-000550,V-0013480,CL-005194,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-01-22,Kisumu Referral Health Centre,Yes,2025-01-27
+R-000387,V-0008803,CL-003367,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-07-04,Kisumu Sub-County Hospital,yes,2025-07-01
+R-000911,V-0022552,CL-008680,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-04,Nyeri Sub-County Hospital,yes,2025-10-12
+R-000207,V-0004712,CL-001801,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-05-13,Kakamega Sub-County Hospital,Not completed,
+R-000296,V-0006774,CL-002574,CHU-KSM-03,Kisumu,Malaria_Case,Severe malaria danger sign,2025-08-11,Kisumu Referral Health Centre,yes,2025-08-19
+R-000696,V-0017191,CL-006618,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-10-12,Kakamega Sub-County Hospital,unknown,
+R-000818,V-0020094,CL-007746,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-11-05,Machakos Sub-County Hospital,completed,2025-11-09
+R-000074,V-0001595,CL-000598,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-10-02,Kakamega Level 4 Hospital,Not completed,
+R-000793,V-0019681,CL-007595,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-07-15,Kisumu Referral Health Centre,Not Completed,
+R-000105,V-0002202,CL-000836,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-08-04,Kakamega Sub-County Hospital,not_completed,
+R-000734,V-0018265,CL-007047,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-11-24,Bungoma Referral Health Centre,Not completed,
+R-000756,V-0018910,CL-007265,CHU-KLF-03,Kilifi,Malnutrition_Screening,SAM classification,2025-12-18,Kilifi Level 4 Hospital,Unknown,
+R-001021,V-0025507,CL-009851,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-28,Kakamega Sub-County Hospital,Completed,2025-11-30
+R-000017,V-0000460,CL-000180,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-04-22,Kakamega Level 4 Hospital,1,2025-05-02
+R-000440,V-0010442,CL-004013,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-12,Nyeri Sub-County Hospital,Yes,2025-08-19
+R-000092,V-0001909,CL-000715,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-06,Nyeri Sub-County Hospital,Yes,2025-10-13
+R-000089,V-0001833,CL-000683,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-02-10,Kisumu Referral Health Centre,,2025-02-14
+R-000451,V-0010770,CL-004153,CHU-MCK-03,Machakos,PNC,PNC danger sign,2025-09-21,Machakos Sub-County Hospital,Completed,2025-10-01
+R-000718,V-0017792,CL-006864,CHU-MCK-01,Machakos,Malnutrition_Screening,SAM classification,2025-10-06,Machakos Referral Health Centre,Not completed,
+R-000103,V-0002120,CL-000802,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-07,Kisumu Level 4 Hospital,Completed,2025-11-08
+R-000239,V-0005365,CL-002024,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-11-21,Kilifi Level 4 Hospital,yes,2025-11-23
+R-000769,V-0019170,CL-007373,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-10-27,Kisumu Level 4 Hospital,1,2025-11-05
+R-000247,V-0005532,CL-002076,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-12-02,Kisumu Referral Health Centre,Completed,2025-12-04
+R-000821,V-0020138,CL-007768,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-09-19,Kakamega Level 4 Hospital,Completed,2025-09-20
+R-000158,V-0003453,CL-001317,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-12-24,Nyeri Referral Health Centre,Completed,2026-01-01
+R-000480,V-0011786,CL-004520,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-09,Kilifi Level 4 Hospital,1,2025-10-10
+R-000646,V-0015762,CL-006065,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-04,Kakamega Level 4 Hospital,Completed,2025-05-12
+R-000974,V-0024445,CL-009430,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-10-17,Kilifi Sub-County Hospital,Completed,2025-10-21
+R-000872,V-0021398,CL-008219,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-12-17,Kakamega Level 4 Hospital,0,
+R-000019,V-0000504,CL-000198,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-09-10,Kisumu Level 4 Hospital,1,2025-09-18
+R-000751,V-0018755,CL-007207,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-18,Kakamega Sub-County Hospital,completed,2025-04-26
+R-000122,V-0002528,CL-000963,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-05-23,Kilifi Level 4 Hospital,yes,2025-05-27
+R-000886,V-0021985,CL-008438,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-04-09,Kilifi Referral Health Centre,Completed,2025-04-15
+R-000750,V-0018746,CL-007205,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-10,Kakamega Level 4 Hospital,Completed,2025-10-15
+R-000275,V-0006091,CL-002309,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-12-01,Kisumu Level 4 Hospital,Yes,2025-12-05
+R-000434,V-0010079,CL-003890,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-09-18,Nyeri Sub-County Hospital,Completed,2025-09-22
+R-000951,V-0023825,CL-009175,CHU-MCK-02,Machakos,PNC,PNC danger sign,2025-05-22,Machakos Referral Health Centre,completed,2025-05-25
+R-000312,V-0007056,CL-002698,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-28,Kakamega Level 4 Hospital,Yes,2025-11-05
+R-000806,V-0019934,CL-007683,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-01-19,Nyeri Referral Health Centre,Yes,2025-01-27
+R-000902,V-0022393,CL-008620,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-02-07,Machakos Level 4 Hospital,Completed,2025-02-14
+R-000547,V-0013362,CL-005150,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-11,Nyeri Referral Health Centre,Completed,2025-11-16
+R-000182,V-0004077,CL-001549,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-03,Nyeri Sub-County Hospital,yes,2025-11-06
+R-000185,V-0004224,CL-001613,CHU-BGM-01,Bungoma,ANC,ANC danger sign,2025-12-30,Bungoma Level 4 Hospital,Yes,2026-01-02
+R-000407,V-0009343,CL-003609,CHU-MCK-03,Machakos,ANC,ANC danger sign,2025-09-13,Machakos Sub-County Hospital,completed,2025-09-22
+R-000720,V-0017812,CL-006871,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-11,Kakamega Level 4 Hospital,0,
+R-000607,V-0014732,CL-005659,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-03-21,Nyeri Referral Health Centre,No,
+R-000693,V-0017181,CL-006614,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-09-10,Bungoma Sub-County Hospital,yes,2025-09-12
+R-000521,V-0012633,CL-004895,CHU-KSM-03,Kisumu,Malnutrition_Screening,SAM classification,2025-10-11,Kisumu Referral Health Centre,completed,2025-10-13
+R-000381,V-0008649,CL-003319,CHU-KAK-03,Kakamega,PNC,PNC danger sign,2025-11-16,Kakamega Sub-County Hospital,0,
+R-000411,V-0009425,CL-003631,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-05-22,Nyeri Level 4 Hospital,Completed,2025-05-31
+R-000635,V-0015532,CL-005962,CHU-NYR-01,Nyeri,Malnutrition_Screening,SAM classification,2025-07-11,Nyeri Referral Health Centre,Unknown,
+R-000370,V-0008394,CL-003208,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-02-22,Kilifi Level 4 Hospital,yes,2025-02-26
+R-000859,V-0021106,CL-008116,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-11-17,Bungoma Referral Health Centre,unknown,
+R-000883,V-0021839,CL-008388,CHU-KAK-01,Kakamega,PNC,PNC danger sign,2025-07-21,Kakamega Sub-County Hospital,Yes,2025-07-31
+R-000801,V-0019880,CL-007665,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-06-22,Kakamega Referral Health Centre,Completed,2025-06-24
+R-000079,V-0001679,CL-000622,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-09-02,Machakos Referral Health Centre,completed,2025-09-11
+R-000574,V-0014080,CL-005423,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-05,Kakamega Sub-County Hospital,N/A,
+R-001028,V-0025685,CL-009918,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-01-23,Kakamega Referral Health Centre,completed,2025-01-27
+R-000638,V-0015592,CL-005991,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-09-22,Nyeri Referral Health Centre,0,
+R-000608,V-0014765,CL-005665,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-06-12,Kilifi Referral Health Centre,Completed,2025-06-13
+R-000843,V-0020667,CL-007950,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-10-25,Kilifi Referral Health Centre,1,2025-11-02
+R-000069,V-0001486,CL-000566,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-02-20,Kisumu Referral Health Centre,No,
+R-000881,V-0021800,CL-008378,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-05-08,Kakamega Level 4 Hospital,1,2025-05-11
+R-000980,V-0024605,CL-009490,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-21,Kilifi Sub-County Hospital,completed,2025-08-29
+R-000417,V-0009538,CL-003682,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-07-20,Nyeri Referral Health Centre,1,2025-07-22
+R-000790,V-0019657,CL-007590,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-02-14,Bungoma Sub-County Hospital,yes,2025-02-21
+R-000562,V-0013698,CL-005281,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-17,Bungoma Sub-County Hospital,0,
+R-000068,V-0001415,CL-000545,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-07-01,Machakos Sub-County Hospital,1,2025-07-03
+R-000537,V-0013030,CL-005027,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-10,Kisumu Level 4 Hospital,Completed,2025-11-19
+R-000078,V-0001677,CL-000622,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-04-11,Machakos Referral Health Centre,yes,2025-04-13
+R-000106,V-0002211,CL-000844,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-02,Kakamega Referral Health Centre,Completed,2025-11-04
+R-001043,V-0026069,CL-010067,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-05-26,Kisumu Sub-County Hospital,completed,2025-05-28
+R-000829,V-0020381,CL-007860,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-04-30,Kisumu Referral Health Centre,yes,2025-05-02
+R-000639,V-0015608,CL-005998,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-04-03,Kilifi Referral Health Centre,completed,2025-04-12
+R-000560,V-0013692,CL-005277,CHU-KLF-03,Kilifi,ANC,ANC danger sign,2025-10-21,Kilifi Sub-County Hospital,Yes,2025-10-24
+R-000808,V-0019956,CL-007689,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-06-01,Nyeri Level 4 Hospital,yes,2025-06-10
+R-000691,V-0017124,CL-006595,CHU-KAK-01,Kakamega,PNC,PNC danger sign,2025-06-14,Kakamega Referral Health Centre,1,2025-06-22
+R-001042,V-0026018,CL-010048,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-10-14,Kisumu Level 4 Hospital,Unknown,
+R-000995,V-0024896,CL-009602,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-07-04,Nyeri Level 4 Hospital,Completed,2025-07-05
+R-000922,V-0022784,CL-008776,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-08-08,Kilifi Sub-County Hospital,not_completed,
+R-000736,V-0018284,CL-007057,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-05-22,Kakamega Sub-County Hospital,0,
+R-000826,V-0020238,CL-007809,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-09-19,Nyeri Sub-County Hospital,No,
+R-000491,V-0012003,CL-004613,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-28,Nyeri Sub-County Hospital,N/A,
+R-001039,V-0025926,CL-010005,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-10-18,Kakamega Level 4 Hospital,completed,2025-10-20
+R-000894,V-0022179,CL-008522,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-12-10,Kisumu Sub-County Hospital,1,2025-12-11
+R-000606,V-0014730,CL-005659,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-09-03,Nyeri Referral Health Centre,Completed,2025-09-05
+R-000364,V-0008274,CL-003148,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-25,Nyeri Referral Health Centre,yes,2025-10-31
+R-000070,V-0001487,CL-000568,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-18,Bungoma Level 4 Hospital,1,2025-06-22
+R-000549,V-0013472,CL-005192,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-12-12,Kisumu Sub-County Hospital,completed,2025-12-19
+R-000161,V-0003565,CL-001354,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-07-24,Nyeri Level 4 Hospital,0,
+R-000012,V-0000186,CL-000058,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-07-11,Kisumu Level 4 Hospital,completed,2025-07-17
+R-000145,V-0003071,CL-001157,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-09-13,Bungoma Sub-County Hospital,Not completed,
+R-000518,V-0012516,CL-004836,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-12-22,Kisumu Level 4 Hospital,yes,2025-12-30
+R-000428,V-0009932,CL-003835,CHU-KSM-01,Kisumu,PNC,PNC danger sign,2025-08-09,Kisumu Level 4 Hospital,Completed,2025-08-11
+R-000640,V-0015632,CL-006007,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-08-05,Nyeri Referral Health Centre,completed,2025-08-15
+R-000177,V-0003901,CL-001489,CHU-KSM-03,Kisumu,Malaria_Case,Severe malaria danger sign,2025-10-11,Kisumu Level 4 Hospital,Yes,2025-10-16
+R-000441,V-0010459,CL-004022,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-08,Bungoma Sub-County Hospital,Not completed,
+R-000522,V-0012652,CL-004898,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-01-07,Bungoma Referral Health Centre,1,2025-01-09
+R-000923,V-0022795,CL-008783,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-08-24,Nyeri Referral Health Centre,yes,2025-08-31
+R-000999,V-0024982,CL-009639,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-09-02,Nyeri Level 4 Hospital,Unknown,
+R-000689,V-0017082,CL-006579,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-08-24,Kisumu Referral Health Centre,not_completed,
+R-000232,V-0005296,CL-001999,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-13,Nyeri Level 4 Hospital,yes,2025-05-14
+R-000211,V-0004769,CL-001822,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-07-31,Bungoma Sub-County Hospital,NA,
+R-000641,V-0015691,CL-006023,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-08-10,Kakamega Level 4 Hospital,completed,2025-08-20
+R-000144,V-0003069,CL-001157,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-01-26,Bungoma Level 4 Hospital,No,
+R-000754,V-0018900,CL-007263,CHU-KLF-03,Kilifi,Malnutrition_Screening,SAM classification,2025-04-02,Kilifi Level 4 Hospital,not_completed,
+R-000520,V-0012607,CL-004875,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-05-10,Kakamega Level 4 Hospital,Completed,2025-05-11
+R-000349,V-0007895,CL-003005,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-14,Nyeri Referral Health Centre,1,2025-11-17
+R-000299,V-0006816,CL-002587,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-04-14,Bungoma Referral Health Centre,Not completed,
+R-000767,V-0019109,CL-007354,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-04,Kakamega Sub-County Hospital,Yes,2025-04-12
+R-000429,V-0009941,CL-003837,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-01-27,Kisumu Referral Health Centre,completed,2025-02-04
+R-000613,V-0014907,CL-005720,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-03-11,Kilifi Level 4 Hospital,No,
+R-000985,V-0024678,CL-009518,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-08-10,Kilifi Level 4 Hospital,,2025-08-17
+R-000994,V-0024889,CL-009599,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-01-11,Nyeri Sub-County Hospital,,2025-01-19
+R-000009,V-0000085,CL-000031,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-11-04,Nyeri Level 4 Hospital,NA,
+R-000157,V-0003438,CL-001309,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-04-17,Bungoma Referral Health Centre,NA,
+R-000540,V-0013206,CL-005087,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-12-26,Kisumu Referral Health Centre,No,
+R-000507,V-0012262,CL-004729,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-08,Kakamega Referral Health Centre,completed,2025-07-16
+R-000437,V-0010219,CL-003933,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-01-11,Kakamega Referral Health Centre,1,2025-01-13
+R-000267,V-0005972,CL-002254,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-02-14,Bungoma Referral Health Centre,not_completed,
+R-000827,V-0020317,CL-007842,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-10-15,Nyeri Sub-County Hospital,Yes,2025-10-16
+R-000462,V-0011087,CL-004261,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-07-13,Bungoma Level 4 Hospital,1,2025-07-23
+R-000577,V-0014098,CL-005427,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-04-15,Kakamega Level 4 Hospital,0,
+R-000339,V-0007719,CL-002955,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-01-03,Nyeri Sub-County Hospital,Yes,2025-01-08
+R-000256,V-0005715,CL-002153,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-09-22,Kisumu Referral Health Centre,completed,2025-09-23
+R-000853,V-0020934,CL-008059,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-06-22,Kakamega Sub-County Hospital,Unknown,
+R-000901,V-0022350,CL-008607,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-27,Nyeri Sub-County Hospital,completed,2025-12-07
+R-000666,V-0016476,CL-006333,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-12,Nyeri Referral Health Centre,yes,2025-11-20
+R-000561,V-0013697,CL-005280,CHU-KLF-03,Kilifi,ANC,ANC danger sign,2025-11-30,Kilifi Referral Health Centre,yes,2025-12-01
+R-000209,V-0004752,CL-001817,CHU-KSM-03,Kisumu,Malnutrition_Screening,SAM classification,2025-05-13,Kisumu Level 4 Hospital,1,2025-05-19
+R-000288,V-0006463,CL-002459,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-25,Kakamega Referral Health Centre,Not completed,
+R-000002,V-0000027,CL-000017,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-06-01,Nyeri Level 4 Hospital,completed,2025-06-09
+R-000342,V-0007760,CL-002966,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-05-15,Nyeri Referral Health Centre,Completed,2025-05-23
+R-000270,V-0005996,CL-002260,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-12-28,Kilifi Level 4 Hospital,Not Completed,
+R-000266,V-0005971,CL-002252,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-11-08,Bungoma Referral Health Centre,Yes,2025-11-11
+R-000864,V-0021179,CL-008135,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-11-25,Bungoma Level 4 Hospital,1,2025-11-29
+R-000871,V-0021372,CL-008213,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-09-30,Nyeri Sub-County Hospital,1,2025-10-04
+R-000096,V-0002032,CL-000758,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-10-24,Bungoma Sub-County Hospital,,2025-11-01
+R-001027,V-0025682,CL-009917,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-03-24,Kakamega Level 4 Hospital,Not completed,
+R-000043,V-0000986,CL-000390,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-06-13,Kilifi Level 4 Hospital,Yes,2025-06-19
+R-001015,V-0025289,CL-009761,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-10-21,Nyeri Sub-County Hospital,Yes,2025-10-28
+R-000399,V-0009198,CL-003551,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-01-04,Kakamega Sub-County Hospital,,
+R-000884,V-0021855,CL-008392,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-05-31,Kilifi Referral Health Centre,Yes,2025-06-08
+R-000629,V-0015382,CL-005901,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-05-16,Kisumu Sub-County Hospital,Completed,2025-05-24
+R-000046,V-0001015,CL-000399,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-10-03,Bungoma Referral Health Centre,Not Completed,
+R-000162,V-0003573,CL-001356,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-06-15,Nyeri Level 4 Hospital,N/A,
+R-000728,V-0018147,CL-007015,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-03-28,Nyeri Level 4 Hospital,Completed,2025-03-30
+R-000630,V-0015390,CL-005902,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-08-01,Kakamega Sub-County Hospital,yes,2025-08-02
+R-000289,V-0006541,CL-002497,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-12-24,Kakamega Sub-County Hospital,completed,2025-12-27
+R-000590,V-0014383,CL-005523,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-12-20,Bungoma Referral Health Centre,completed,2025-12-28
+R-000970,V-0024357,CL-009397,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-09-27,Kilifi Referral Health Centre,Completed,2025-10-06
+R-001011,V-0025233,CL-009736,CHU-MCK-03,Machakos,Malaria_Case,Severe malaria danger sign,2025-07-18,Machakos Referral Health Centre,Completed,2025-07-24
+R-000576,V-0014096,CL-005427,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-11-11,Kakamega Level 4 Hospital,completed,2025-11-17
+R-000851,V-0020894,CL-008045,CHU-BGM-01,Bungoma,Malaria_Case,Severe malaria danger sign,2025-12-11,Bungoma Referral Health Centre,1,2025-12-19
+R-000316,V-0007148,CL-002729,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-05-30,Kilifi Level 4 Hospital,Completed,2025-06-07
+R-000944,V-0023581,CL-009074,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-09-25,Bungoma Level 4 Hospital,N/A,
+R-000231,V-0005264,CL-001987,CHU-MCK-01,Machakos,Malaria_Case,Severe malaria danger sign,2025-12-05,Machakos Sub-County Hospital,1,2025-12-12
+R-000810,V-0019981,CL-007701,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-05-17,Kisumu Referral Health Centre,N/A,
+R-000699,V-0017254,CL-006637,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-01-14,Kilifi Referral Health Centre,Unknown,
+R-000877,V-0021622,CL-008290,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-05-08,Nyeri Referral Health Centre,completed,2025-05-13
+R-000712,V-0017642,CL-006801,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-10,Kakamega Sub-County Hospital,N/A,
+R-000077,V-0001615,CL-000602,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-05-28,Kisumu Sub-County Hospital,No,
+R-000634,V-0015490,CL-005945,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-03-18,Kilifi Level 4 Hospital,NA,
+R-001030,V-0025752,CL-009946,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-09-14,Kakamega Level 4 Hospital,yes,2025-09-17
+R-000248,V-0005533,CL-002077,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-04-19,Kisumu Referral Health Centre,yes,2025-04-26
+R-000820,V-0020110,CL-007752,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-03-25,Kakamega Sub-County Hospital,N/A,
+R-000825,V-0020231,CL-007807,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-09-19,Kilifi Referral Health Centre,completed,2025-09-20
+R-000477,V-0011608,CL-004456,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-10-26,Nyeri Level 4 Hospital,yes,2025-11-05
+R-000671,V-0016566,CL-006368,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-11-03,Nyeri Referral Health Centre,Yes,2025-11-09
+R-000086,V-0001791,CL-000666,CHU-NYR-01,Nyeri,ANC,ANC danger sign,2025-07-17,Nyeri Referral Health Centre,yes,2025-07-25
+R-000470,V-0011262,CL-004332,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-06-07,Nyeri Level 4 Hospital,N/A,
+R-000226,V-0005215,CL-001978,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-04-22,Kakamega Sub-County Hospital,1,2025-04-28
+R-000775,V-0019261,CL-007409,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-12-30,Bungoma Sub-County Hospital,1,2026-01-06
+R-000332,V-0007511,CL-002870,CHU-MCK-03,Machakos,Malnutrition_Screening,SAM classification,2025-09-17,Machakos Sub-County Hospital,No,
+R-000234,V-0005317,CL-002005,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-12-20,Kilifi Level 4 Hospital,Completed,2025-12-27
+R-000589,V-0014358,CL-005513,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-11-16,Kakamega Level 4 Hospital,not_completed,
+R-000476,V-0011601,CL-004453,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-08-08,Nyeri Level 4 Hospital,1,2025-08-09
+R-001014,V-0025284,CL-009755,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-08-16,Kilifi Sub-County Hospital,0,
+R-000983,V-0024645,CL-009501,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-10-09,Machakos Referral Health Centre,not_completed,
+R-000600,V-0014615,CL-005617,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-06-14,Nyeri Referral Health Centre,completed,2025-06-23
+R-000422,V-0009735,CL-003778,CHU-MCK-02,Machakos,ANC,ANC danger sign,2025-04-13,Machakos Sub-County Hospital,1,2025-04-18
+R-000688,V-0017077,CL-006578,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-10-24,Kisumu Referral Health Centre,unknown,
+R-000183,V-0004128,CL-001565,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-04,Kakamega Referral Health Centre,Yes,2025-10-12
+R-000618,V-0015067,CL-005780,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-10-04,Nyeri Referral Health Centre,yes,2025-10-07
+R-000333,V-0007546,CL-002881,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-10-26,Kakamega Sub-County Hospital,0,
+R-000439,V-0010304,CL-003966,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-04-11,Kisumu Level 4 Hospital,1,2025-04-15
+R-000050,V-0001086,CL-000438,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-08-17,Kakamega Sub-County Hospital,Yes,2025-08-20
+R-000931,V-0023089,CL-008890,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-09-02,Kilifi Sub-County Hospital,completed,2025-09-05
+R-000006,V-0000058,CL-000025,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-02-24,Kakamega Sub-County Hospital,Yes,2025-02-28
+R-000530,V-0012912,CL-004987,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-02-17,Kisumu Level 4 Hospital,1,2025-02-27
+R-000235,V-0005324,CL-002007,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-07-03,Kilifi Referral Health Centre,Yes,2025-07-13
+R-000487,V-0011916,CL-004581,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-10-24,Bungoma Referral Health Centre,Not Completed,
+R-000960,V-0024164,CL-009317,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-12-26,Kakamega Referral Health Centre,yes,2025-12-27
+R-000498,V-0012149,CL-004676,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-12-01,Kilifi Referral Health Centre,completed,2025-12-03
+R-000885,V-0021910,CL-008416,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-01-04,Kilifi Referral Health Centre,yes,2025-01-10
+R-000954,V-0023887,CL-009216,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-02-19,Kisumu Referral Health Centre,yes,2025-02-28
+R-000107,V-0002237,CL-000848,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-04-20,Kakamega Referral Health Centre,Not completed,
+R-000444,V-0010613,CL-004077,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-09-14,Nyeri Level 4 Hospital,,2025-09-20
+R-000489,V-0011951,CL-004597,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-12-19,Kisumu Sub-County Hospital,No,
+R-000647,V-0015819,CL-006083,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-04-27,Kakamega Level 4 Hospital,No,
+R-000013,V-0000235,CL-000082,CHU-KAK-03,Kakamega,Malnutrition_Screening,SAM classification,2025-09-22,Kakamega Level 4 Hospital,completed,2025-09-27
+R-000739,V-0018469,CL-007120,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-02,Kakamega Sub-County Hospital,N/A,
+R-000727,V-0018142,CL-007012,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-17,Nyeri Sub-County Hospital,Not Completed,
+R-000191,V-0004387,CL-001677,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-04-03,Nyeri Referral Health Centre,Completed,2025-04-06
+R-001005,V-0025109,CL-009691,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-07-10,Nyeri Referral Health Centre,1,2025-07-11
+R-000833,V-0020485,CL-007890,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-04-03,Kilifi Level 4 Hospital,Completed,2025-04-13
+R-000283,V-0006270,CL-002384,CHU-KSM-01,Kisumu,Malaria_Case,Severe malaria danger sign,2025-08-17,Kisumu Referral Health Centre,Completed,2025-08-21
+R-000030,V-0000736,CL-000294,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-05-27,Kilifi Level 4 Hospital,yes,2025-06-06
+R-000170,V-0003799,CL-001448,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-12-20,Kakamega Level 4 Hospital,Completed,2025-12-30
+R-000181,V-0004029,CL-001534,CHU-BGM-03,Bungoma,ANC,ANC danger sign,2025-02-23,Bungoma Sub-County Hospital,1,2025-02-25
+R-000101,V-0002073,CL-000781,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-04-28,Kilifi Sub-County Hospital,N/A,
+R-000198,V-0004508,CL-001729,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-20,Kakamega Sub-County Hospital,0,
+R-000496,V-0012134,CL-004668,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-31,Kakamega Level 4 Hospital,unknown,
+R-000722,V-0017926,CL-006906,CHU-KSM-02,Kisumu,ANC,ANC danger sign,2025-08-27,Kisumu Sub-County Hospital,N/A,
+R-000648,V-0015880,CL-006109,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-07-09,Kakamega Level 4 Hospital,0,
+R-000045,V-0000996,CL-000391,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-09-16,Kilifi Level 4 Hospital,yes,2025-09-23
+R-000992,V-0024811,CL-009560,CHU-BGM-03,Bungoma,PNC,PNC danger sign,2025-09-20,Bungoma Sub-County Hospital,0,
+R-000711,V-0017641,CL-006801,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-06-11,Kakamega Referral Health Centre,Not completed,
+R-000374,V-0008447,CL-003239,CHU-BGM-01,Bungoma,PNC,PNC danger sign,2025-08-28,Bungoma Level 4 Hospital,N/A,
+R-000679,V-0016749,CL-006462,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-01-09,Nyeri Level 4 Hospital,completed,2025-01-17
+R-000940,V-0023508,CL-009045,CHU-KAK-03,Kakamega,ANC,ANC danger sign,2025-10-02,Kakamega Referral Health Centre,completed,2025-10-04
+R-000649,V-0015914,CL-006128,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-04-18,Bungoma Referral Health Centre,Completed,2025-04-25
+R-000798,V-0019839,CL-007657,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-03-18,Kakamega Referral Health Centre,completed,2025-03-20
+R-000848,V-0020869,CL-008033,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-10-13,Kilifi Referral Health Centre,Not completed,
+R-000461,V-0011075,CL-004253,CHU-KAK-03,Kakamega,Malaria_Case,Severe malaria danger sign,2025-08-21,Kakamega Sub-County Hospital,1,2025-08-25
+R-000909,V-0022514,CL-008667,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-21,Kilifi Sub-County Hospital,Not completed,
+R-000414,V-0009454,CL-003640,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-10-31,Kakamega Sub-County Hospital,1,2025-11-01
+R-000132,V-0002849,CL-001070,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-06-07,Nyeri Referral Health Centre,Not completed,
+R-000040,V-0000923,CL-000366,CHU-KSM-01,Kisumu,Malnutrition_Screening,SAM classification,2025-11-10,Kisumu Level 4 Hospital,not_completed,
+R-000435,V-0010148,CL-003912,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-10-02,Kilifi Level 4 Hospital,completed,2025-10-03
+R-000216,V-0004916,CL-001879,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-08-29,Kilifi Referral Health Centre,Completed,2025-09-03
+R-000556,V-0013638,CL-005255,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-01-06,Kakamega Sub-County Hospital,yes,2025-01-10
+R-000567,V-0013818,CL-005332,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-09-06,Kakamega Referral Health Centre,yes,2025-09-07
+R-000763,V-0019058,CL-007335,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-12-04,Kilifi Sub-County Hospital,Completed,2025-12-14
+R-000475,V-0011591,CL-004452,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-23,Nyeri Level 4 Hospital,yes,2025-05-26
+R-000457,V-0010964,CL-004209,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-02-26,Kisumu Referral Health Centre,completed,2025-03-05
+R-000812,V-0020013,CL-007716,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-11-15,Bungoma Level 4 Hospital,Yes,2025-11-17
+R-000261,V-0005871,CL-002213,CHU-KAK-03,Kakamega,ANC,ANC danger sign,2025-05-13,Kakamega Sub-County Hospital,Yes,2025-05-16
+R-000817,V-0020071,CL-007734,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-04-23,Bungoma Referral Health Centre,Yes,2025-05-03
+R-000036,V-0000784,CL-000310,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-02-20,Kakamega Sub-County Hospital,Not Completed,
+R-000828,V-0020358,CL-007850,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-07-18,Kakamega Level 4 Hospital,not_completed,
+R-000912,V-0022557,CL-008687,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-05-16,Bungoma Sub-County Hospital,NA,
+R-000310,V-0007008,CL-002682,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-05,Kakamega Level 4 Hospital,Yes,2025-04-12
+R-000277,V-0006104,CL-002312,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-03-14,Kisumu Referral Health Centre,yes,2025-03-20
+R-000637,V-0015577,CL-005982,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-07-25,Kakamega Level 4 Hospital,1,2025-07-27
+R-000655,V-0016077,CL-006177,CHU-BGM-02,Bungoma,PNC,PNC danger sign,2025-04-09,Bungoma Referral Health Centre,Yes,2025-04-19
+R-000623,V-0015126,CL-005807,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-12-23,Nyeri Level 4 Hospital,unknown,
+R-000836,V-0020578,CL-007921,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-17,Nyeri Referral Health Centre,unknown,
+R-000845,V-0020735,CL-007982,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-07-13,Kilifi Level 4 Hospital,0,
+R-000394,V-0009029,CL-003463,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-05-19,Kakamega Sub-County Hospital,Not completed,
+R-001001,V-0025039,CL-009661,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-05-11,Kilifi Referral Health Centre,completed,2025-05-14
+R-000108,V-0002240,CL-000848,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-03-02,Kakamega Level 4 Hospital,Completed,2025-03-06
+R-001008,V-0025188,CL-009715,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-10-02,Kakamega Referral Health Centre,Completed,2025-10-07
+R-000525,V-0012780,CL-004941,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-11-30,Kilifi Referral Health Centre,Yes,2025-12-08
+R-000785,V-0019552,CL-007537,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-04-09,Nyeri Referral Health Centre,NA,
+R-000048,V-0001053,CL-000416,CHU-KLF-01,Kilifi,PNC,PNC danger sign,2025-10-26,Kilifi Sub-County Hospital,completed,2025-11-04
+R-000955,V-0024067,CL-009285,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-06-21,Bungoma Sub-County Hospital,completed,2025-06-23
+R-000204,V-0004618,CL-001767,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-06-02,Kakamega Level 4 Hospital,1,2025-06-04
+R-000988,V-0024744,CL-009535,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-09-11,Kilifi Sub-County Hospital,No,
+R-000632,V-0015440,CL-005929,CHU-BGM-02,Bungoma,Malaria_Case,Severe malaria danger sign,2025-05-25,Bungoma Sub-County Hospital,Completed,2025-06-02
+R-000022,V-0000671,CL-000268,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-12-22,Kilifi Referral Health Centre,1,2025-12-25
+R-000403,V-0009243,CL-003573,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-06-11,Kilifi Sub-County Hospital,yes,2025-06-21
+R-000947,V-0023644,CL-009108,CHU-KSM-02,Kisumu,PNC,PNC danger sign,2025-07-30,Kisumu Sub-County Hospital,yes,2025-08-05
+R-000084,V-0001775,CL-000658,CHU-NYR-01,Nyeri,Malnutrition_Screening,SAM classification,2025-12-28,Nyeri Sub-County Hospital,Completed,2026-01-01
+R-000131,V-0002748,CL-001031,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-12-16,Bungoma Sub-County Hospital,completed,2025-12-17
+R-000416,V-0009526,CL-003669,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-09-23,Nyeri Referral Health Centre,1,2025-09-29
+R-000896,V-0022239,CL-008568,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-02-20,Kilifi Referral Health Centre,Yes,2025-03-01
+R-000842,V-0020652,CL-007944,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-01-08,Kakamega Referral Health Centre,Completed,2025-01-12
+R-000742,V-0018503,CL-007127,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-23,Kilifi Referral Health Centre,No,
+R-000698,V-0017232,CL-006627,CHU-KAK-02,Kakamega,Malaria_Case,Severe malaria danger sign,2025-10-24,Kakamega Referral Health Centre,1,2025-10-29
+R-000287,V-0006381,CL-002430,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-08-15,Kisumu Sub-County Hospital,,2025-08-16
+R-000124,V-0002574,CL-000974,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-06-26,Kakamega Referral Health Centre,yes,2025-07-04
+R-000034,V-0000770,CL-000306,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-08-23,Nyeri Sub-County Hospital,Completed,2025-09-01
+R-000788,V-0019633,CL-007581,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-01-17,Nyeri Sub-County Hospital,Completed,2025-01-27
+R-000517,V-0012496,CL-004825,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-12-22,Nyeri Referral Health Centre,completed,2025-12-24
+R-000924,V-0022852,CL-008805,CHU-KSM-03,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-15,Kisumu Sub-County Hospital,0,
+R-000020,V-0000515,CL-000202,CHU-NYR-02,Nyeri,Malnutrition_Screening,SAM classification,2025-05-31,Nyeri Level 4 Hospital,1,2025-06-05
+R-000989,V-0024754,CL-009536,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-10-08,Kilifi Level 4 Hospital,yes,2025-10-17
+R-000220,V-0005102,CL-001939,CHU-NYR-03,Nyeri,ANC,ANC danger sign,2025-05-21,Nyeri Referral Health Centre,unknown,
+R-000892,V-0022120,CL-008498,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-04-08,Kakamega Sub-County Hospital,yes,2025-04-14
+R-000580,V-0014176,CL-005455,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-11-10,Nyeri Level 4 Hospital,yes,2025-11-19
+R-000482,V-0011839,CL-004549,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-01-21,Nyeri Referral Health Centre,1,2025-01-28
+R-000932,V-0023142,CL-008903,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-08-28,Nyeri Level 4 Hospital,Completed,2025-08-30
+R-000357,V-0008043,CL-003058,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-11-10,Nyeri Level 4 Hospital,1,2025-11-20
+R-000662,V-0016319,CL-006280,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-10-03,Kakamega Referral Health Centre,completed,2025-10-07
+R-000225,V-0005177,CL-001962,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-04-15,Kakamega Sub-County Hospital,yes,2025-04-25
+R-000760,V-0018984,CL-007300,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-11-24,Bungoma Sub-County Hospital,1,2025-11-25
+R-000093,V-0001921,CL-000720,CHU-KSM-02,Kisumu,PNC,PNC danger sign,2025-10-11,Kisumu Sub-County Hospital,NA,
+R-000152,V-0003287,CL-001251,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-06-13,Nyeri Referral Health Centre,not_completed,
+R-001035,V-0025870,CL-009986,CHU-KAK-03,Kakamega,ANC,ANC danger sign,2025-08-22,Kakamega Sub-County Hospital,Not Completed,
+R-000318,V-0007160,CL-002741,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-10-07,Kisumu Referral Health Centre,completed,2025-10-10
+R-000449,V-0010711,CL-004125,CHU-KSM-03,Kisumu,ANC,ANC danger sign,2025-10-09,Kisumu Sub-County Hospital,Not completed,
+R-000804,V-0019919,CL-007679,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-04,Bungoma Level 4 Hospital,Yes,2025-03-07
+R-000746,V-0018610,CL-007163,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-01-10,Nyeri Referral Health Centre,N/A,
+R-000523,V-0012705,CL-004921,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-09-11,Nyeri Sub-County Hospital,1,2025-09-18
+R-000280,V-0006191,CL-002343,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-03-10,Kilifi Sub-County Hospital,1,2025-03-14
+R-000584,V-0014218,CL-005467,CHU-BGM-03,Bungoma,Malnutrition_Screening,SAM classification,2025-09-01,Bungoma Level 4 Hospital,Unknown,
+R-000765,V-0019085,CL-007343,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-10-31,Kilifi Referral Health Centre,No,
+R-000605,V-0014686,CL-005637,CHU-NYR-03,Nyeri,Malaria_Case,Severe malaria danger sign,2025-02-21,Nyeri Referral Health Centre,Not completed,
+R-001034,V-0025864,CL-009982,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-11-30,Kakamega Referral Health Centre,not_completed,
+R-000350,V-0007906,CL-003009,CHU-KSM-01,Kisumu,ANC,ANC danger sign,2025-12-27,Kisumu Referral Health Centre,NA,
+R-000928,V-0022989,CL-008851,CHU-BGM-01,Bungoma,Malnutrition_Screening,SAM classification,2025-12-18,Bungoma Sub-County Hospital,1,2025-12-27
+R-000375,V-0008480,CL-003256,CHU-KAK-01,Kakamega,ANC,ANC danger sign,2025-11-02,Kakamega Sub-County Hospital,Yes,2025-11-10
+R-000401,V-0009207,CL-003556,CHU-BGM-03,Bungoma,Malaria_Case,Severe malaria danger sign,2025-03-27,Bungoma Level 4 Hospital,1,2025-04-03
+R-000705,V-0017492,CL-006719,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-10-20,Kisumu Sub-County Hospital,1,2025-10-22
+R-000258,V-0005765,CL-002177,CHU-KLF-02,Kilifi,Malnutrition_Screening,SAM classification,2025-05-19,Kilifi Sub-County Hospital,yes,2025-05-25
+R-000945,V-0023620,CL-009092,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-22,Kilifi Sub-County Hospital,1,2025-11-29
+R-000852,V-0020916,CL-008052,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-08-14,Nyeri Referral Health Centre,yes,2025-08-15
+R-000073,V-0001593,CL-000598,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-07-20,Kakamega Sub-County Hospital,Unknown,
+R-000196,V-0004457,CL-001710,CHU-KLF-03,Kilifi,Malaria_Case,Severe malaria danger sign,2025-08-24,Kilifi Sub-County Hospital,yes,2025-08-26
+R-000484,V-0011854,CL-004554,CHU-KAK-02,Kakamega,PNC,PNC danger sign,2025-10-07,Kakamega Sub-County Hospital,Not Completed,
+R-000856,V-0021027,CL-008087,CHU-MCK-02,Machakos,Malaria_Case,Severe malaria danger sign,2025-10-03,Machakos Level 4 Hospital,Yes,2025-10-05
+R-000138,V-0002964,CL-001117,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-06-04,Kakamega Sub-County Hospital,1,2025-06-05
+R-000495,V-0012123,CL-004658,CHU-BGM-02,Bungoma,Malnutrition_Screening,SAM classification,2025-11-21,Bungoma Sub-County Hospital,completed,2025-11-30
+R-000773,V-0019203,CL-007391,CHU-MCK-02,Machakos,Malnutrition_Screening,SAM classification,2025-11-18,Machakos Referral Health Centre,Completed,2025-11-20
+R-000551,V-0013496,CL-005201,CHU-BGM-02,Bungoma,ANC,ANC danger sign,2025-03-23,Bungoma Level 4 Hospital,yes,2025-03-28
+R-000463,V-0011098,CL-004265,CHU-MCK-02,Machakos,PNC,PNC danger sign,2025-06-14,Machakos Level 4 Hospital,,2025-06-19
+R-000202,V-0004582,CL-001745,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-15,Kilifi Referral Health Centre,No,
+R-000313,V-0007099,CL-002718,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-11-17,Kilifi Sub-County Hospital,N/A,
+R-000291,V-0006613,CL-002521,CHU-NYR-02,Nyeri,PNC,PNC danger sign,2025-08-23,Nyeri Sub-County Hospital,completed,2025-08-30
+R-000764,V-0019083,CL-007342,CHU-KSM-02,Kisumu,Malaria_Case,Severe malaria danger sign,2025-09-10,Kisumu Sub-County Hospital,completed,2025-09-12
+R-000950,V-0023806,CL-009167,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-03-11,Kakamega Level 4 Hospital,not_completed,
+R-000184,V-0004185,CL-001589,CHU-KAK-02,Kakamega,ANC,ANC danger sign,2025-01-22,Kakamega Sub-County Hospital,N/A,
+R-001031,V-0025778,CL-009950,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-05-07,Kakamega Referral Health Centre,yes,2025-05-14
+R-000251,V-0005631,CL-002119,CHU-NYR-03,Nyeri,Malnutrition_Screening,SAM classification,2025-09-01,Nyeri Sub-County Hospital,N/A,
+R-000824,V-0020176,CL-007785,CHU-KLF-03,Kilifi,Malnutrition_Screening,SAM classification,2025-04-21,Kilifi Level 4 Hospital,unknown,
+R-000941,V-0023531,CL-009056,CHU-KLF-02,Kilifi,Malaria_Case,Severe malaria danger sign,2025-04-21,Kilifi Referral Health Centre,Yes,2025-04-30
+R-000392,V-0008968,CL-003440,CHU-KLF-01,Kilifi,ANC,ANC danger sign,2025-05-14,Kilifi Sub-County Hospital,Yes,2025-05-17
+R-000905,V-0022471,CL-008649,CHU-NYR-02,Nyeri,Malaria_Case,Severe malaria danger sign,2025-04-07,Nyeri Referral Health Centre,,
+R-000731,V-0018246,CL-007040,CHU-KLF-02,Kilifi,ANC,ANC danger sign,2025-04-23,Kilifi Referral Health Centre,Yes,2025-05-02
+R-000555,V-0013635,CL-005254,CHU-KAK-02,Kakamega,Malnutrition_Screening,SAM classification,2025-04-06,Kakamega Level 4 Hospital,Not completed,
+R-000367,V-0008289,CL-003158,CHU-KSM-02,Kisumu,Malnutrition_Screening,SAM classification,2025-07-15,Kisumu Referral Health Centre,0,
+R-000346,V-0007846,CL-002991,CHU-NYR-01,Nyeri,Malaria_Case,Severe malaria danger sign,2025-05-18,Nyeri Level 4 Hospital,completed,2025-05-28
+R-000536,V-0013025,CL-005023,CHU-KAK-01,Kakamega,Malaria_Case,Severe malaria danger sign,2025-04-14,Kakamega Referral Health Centre,,2025-04-24
+R-000920,V-0022767,CL-008772,CHU-KAK-01,Kakamega,Malnutrition_Screening,SAM classification,2025-04-13,Kakamega Level 4 Hospital,Not completed,
+R-000212,V-0004847,CL-001856,CHU-NYR-02,Nyeri,ANC,ANC danger sign,2025-02-18,Nyeri Level 4 Hospital,Not completed,
+R-000503,V-0012213,CL-004704,CHU-KLF-01,Kilifi,Malaria_Case,Severe malaria danger sign,2025-06-04,Kilifi Sub-County Hospital,Completed,2025-06-07
+R-000538,V-0013111,CL-005051,CHU-KLF-01,Kilifi,Malnutrition_Screening,SAM classification,2025-09-25,Kilifi Referral Health Centre,completed,2025-10-03
+R-000176,V-0003899,CL-001488,CHU-KSM-03,Kisumu,Malaria_Case,Severe malaria danger sign,2025-11-07,Kisumu Referral Health Centre,0,

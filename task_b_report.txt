@@ -1,0 +1,34 @@
+
+TASK B REPORT — PROGRAM PERFORMANCE ANALYSIS
+
+Scope:
+Analysis covers cleaned records from January 1, 2025 through December 31, 2025.
+
+B1 Malaria:
+There were 5,532 malaria visits, including 5,021 with a recorded RDT result.
+There were 1,796 positive RDT results and 1,627 positive cases with ACT dispensed.
+Overall RDT positivity was 35.8%, and ACT dispensing among positive cases was 90.6%.
+
+B2 Referrals:
+There were 1,046 referrals, of which 885 had known outcomes.
+671 referrals were completed.
+Overall completion was 75.8% among referrals with known outcomes.
+161 referrals had blank or unknown outcomes.
+
+By module, malaria had the highest completion rate at 78.8%.
+Malnutrition screening had the lowest completion rate at 72.3%.
+
+By county, Nyeri had the highest completion rate at 80.5%.
+Bungoma had the lowest completion rate at 72.0%.
+
+B3 CHV productivity:
+The top five CHVs by total visit volume were CHV-0021, CHV-0023,
+CHV-0022, CHV-0042, and CHV-0068.
+The top three CHVs were all assigned to Kakamega CHU 2.
+
+Recommendations:
+1. Review ACT dispensing gaps in lower-performing CHUs.
+2. Strengthen referral follow-up in Bungoma and Kakamega.
+3. Improve malnutrition referral tracking.
+4. Reduce missing and unknown referral outcomes.
+5. Review workload concentration among the highest-volume CHVs.

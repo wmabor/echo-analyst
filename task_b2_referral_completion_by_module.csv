@@ -1,0 +1,5 @@
+module_clean,total_referrals,completed_referrals,known_outcomes,unknown_or_missing_outcomes,completion_rate_pct
+Malaria_Case,345,231,293,52,78.839590443686
+ANC,332,215,282,50,76.24113475177306
+PNC,69,42,57,12,73.68421052631578
+Malnutrition_Screening,300,183,253,47,72.33201581027669

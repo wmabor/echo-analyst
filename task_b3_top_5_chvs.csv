@@ -1,0 +1,6 @@
+chw_id_clean,total_visits,active_months,first_active_month,last_active_month,average_visits_per_active_month,chw_name,chu_id_clean,chu_name,county
+CHV-0021,1232,12,2025-01,2025-12,102.66666666666667,Kiplagat Mburu,CHU-KAK-02,Kakamega CHU 2,Kakamega
+CHV-0023,1229,12,2025-01,2025-12,102.41666666666667,Kiplagat Kilonzo,CHU-KAK-02,Kakamega CHU 2,Kakamega
+CHV-0022,1205,12,2025-01,2025-12,100.41666666666667,Wanjiru Njoroge,CHU-KAK-02,Kakamega CHU 2,Kakamega
+CHV-0042,725,12,2025-01,2025-12,60.416666666666664,Mutua Simiyu,CHU-KLF-01,Kilifi CHU 1,Kilifi
+CHV-0068,719,12,2025-01,2025-12,59.916666666666664,Wairimu Kilonzo,CHU-NYR-02,Nyeri CHU 2,Nyeri

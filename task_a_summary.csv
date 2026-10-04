@@ -1,0 +1,24 @@
+issue,affected_records
+Duplicate visit IDs,0
+Duplicate referral IDs,0
+Duplicate client IDs,0
+Duplicate household IDs,0
+Duplicate CHU IDs,4
+Duplicate CHW IDs,0
+Invalid MUAC,64
+Invalid ANC contact number,0
+Invalid PNC visit number,0
+Visits outside 2025,103
+Referrals outside 2025,0
+Missing visit dates,0
+Missing referral dates,0
+Missing referral completion dates,356
+Visits with unknown CHU,0
+Visits with unknown CHW,0
+Visits with unknown client,80
+Referrals with unknown visit,0
+Referrals with unknown client,0
+Visit CHU differs from client CHU,80
+Visit CHU differs from CHW CHU,0
+Referral CHU differs from visit CHU,0
+Referral client differs from visit client,1
